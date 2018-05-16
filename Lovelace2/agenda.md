@@ -31,7 +31,6 @@ Format à respecter:
 - Jeudi 14/06/2018, "?",
 - Vendredi 15/06/2018, "?",
 
-
 ## Archive
 
 - Lundi 02/05/2018, "Parcours pédagogique", Alexandre Plennevaux, [lien vers le schéma](https://docs.google.com/drawings/d/1kKAMz1jTaK0-8Glg136j3T1C3kCKaq-gFEju1FxsVCs/edit)
