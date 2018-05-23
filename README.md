@@ -57,6 +57,7 @@ Via le terminal :
 
 ## Sujets potentiels 
 
+- gitignore
 - jQuery
 - VueJS
 - SVG
