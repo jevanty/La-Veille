@@ -5,7 +5,7 @@
 - pour le calendrier du 19/03 au 30/03/2018 : ***SARAH K.*** 
 - pour le calendrier du 16/04 au 30/04/2018 : ***GEOFFREY C.***
 - pour le calendrier du 02/05 au 18/05/2018 : **DAPHNE H.**
-- pour le calendrier du 01/06 au 15/06/2018 : ***MICHAEL B.:star:***
+- pour le calendrier du 01/06 au 22/06/2018 : ***MICHAEL B.:star:***
 
 Format à respecter:   
 
@@ -131,6 +131,32 @@ Format à respecter:
 | Ma 29/05 |Kévin | |
 | Me 30/05 | Steve | Processing |
 | Je 31/05 |Bryan | les api graphiques (directX et Vulkan) |
+
+### Juin
+
+| Quand         | Qui              | Quoi              |
+|:----------------:|:----------------:| ------------------:|
+| Ve 01/06 |  |  |
+| Lu 04/06 |  |  |
+| Ma 05/06 |  |  |
+| Me 06/06 |  |  |
+| Je 07/06 |  |  |
+| Ve 08/06 |  |  |
+| Lu 11/06 | Vacances | //// |
+| Ma 12/06 | Vacances | //// |
+| Me 13/06 | Vacances | //// |
+| Je 14/06 | Vacances | //// |
+| Ve 15/06 | Vacances | //// |
+| Lu 18/06 |  |  |
+| Ma 19/06 |  |  |
+| Me 20/06 |  |  |
+| Je 21/06 |  |  |
+| Ve 22/06 |  |  |
+| Lu 25/06 |  |  |
+| Ma 26/06 |  |  |
+| Me 27/06 |  |  |
+| Je 28/06 |  |  |
+| Ve 29/06 |  |  |
 
 <details> 
   <summary>Réserve </summary>
