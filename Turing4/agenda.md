@@ -123,7 +123,7 @@ Format à respecter:
 | Ve 18/05 | David| COLORS |
 | Lu 21/05 | Pentecôte | Pentecôte |
 | Ma 22/05 | Jérôme|le Shadow PC |
-| Me 23/05 | Sarah| |
+| Me 23/05 | Sarah| Le cahier de charges|
 | Je 24/05 | | |
 | Ve 25/05 | Sébastien| XXX |
 | Lu 28/05 |Geoffrey| |
@@ -166,6 +166,6 @@ Format à respecter:
 |Mignot	Morgan    | 2|
 |Hennaux	Philippe | 2|
 |Grotard	Romain   | 3|
-|Klewiec	Sarah    | 2|
+|Klewiec	Sarah    | 3|
 |Da Cruz-Matias	Sébatsien | 1|
 |Van Essche	Steve | 3|
