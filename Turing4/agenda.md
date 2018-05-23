@@ -129,7 +129,7 @@ Format à respecter:
 | Lu 28/05 |Geoffrey| |
 | Ma 29/05 |Kévin | |
 | Me 30/05 | Steve | Processing |
-| Je 31/05 | | |
+| Je 31/05 |Bryan | les api graphiques (directX et Vulkan) |
 
 <details> 
   <summary>Réserve </summary>
