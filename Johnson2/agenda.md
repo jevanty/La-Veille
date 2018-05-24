@@ -20,11 +20,7 @@
 
 - Lundi 21/05/2018 *Jour férié*
 - Mardi 22/05/2018 "*E-santé animale*", **Antoni Dalle Nogare**
-<<<<<<< HEAD
-- Mercredi 23/05/2018 "*Sujet à venir*", **Géraldine Winand**
-- Jeudi 24/05/2018 "*Arduino*", **Massimo Regaglia**
-=======
-- Mercredi 23/05/2018 "*Flexbox*", **Géraldine Winand**
+- Mercredi 23/05/2018 
 - Jeudi 24/05/2018 "*Sujet à venir*", **Massimo Regaglia**
 - Vendredi 25/05/2018 , "*Bayou: coding A.I.*", **Guillaume Deruwez**
 
@@ -37,5 +33,5 @@
 - Lundi 04/06/2018 "*Headset Emotive*", **Alexandre Infanti**
 - Mardi 05/06/2018 "*Sujet a venir*", **Liam Carlier**
 - Mercredi 06/06/2018 "*Sujet à venir*", **Thibault Gribaumont**
-- Jeudi 07/06/2018
+- Jeudi 07/06/2018 "*FLEXBOX*", **Géraldine Winand**
 - Vendredi 08/06/2018 "*Food Tech*", **Marie Louise Ogdoc**
