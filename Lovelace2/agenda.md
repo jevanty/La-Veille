@@ -9,7 +9,7 @@ Format à respecter:
 
 - Mardi 22/05/2018: "Le Revenu de Base Universel", Romain Vandevoorde
 - Mercredi 23/05/2018, "Découverte l'Inde", Sourech Bauts
-- Jeudi 24/05/2018, "Blockchain et gaming", (Quang) Son Le
+- Jeudi 24/05/2018, "Blockchain et gaming", (Quang) Son Le, liens utiles: https://www.youtube.com/watch?v=bBC-nXj3Ng4&feature=youtu.be(vulgarisation des crypto-monnaies), https://www.stateofthedapps.com/ (projets basés sur le blockchain), https://www.gamasutra.com/blogs/PaulGadi/20180305/315168/Insert_Token_How_The_Blockchain_Will_Revolutionize_The_GameIndustry.php (blockchaine et économie dans les jeux vidéo), https://www.usgamer.net/articles/blockchain-and-you-what-does-blockchain-even-do-for-video-games (article généraliste)
 - Vendredi 25/05/2018, "?", Sammuel JANSSENS
 - Lundi 28/05/2018 , "Chromebook" , Claudiu Cornea
 - Mardi 29/05/2018, "?", Liliane, Mamane
