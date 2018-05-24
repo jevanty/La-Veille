@@ -117,7 +117,7 @@ Format à respecter:
 | Me 09/05 | Claude | Gulp |
 | Je 10/05 | Ascension | Ascension |
 | Ve 11/05 | Ludo P | le language binaire
-| Lu 14/05 | Dorian | |
+| Lu 14/05 | Dorian | machine learning / deep learning |
 | Ma 15/05 | Sébastien | Gutenberg
 | Me 16/05 | Ludovic | Théorie des couleurs |
 | Je 17/05 | Daphné|
@@ -178,7 +178,7 @@ Format à respecter:
 |Muyshond	Daniel  | 2|
 |Haulin	Daphné    | 4|
 |Thewissen	David  | 3|
-|Collier	Dorian   | 2|
+|Collier	Dorian   | 3|
 |Manzi	Félicien   | 2|
 |Namêche	Félix    | 2|
 |Canivet	Geoffrey | 3|
