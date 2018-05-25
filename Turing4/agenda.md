@@ -136,7 +136,7 @@ Format à respecter:
 
 | Quand         | Qui              | Quoi              |
 |:----------------:|:----------------:| ------------------:|
-| Ve 01/06 | Arnaud | not defined |
+| Ve 01/06 | Arnaud | GitKraken|
 | Lu 04/06 |  |  |
 | Ma 05/06 |  |  |
 | Me 06/06 |  |  |
