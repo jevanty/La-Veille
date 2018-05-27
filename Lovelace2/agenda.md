@@ -9,20 +9,20 @@ Format à respecter:
 
 - Lundi 28/05/2018 , "Chromebook" , Claudiu Cornea
 - Mardi 29/05/2018, "?", Liliane, Mamane
-- Mercredi 30/05/2018, "?", Geoffrey Poelmans,
+- Mercredi 30/05/2018, "Eye tracking", Geoffrey Poelmans,
 - Jeudi 31/05/2018 , "?" ,  Andrea Pinna
 - Vendredi 01/06/2018 , "?" ,  Guillaume Bare
 - Lundi 04/06/2018 , "L'E-Sport" ,  Michael Tolis
 - Mardi 05/06/2018, "La Réalité Virtuelle" , Mico Latorre Gaëtano
-- Mercredi 06/06/2018, "?", Paul Henrot 
+- Mercredi 06/06/2018, "?", Paul Henrot
 - Jeudi 07/06/2018, "?", Mariane Niwemfura
 - Vendredi 08/06/2018, "?", Christophe Kwizera
 - Lundi 11/06/2018, "?", Julie Connerotte
 ----
-- Mardi 12/06/2018, "?", 
-- Mercredi 13/06/2018, "?", 
-- Jeudi 14/06/2018, "?", 
-- Vendredi 15/06/2018, "?", 
+- Mardi 12/06/2018, "?",
+- Mercredi 13/06/2018, "?",
+- Jeudi 14/06/2018, "?",
+- Vendredi 15/06/2018, "?",
 
 ## Archive
 
@@ -41,7 +41,7 @@ Format à respecter:
 - Mardi 22/05/2018: "Le Revenu de Base Universel", Romain Vandevoorde
 - Mercredi 23/05/2018, "Découverte l'Inde", Sourech Bauts
 - Jeudi 24/05/2018, "Blockchain et gaming", (Quang) Son Le, liens utiles: https://www.youtube.com/watch?v=bBC-nXj3Ng4&feature=youtu.be(vulgarisation des crypto-monnaies), https://www.stateofthedapps.com/ (projets basés sur le blockchain), https://www.gamasutra.com/blogs/PaulGadi/20180305/315168/Insert_Token_How_The_Blockchain_Will_Revolutionize_The_GameIndustry.php (blockchaine et économie dans les jeux vidéo), https://www.usgamer.net/articles/blockchain-and-you-what-does-blockchain-even-do-for-video-games (article généraliste)
-- Vendredi 25/05/2018, "Outils design", Sammuel JANSSENS 
+- Vendredi 25/05/2018, "Outils design", Sammuel JANSSENS
 	- [Slides](https://docs.google.com/presentation/u/2/d/1J-XPoF-dSrt5EgsjQINcoM78wmsUKWhbCd327wScQos/edit?ouid=100446203648814916150&usp=slides_home&ths=true)
 	- Inspiration layout
 		- [Pinterest](http://Pinterest.com)
