@@ -26,7 +26,7 @@
 
 - Lundi 28/05/2018 , "*Blockchain & Supply chain*", **Jesse Fumba**
 - Mardi 29/05/2018 "*Sujet à venir*", **Colombe Sechehaye**
-- Mercredi 30/05/2018 "*Sujet à venir*", **Eric Lavachery**
+- Mercredi 30/05/2018 "*Sujet à venir*", **Jordan Creyelman**
 - Jeudi 31/05/2018 "*Digital Footprint*", **Marco Bove**
 - Vendredi 01/06/2018 "*Intrication quantique"*, **Ajay Shinde**
 
@@ -35,3 +35,5 @@
 - Mercredi 06/06/2018 "*Sujet à venir*", **Thibault Gribaumont**
 - Jeudi 07/06/2018 "*FLEXBOX*", **Géraldine Winand**
 - Vendredi 08/06/2018 "*Food Tech*", **Marie Louise Ogdoc**
+
+- Lundi 11/06/2018 "*Godot Engine*", **Eric Lavachery**
