@@ -127,7 +127,7 @@ Format à respecter:
 | Me 23/05 | Sarah| Le cahier de charges|
 | Je 24/05 | | |
 | Ve 25/05 | Sébastien| XXX |
-| Lu 28/05 |Geoffrey| |
+| Lu 28/05 |Geoffrey| Le SVG|
 | Ma 29/05 |Kévin | |
 | Me 30/05 | Steve | Processing |
 | Je 31/05 |Bryan | les api graphiques (directX et Vulkan) |
@@ -181,7 +181,7 @@ Format à respecter:
 |Collier	Dorian   | 3|
 |Manzi	Félicien   | 2|
 |Namêche	Félix    | 2|
-|Canivet	Geoffrey | 3|
+|Canivet	Geoffrey | 4|
 |Bernard	Jacques  | 2|
 |Van Kelst	Jennifer | 2|
 |Gretzer	Jérôme   | 3|
@@ -194,5 +194,5 @@ Format à respecter:
 |Hennaux	Philippe | 2|
 |Grotard	Romain   | 3|
 |Klewiec	Sarah    | 3|
-|Da Cruz-Matias	Sébatsien | 1|
+|Da Cruz-Matias	Sébatsien | 2|
 |Van Essche	Steve | 3|
