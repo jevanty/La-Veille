@@ -10,7 +10,7 @@ Format à respecter:
 - Lundi 28/05/2018 , "Chromebook" , Claudiu Cornea
 - Mardi 29/05/2018, "?", Liliane, Mamane
 - Mercredi 30/05/2018, "Eye tracking", Geoffrey Poelmans,
-- Jeudi 31/05/2018 , "?" ,  Andrea Pinna
+- Jeudi 31/05/2018 , "Arduino" ,  Andrea Pinna
 - Vendredi 01/06/2018 , "?" ,  Guillaume Bare
 - Lundi 04/06/2018 , "L'E-Sport" ,  Michael Tolis
 - Mardi 05/06/2018, "La Réalité Virtuelle" , Mico Latorre Gaëtano
