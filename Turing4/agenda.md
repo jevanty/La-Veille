@@ -143,10 +143,10 @@ Format à respecter:
 | Je 07/06 | Team Teleteubies | Teaser Projet X  |
 | Ve 08/06 |  |  |
 | Lu 11/06 | Congés | //// |
-| Ma 12/06 | Vacances | //// |
-| Me 13/06 | Vacances | //// |
-| Je 14/06 | Vacances | //// |
-| Ve 15/06 | Vacances | //// |
+| Ma 12/06 | Congés | //// |
+| Me 13/06 | Congés | //// |
+| Je 14/06 | Congés | //// |
+| Ve 15/06 | Congés | //// |
 | Lu 18/06 |  |  |
 | Ma 19/06 |  |  |
 | Me 20/06 |  |  |
