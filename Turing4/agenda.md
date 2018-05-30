@@ -129,7 +129,7 @@ Format à respecter:
 | Ve 25/05 | Sébastien| XXX |
 | Lu 28/05 |Geoffrey| Le SVG|
 | Ma 29/05 | Kodo | Coach young coders |
-| Me 30/05 | Steve | Processing |
+| Me 30/05 | Steve | [Processing](https://app.ludus.one/00dee514-c6df-4926-ba72-b7d32f3166c6#1) |
 | Je 31/05 |Bryan | les api graphiques (directX et Vulkan) |
 
 ### Juin
@@ -186,4 +186,4 @@ Format à respecter:
 |Grotard	Romain   | 3|
 |Klewiec	Sarah    | 3|
 |Da Cruz-Matias	Sébatsien | 2|
-|Van Essche	Steve | 3|
+|Van Essche	Steve | 4|
