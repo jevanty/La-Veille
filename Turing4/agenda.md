@@ -140,9 +140,9 @@ Format à respecter:
 | Lu 04/06 |  |  |
 | Ma 05/06 |  |  |
 | Me 06/06 |  |  |
-| Je 07/06 |  |  |
+| Je 07/06 | Team Teleteubies | Teaser Projet X  |
 | Ve 08/06 |  |  |
-| Lu 11/06 | Vacances | //// |
+| Lu 11/06 | Congés | //// |
 | Ma 12/06 | Vacances | //// |
 | Me 13/06 | Vacances | //// |
 | Je 14/06 | Vacances | //// |
@@ -166,7 +166,6 @@ Format à respecter:
 |Duchemin	Arnaud  | 2|
 |Mootoosamy	Bryan | 2|
 |Janssen	Claude   | 4|
-|Bernard Damien   | 0|
 |Muyshond	Daniel  | 2|
 |Haulin	Daphné    | 4|
 |Thewissen	David  | 3|
