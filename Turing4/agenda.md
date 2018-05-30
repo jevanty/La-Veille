@@ -4,8 +4,8 @@
 - pour le calendrier du 05/03 au 16/03/2018 : ***ARNAUD D.***
 - pour le calendrier du 19/03 au 30/03/2018 : ***SARAH K.*** 
 - pour le calendrier du 16/04 au 30/04/2018 : ***GEOFFREY C.***
-- pour le calendrier du 02/05 au 18/05/2018 : **DAPHNE H.**
-- pour le calendrier du 01/06 au 22/06/2018 : ***MICHAEL B.:star:***
+- pour le calendrier du 02/05 au 18/05/2018 : ***DAPHNE H.***
+- pour le calendrier du 01/06 au 22/06/2018 : **MICHAEL B.:star:**
 
 Format à respecter:   
 
@@ -128,7 +128,7 @@ Format à respecter:
 | Je 24/05 | | |
 | Ve 25/05 | Sébastien| XXX |
 | Lu 28/05 |Geoffrey| Le SVG|
-| Ma 29/05 |Kévin | |
+| Ma 29/05 | Kodo | Coach young coders |
 | Me 30/05 | Steve | Processing |
 | Je 31/05 |Bryan | les api graphiques (directX et Vulkan) |
 
@@ -158,14 +158,6 @@ Format à respecter:
 | Je 28/06 |  |  |
 | Ve 29/06 |  |  |
 
-<details> 
-  <summary>Réserve </summary>
- 
- | Date          | Nom              | Statut              |
- |:----------------:|:----------------:| ------------------:|
- | Claude | La DataViz  | ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) _Doing_  |
-
-</details>
 
 ### Nb de veilles déjà faites :
 
