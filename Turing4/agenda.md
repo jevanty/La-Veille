@@ -62,7 +62,7 @@ Format à respecter:
 | Me 07/03 | Philippe H.      | [Samsung DeX et le code](https://prezi.com/p/0a6qr_-uzsbk/)|
 | Je 08/03 | ABSENT           | No veille |
 | Ve 09/03 | Arnaud D.        | La pollution et l'informatique |
-| Lu 12/03 | Steve            | SASS |
+| Lu 12/03 | Steve            | [SASS](https://github.com/Steve-VE/Sass-veille) |
 | Ma 13/03 | Frédéric         | Scroll infini |
 | Me 14/03 | Jordan           | Le cryptage de donnés |
 | Je 15/03 | THE COACH        | reset.css |
