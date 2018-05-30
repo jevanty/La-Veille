@@ -7,9 +7,6 @@ Format à respecter:
 
 ## L'agenda des veilles à Lovelace 2
 
-- Lundi 28/05/2018 , "Chromebook" , Claudiu Cornea
-- Mardi 29/05/2018, "?", Liliane, Mamane
-- Mercredi 30/05/2018, "Eye tracking", Geoffrey Poelmans,
 - Jeudi 31/05/2018 , "Arduino" ,  Andrea Pinna
 - Vendredi 01/06/2018 , "?" ,  Guillaume Bare
 - Lundi 04/06/2018 , "L'E-Sport" ,  Michael Tolis
@@ -52,3 +49,6 @@ Format à respecter:
 	- Utiliser les bonnes couleurs
 		- [Coolors.co](Coolors.co)
 		- [Adobe Color](https://color.adobe.com/create/color-wheel/)
+- Lundi 28/05/2018 , "Chromebook" , Claudiu Cornea
+- Mardi 29/05/2018, "CMS", Liliane, Mamane
+- Mercredi 30/05/2018, "Eye tracking", Geoffrey Poelmans,
