@@ -153,7 +153,7 @@ Format à respecter:
 | Lu 18/06 |  |  |
 | Ma 19/06 |Jennifer|
 | Me 20/06 | Eddy | Web Marketing |
-| Je 21/06 |  |  |
+| Je 21/06 |Félix|
 | Ve 22/06 |  |  |
 | Lu 25/06 |  |  |
 | Ma 26/06 |  |  |
