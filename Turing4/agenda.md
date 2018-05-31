@@ -167,7 +167,7 @@ Format à respecter:
 | Nom             | Nb de passage     |
 |:---------------:|------------------:|
 |Duchemin	Arnaud  | 2|
-|Mootoosamy	Bryan | 2|
+|Mootoosamy	Bryan | 3|
 |Janssen	Claude   | 4|
 |Muyshond	Daniel  | 2|
 |Haulin	Daphné    | 4|
