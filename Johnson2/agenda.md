@@ -38,3 +38,5 @@
 
 - Lundi 11/06/2018 "*Godot Engine*", **Eric Lavachery**
 - Mardi 12/06/1018 "*Sujet à venir*" **Guillaume Kreit**
+- Mecredi 13/06/1018 "*Deep Web*" **d'Oreye Adrien**
+- Jeudi 14/06/1018 "*Darknet*" **Poyraz Hakan**
