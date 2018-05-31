@@ -26,7 +26,7 @@
 
 - Lundi 28/05/2018 , "*Blockchain & Supply chain*", **Jesse Fumba**
 - Mardi 29/05/2018 "*GDPR*", **Colombe Sechehaye**
-- Mercredi 30/05/2018 "*Sujet à venir*", **Jordan Creyelman**
+- Mercredi 30/05/2018 "*Le hacking*", **Jordan Creyelman**
 - Jeudi 31/05/2018 "*Digital Footprint*", **Marco Bove**
 - Vendredi 01/06/2018 "*Intrication quantique"*, **Ajay Shinde**
 
