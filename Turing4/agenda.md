@@ -149,7 +149,7 @@ Format à respecter:
 | Ve 15/06 | Congés | //// |
 | Lu 18/06 |  |  |
 | Ma 19/06 |  |  |
-| Me 20/06 |  |  |
+| Me 20/06 | Eddy | Web Marketing |
 | Je 21/06 |  |  |
 | Ve 22/06 |  |  |
 | Lu 25/06 |  |  |
