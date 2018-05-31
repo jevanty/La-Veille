@@ -37,3 +37,4 @@
 - Vendredi 08/06/2018 "*Food Tech*", **Marie Louise Ogdoc**
 
 - Lundi 11/06/2018 "*Godot Engine*", **Eric Lavachery**
+- Mardi 12/06/1018 "*Sujet à venir*" **Guillaume**
