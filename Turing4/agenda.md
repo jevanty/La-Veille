@@ -151,7 +151,7 @@ Format à respecter:
 | Je 14/06 | Congés | //// |
 | Ve 15/06 | Congés | //// |
 | Lu 18/06 |  |  |
-| Ma 19/06 |jennifer|
+| Ma 19/06 |Jennifer|
 | Me 20/06 | Eddy | Web Marketing |
 | Je 21/06 |  |  |
 | Ve 22/06 |  |  |
