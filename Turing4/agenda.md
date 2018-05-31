@@ -159,7 +159,7 @@ Format à respecter:
 | Ma 26/06 |  |  |
 | Me 27/06 |  |  |
 | Je 28/06 |  |  |
-| Ve 29/06 |  |  |
+| Ve 29/06 | Morgan |  |
 
 
 ### Nb de veilles déjà faites :
