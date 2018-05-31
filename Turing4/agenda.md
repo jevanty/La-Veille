@@ -185,5 +185,5 @@ Format à respecter:
 |Hennaux	Philippe | 2|
 |Grotard	Romain   | 3|
 |Klewiec	Sarah    | 3|
-|Da Cruz-Matias	Sébatsien | 2|
+|Da Cruz-Matias	Sébatsien | 3|
 |Van Essche	Steve | 4|
