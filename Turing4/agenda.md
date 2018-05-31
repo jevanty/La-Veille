@@ -105,7 +105,8 @@ Format à respecter:
 
 </details>
 
-### Mai
+<details> 
+  <summary>Mai</summary>
 
 | Quand         | Qui              | Quoi              |
 |:----------------:|:----------------:| ------------------:|
@@ -131,6 +132,8 @@ Format à respecter:
 | Ma 29/05 | Kodo | Coach young coders |
 | Me 30/05 | Steve | [Processing](https://app.ludus.one/00dee514-c6df-4926-ba72-b7d32f3166c6#1) |
 | Je 31/05 |Bryan | les api graphiques (directX et Vulkan) |
+
+</details>
 
 ### Juin
 
