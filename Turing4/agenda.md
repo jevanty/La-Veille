@@ -140,8 +140,8 @@ Format à respecter:
 | Quand         | Qui              | Quoi              |
 |:----------------:|:----------------:| ------------------:|
 | Ve 01/06 | Arnaud | GitKraken|
-| Lu 04/06 |  |  |
-| Ma 05/06 |  |  |
+| Lu 04/06 | Jacques |  |
+| Ma 05/06 | Daniel |  |
 | Me 06/06 |  |  |
 | Je 07/06 | Team Teleteubies | Teaser Projet X  |
 | Ve 08/06 |  |  |
