@@ -40,4 +40,4 @@
 - Mardi 12/06/1018 "*Sujet à venir*" **Guillaume Kreit**
 - Mecredi 13/06/1018 "*Deep Web*" **d'Oreye Adrien**
 - Jeudi 14/06/1018 "*Darknet*" **Poyraz Hakan**
-
+- Vendredi 15/06/218 "*Sujet à venir*" **Nathan Houtain**
