@@ -140,20 +140,20 @@ Format à respecter:
 | Quand         | Qui              | Quoi              |
 |:----------------:|:----------------:| ------------------:|
 | Ve 01/06 | Arnaud | GitKraken|
-| Lu 04/06 |  |  |
-| Ma 05/06 |  |  |
-| Me 06/06 |  |  |
+| Lu 04/06 | Jacques |  |
+| Ma 05/06 | Daniel |  |
+| Me 06/06 | Mathieu |  |
 | Je 07/06 | Team Teleteubies | Teaser Projet X  |
-| Ve 08/06 |  Félicien  |
+| Ve 08/06 | Félicien |
 | Lu 11/06 | Congés | //// |
 | Ma 12/06 | Congés | //// |
 | Me 13/06 | Congés | //// |
 | Je 14/06 | Congés | //// |
 | Ve 15/06 | Congés | //// |
-| Lu 18/06 |  |  |
-| Ma 19/06 |Jennifer|
+| Lu 18/06 | Kevin |  |
+| Ma 19/06 | Jennifer |
 | Me 20/06 | Eddy | Web Marketing |
-| Je 21/06 |Félix|
+| Je 21/06 | Félix |
 | Ve 22/06 |  |  |
 | Lu 25/06 | Jérôme | ZE C PAS! |
 | Ma 26/06 |  |  |
