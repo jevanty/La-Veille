@@ -144,7 +144,7 @@ Format à respecter:
 | Ma 05/06 |  |  |
 | Me 06/06 |  |  |
 | Je 07/06 | Team Teleteubies | Teaser Projet X  |
-| Ve 08/06 |  |  |
+| Ve 08/06 |  Félicien  |
 | Lu 11/06 | Congés | //// |
 | Ma 12/06 | Congés | //// |
 | Me 13/06 | Congés | //// |
