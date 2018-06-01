@@ -140,8 +140,8 @@ Format à respecter:
 | Quand         | Qui              | Quoi              |
 |:----------------:|:----------------:| ------------------:|
 | Ve 01/06 | Arnaud | GitKraken|
-| Lu 04/06 | Jacques |  |
-| Ma 05/06 | Daniel |  |
+| Lu 04/06 |  |  |
+| Ma 05/06 |  |  |
 | Me 06/06 |  |  |
 | Je 07/06 | Team Teleteubies | Teaser Projet X  |
 | Ve 08/06 |  |  |
@@ -155,7 +155,7 @@ Format à respecter:
 | Me 20/06 | Eddy | Web Marketing |
 | Je 21/06 |Félix|
 | Ve 22/06 |  |  |
-| Lu 25/06 |  |  |
+| Lu 25/06 | Jérôme | ZE C PAS! |
 | Ma 26/06 |  |  |
 | Me 27/06 |  |  |
 | Je 28/06 |  |  |
