@@ -7,7 +7,7 @@ Format à respecter:
 
 ## L'agenda des veilles à Lovelace 2
 
-- Vendredi 01/06/2018 , "?" ,  Guillaume Bare
+
 - Lundi 04/06/2018 , "L'E-Sport" ,  Michael Tolis
 - Mardi 05/06/2018, "La Réalité Virtuelle" , Mico Latorre Gaëtano
 - Mercredi 06/06/2018, "?", Paul Henrot
@@ -51,3 +51,4 @@ Format à respecter:
 - Lundi 28/05/2018 , "Chromebook" , Claudiu Cornea
 - Mardi 29/05/2018, "CMS", Liliane, Mamane
 - Mercredi 30/05/2018, "Eye tracking", Geoffrey Poelmans,
+- Vendredi 01/06/2018 , "Beaver Builder" ,  Guillaume Bare
