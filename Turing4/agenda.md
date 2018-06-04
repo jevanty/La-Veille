@@ -140,7 +140,7 @@ Format à respecter:
 | Quand         | Qui              | Quoi              |
 |:----------------:|:----------------:| ------------------:|
 | Ve 01/06 | Arnaud | GitKraken|
-| Lu 04/06 | Jacques |  |
+| Lu 04/06 | Jacques | Alternatives d'hébergement |
 | Ma 05/06 | Daniel |  |
 | Me 06/06 | Mathieu |  |
 | Je 07/06 | _Les Spirous_ | _en visite à Bruxelles_  |
@@ -176,7 +176,7 @@ Format à respecter:
 |Manzi	Félicien   | 2|
 |Namêche	Félix    | 2|
 |Canivet	Geoffrey | 4|
-|Bernard	Jacques  | 2|
+|Bernard	Jacques  | 3|
 |Van Kelst	Jennifer | 2|
 |Gretzer	Jérôme   | 3|
 |Flament	Jordan   | 3|
