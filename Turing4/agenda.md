@@ -143,7 +143,7 @@ Format à respecter:
 | Lu 04/06 | Jacques |  |
 | Ma 05/06 | Daniel |  |
 | Me 06/06 | Mathieu |  |
-| Je 07/06 | Team Teleteubies | Teaser Projet X  |
+| Je 07/06 | _Les Spirous_ | _en visite à Bruxelles_  |
 | Ve 08/06 | Félicien |
 | Lu 11/06 | Congés | //// |
 | Ma 12/06 | Congés | //// |
