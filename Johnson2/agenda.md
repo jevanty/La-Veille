@@ -32,8 +32,8 @@
 
 - Lundi 04/06/2018 "*Headset Emotive*", **Alexandre Infanti**
 - Mardi 05/06/2018 "*Les récoltes de fond et les lancement de projets (web & autres)*", **Liam Carlier**
-- Mercredi 06/06/2018 "*Sujet à venir*", **Thibault Gribaumont**
-- Jeudi 07/06/2018 "*FLEXBOX*", **Géraldine Winand**
+- Mercredi 06/06/2018 "*FLEXBOX*", **Géraldine Winand**
+- Jeudi 07/06/2018 **Pas de veille, Charleroi nous rend visite**
 - Vendredi 08/06/2018 "*Food Tech*", **Marie Louise Ogdoc**
 
 - Lundi 11/06/2018 "*Godot Engine*", **Eric Lavachery**
@@ -41,3 +41,9 @@
 - Mecredi 13/06/1018 "*Deep Web*" **d'Oreye Adrien**
 - Jeudi 14/06/1018 "*Darknet*" **Poyraz Hakan**
 - Vendredi 15/06/218 "*Sujet à venir*" **Nathan Houtain**
+
+- Lundi 18/06/2018 "*Sujet à venir*", **Thibault Gribaumont**
+- Mardi 19/06/1018 "*Sujet à venir*" **???**
+- Mecredi 20/06/1018 "*Sujet à venir*" **???**
+- Jeudi 21/06/1018 "*Sujet à venir*" **???**
+- Vendredi 22/06/218 "*Sujet à venir*" **???**
