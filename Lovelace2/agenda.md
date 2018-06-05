@@ -7,7 +7,6 @@ Format à respecter:
 
 ## L'agenda des veilles à Lovelace 2
 
-- Mardi 05/06/2018, "La Réalité Virtuelle" , Mico Latorre Gaëtano
 - Mercredi 06/06/2018, "?", Paul Henrot
 - Jeudi 07/06/2018, "?", Mariane Niwemfura
 - Vendredi 08/06/2018, "Arduino" ,  Andrea Pinna
@@ -51,5 +50,6 @@ Format à respecter:
 - Mercredi 30/05/2018, "Eye tracking", Geoffrey Poelmans,
 - Vendredi 01/06/2018 , "Beaver Builder" ,  Guillaume Bare
 - Lundi 04/06/2018 , "L'E-Sport" ,  Michael Tolis
+
 -Mardi 05/06/2018, "La réalité virtuelle", Mico Latorre Gaëtano
        * lien vers la présentation : (https://github.com/becodeorg/La-Veille/blob/master/Lovelace2/LaRealiteVirtuelle.pptx)
