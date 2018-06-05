@@ -2,13 +2,11 @@
 
 # Veille: ordre de passage à Lovelace 2
 
-Format à respecter:   
+Format à respecter:
 - date (dd/mm/yyyy) , "Sujet" ,  Prénom et Nom, Lien (si nécessaire)
 
 ## L'agenda des veilles à Lovelace 2
 
-
-- Lundi 04/06/2018 , "L'E-Sport" ,  Michael Tolis
 - Mardi 05/06/2018, "La Réalité Virtuelle" , Mico Latorre Gaëtano
 - Mercredi 06/06/2018, "?", Paul Henrot
 - Jeudi 07/06/2018, "?", Mariane Niwemfura
@@ -16,7 +14,7 @@ Format à respecter:
 - Lundi 11/06/2018, "évolution du webdesign à travers les ages ", Julie Connerotte
 ----
 - Mardi 12/06/2018, "?",
-- Mercredi 13/06/2018, "?",
+- Mercredi 13/06/2018, "Le modèle MVC", Ludovic Hautecoeur
 - Jeudi 14/06/2018, "?",
 - Vendredi 15/06/2018, "?",
 
@@ -52,3 +50,4 @@ Format à respecter:
 - Mardi 29/05/2018, "CMS", Liliane, Mamane
 - Mercredi 30/05/2018, "Eye tracking", Geoffrey Poelmans,
 - Vendredi 01/06/2018 , "Beaver Builder" ,  Guillaume Bare
+- Lundi 04/06/2018 , "L'E-Sport" ,  Michael Tolis
