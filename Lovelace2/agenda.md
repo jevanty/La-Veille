@@ -8,7 +8,7 @@ Format à respecter:
 ## L'agenda des veilles à Lovelace 2
 
 - Mercredi 06/06/2018, "?", Paul Henrot
-- Jeudi 07/06/2018, "?", Mariane Niwemfura
+- Jeudi 07/06/2018, "Programming Languages", Mariane Niwemfura
 - Vendredi 08/06/2018, "Arduino" ,  Andrea Pinna
 - Lundi 11/06/2018, "évolution du webdesign à travers les ages ", Julie Connerotte
 ----
