@@ -44,6 +44,6 @@
 
 - Lundi 18/06/2018 "*Sujet à venir*", **Thibault Gribaumont**
 - Mardi 19/06/1018 "*CMS (Wordpress & Drupal)*" **Lamri Mery**
-- Mecredi 20/06/1018 "*Sujet à venir*" **???**
+- Mecredi 20/06/1018 "*Sujet à venir*" **Cedric Fournier**
 - Jeudi 21/06/1018 "*Sujet à venir*" **???**
 - Vendredi 22/06/218 "*Sujet à venir*" **???**
