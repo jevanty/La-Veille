@@ -151,7 +151,7 @@ Format à respecter:
 | Je 14/06 | Congés | //// |
 | Ve 15/06 | Congés | //// |
 | Lu 18/06 | Felicien |  |
-| Ma 19/06 | Kevin |
+| Ma 19/06 | Ludo | ceci est une veille sur Laravel mais en fait c'est du bem |
 | Me 20/06 | Eddy | Web Marketing |
 | Je 21/06 | Félix |
 | Ve 22/06 |  |  |
