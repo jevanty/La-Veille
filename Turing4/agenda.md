@@ -166,10 +166,10 @@ Format à respecter:
 
 | Nom             | Nb de passage     |
 |:---------------:|------------------:|
-|Duchemin	Arnaud  | 2|
+|Duchemin	Arnaud  | 3|
 |Mootoosamy	Bryan | 3|
 |Janssen	Claude   | 4|
-|Muyshond	Daniel  | 2|
+|Muyshond	Daniel  | 3|
 |Haulin	Daphné    | 4|
 |Thewissen	David  | 3|
 |Collier	Dorian   | 3|
@@ -182,7 +182,7 @@ Format à respecter:
 |Flament	Jordan   | 3|
 |Charlier	Kévin   | 2|
 |Ceccoti	Ludovic  | 4|
-|Leers	Mathieu    | 2|
+|Leers	Mathieu    | 3|
 |Bourloo	Michael  | 3|
 |Mignot	Morgan    | 2|
 |Hennaux	Philippe | 3|
