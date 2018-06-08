@@ -128,10 +128,10 @@ Format à respecter:
 | Me 23/05 | Sarah| Le cahier de charges|
 | Je 24/05 | | |
 | Ve 25/05 | Sébastien| XXX |
-| Lu 28/05 |Geoffrey| Le SVG|
+| Lu 28/05 | Geoffrey | Le SVG|
 | Ma 29/05 | Kodo | Coach young coders |
 | Me 30/05 | Steve | [Processing](https://app.ludus.one/00dee514-c6df-4926-ba72-b7d32f3166c6#1) |
-| Je 31/05 |Bryan | les api graphiques (directX et Vulkan) |
+| Je 31/05 | Bryan | les api graphiques (directX et Vulkan) |
 
 </details>
 
@@ -141,17 +141,17 @@ Format à respecter:
 |:----------------:|:----------------:| ------------------:|
 | Ve 01/06 | Arnaud | GitKraken|
 | Lu 04/06 | Jacques | Alternatives d'hébergement |
-| Ma 05/06 | Daniel |  |
-| Me 06/06 | Mathieu |  |
+| Ma 05/06 | Daniel | Objectifs-et-indicateurs-SMART |
+| Me 06/06 | Mathieu | Portfolio Grille Greensock |
 | Je 07/06 | _Les Spirous_ | _en visite à Bruxelles_  |
-| Ve 08/06 | Félicien |
+| Ve 08/06 | Projet Dorothy Questionnaire |
 | Lu 11/06 | Congés | //// |
 | Ma 12/06 | Congés | //// |
 | Me 13/06 | Congés | //// |
 | Je 14/06 | Congés | //// |
 | Ve 15/06 | Congés | //// |
-| Lu 18/06 | Kevin |  |
-| Ma 19/06 |  |
+| Lu 18/06 | Felicien |  |
+| Ma 19/06 | Kevin |
 | Me 20/06 | Eddy | Web Marketing |
 | Je 21/06 | Félix |
 | Ve 22/06 |  |  |
