@@ -151,12 +151,12 @@ Format à respecter:
 | Je 14/06 | Congés | //// |
 | Ve 15/06 | Congés | //// |
 | Lu 18/06 | Kevin |  |
-| Ma 19/06 | Jennifer |
+| Ma 19/06 |  |
 | Me 20/06 | Eddy | Web Marketing |
 | Je 21/06 | Félix |
 | Ve 22/06 |  |  |
 | Lu 25/06 | Jérôme | ZE C PAS! |
-| Ma 26/06 |  |  |
+| Ma 26/06 | Jennifer|
 | Me 27/06 |  |  |
 | Je 28/06 |  |  |
 | Ve 29/06 | Morgan |  |
