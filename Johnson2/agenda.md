@@ -1,4 +1,4 @@
-# Veille: ordre de passage à Johnson 2
+﻿# Veille: ordre de passage à Johnson 2
 /yyyy) , "Sujet" ,  Prénom et Nom, Lien (si nécessaire)
 
 ## L'agenda des veilles à Johnson 2
@@ -47,3 +47,17 @@
 - Mecredi 20/06/1018 "*Sujet à venir*" **Cedric Fournier**
 - Jeudi 21/06/1018 "*Sujet à venir*" **???**
 - Vendredi 22/06/218 "*Sujet à venir*" **???**
+
+- Lundi 25/06/2018
+- Mardi 26/06/2018
+- Mercredi 27/06/2018
+- Jeudi 28/06/2018
+- Vendredi 29/06/2018 
+
+- Lundi 02/06/2018
+- Mardi 03/06/2018
+- Mercredi 04/06/2018
+- Jeudi 05/06/2018
+- Vendredi 06/06/2018 "*La mémoire de l'eau*" ou "*Le Li-fi*" **Ajay Shinde**
+
+
