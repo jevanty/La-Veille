@@ -54,10 +54,10 @@
 - Jeudi 28/06/2018
 - Vendredi 29/06/2018 
 
-- Lundi 02/06/2018
-- Mardi 03/06/2018
-- Mercredi 04/06/2018
-- Jeudi 05/06/2018
-- Vendredi 06/06/2018 "*La mémoire de l'eau*" ou "*Le Li-fi*" **Ajay Shinde**
+- Lundi 02/07/2018
+- Mardi 03/07/2018
+- Mercredi 04/07/2018
+- Jeudi 05/07/2018
+- Vendredi 06/07/2018 "*La mémoire de l'eau*" ou "*Le Li-fi*" **Ajay Shinde**
 
 
