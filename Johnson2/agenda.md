@@ -36,7 +36,7 @@
 - Jeudi 07/06/2018 **Pas de veille, Charleroi nous rend visite**
 - Vendredi 08/06/2018 "*Food Tech*", **Marie Louise Ogdoc**
 
-- Lundi 11/06/2018 "*Godot Engine*", **Eric Lavachery**
+- Lundi 11/06/2018 "*Microsoft GitHub*", **Eric Lavachery**
 - Mardi 12/06/1018 "*Les drones*" **Guillaume Kreit**
 - Mecredi 13/06/1018 "*Deep Web*" **d'Oreye Adrien**
 - Jeudi 14/06/1018 "*Darknet*" **Poyraz Hakan**
