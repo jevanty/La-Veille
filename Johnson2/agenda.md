@@ -44,20 +44,26 @@
 
 - Lundi 18/06/2018 "*Sujet à venir*", **Thibault Gribaumont**
 - Mardi 19/06/1018 "*CMS (Wordpress & Drupal)*" **Lamri Mery**
-- Mecredi 20/06/1018 "*Sujet à venir*" **Cedric Fournier**
+- Mecredi 20/06/1018 "*Sujet à venir*" **???**
 - Jeudi 21/06/1018 "*Sujet à venir*" **???**
 - Vendredi 22/06/218 "*Sujet à venir*" **???**
 
-- Lundi 25/06/2018
-- Mardi 26/06/2018
-- Mercredi 27/06/2018
-- Jeudi 28/06/2018
-- Vendredi 29/06/2018 
+- Lundi 25/06/2018 "*Sujet à venir*" **???**
+- Mardi 26/06/2018 "*Sujet à venir*" **???**
+- Mercredi 27/06/2018 "*Sujet à venir*" **???**
+- Jeudi 28/06/2018 "*Sujet à venir*" **???**
+- Vendredi 29/06/2018  "*Sujet à venir*" **???**
 
-- Lundi 02/07/2018
-- Mardi 03/07/2018
-- Mercredi 04/07/2018
-- Jeudi 05/07/2018
+- Lundi 02/07/2018 "*Sujet à venir*" **???**
+- Mardi 03/07/2018 "*Sujet à venir*" **???**
+- Mercredi 04/07/2018 "*Sujet à venir*" **Cédric Fournier**
+- Jeudi 05/07/2018 "*Sujet à venir*" **???**
 - Vendredi 06/07/2018 "*La mémoire de l'eau*" ou "*Le Li-fi*" **Ajay Shinde**
+
+- Lundi 09/07/2018 "*Sujet à venir*" **???**
+- Mardi 10/07/2018 "*Sujet à venir*" **???**
+- Mercredi 11/07/2018 "*Sujet à venir*" **???**
+- Jeudi 12/07/2018 "*Sujet à venir*" **???**
+- Vendredi 13/07/2018  "*Sujet à venir*" **???**
 
 
