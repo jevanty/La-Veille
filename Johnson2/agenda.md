@@ -50,13 +50,13 @@
 
 - Lundi 25/06/2018 "*Sujet à venir*" **???**
 - Mardi 26/06/2018 "*Sujet à venir*" **???**
-- Mercredi 27/06/2018 "*Sujet à venir*" **???**
+- Mercredi 27/06/2018 "*Angular*" **Cédric Fournier**
 - Jeudi 28/06/2018 "*Sujet à venir*" **???**
 - Vendredi 29/06/2018  "*Sujet à venir*" **???**
 
 - Lundi 02/07/2018 "*Sujet à venir*" **???**
 - Mardi 03/07/2018 "*Sujet à venir*" **???**
-- Mercredi 04/07/2018 "*Ionic*" **Cédric Fournier**
+- Mercredi 04/07/2018 "*Sujet à venir*" **???**
 - Jeudi 05/07/2018 "*Sujet à venir*" **???**
 - Vendredi 06/07/2018 "*La mémoire de l'eau*" ou "*Le Li-fi*" **Ajay Shinde**
 
