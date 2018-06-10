@@ -56,7 +56,7 @@
 
 - Lundi 02/07/2018 "*Sujet à venir*" **???**
 - Mardi 03/07/2018 "*Sujet à venir*" **???**
-- Mercredi 04/07/2018 "*Sujet à venir*" **Cédric Fournier**
+- Mercredi 04/07/2018 "*Ionic*" **Cédric Fournier**
 - Jeudi 05/07/2018 "*Sujet à venir*" **???**
 - Vendredi 06/07/2018 "*La mémoire de l'eau*" ou "*Le Li-fi*" **Ajay Shinde**
 
