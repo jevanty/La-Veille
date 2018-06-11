@@ -54,11 +54,7 @@
 - Jeudi 28/06/2018 "*Sujet à venir*" **???**
 - Vendredi 29/06/2018  "*Sujet à venir*" **???**
 
-- Lundi 02/07/2018 "*Sujet à venir*" **???**
-- Mardi 03/07/2018 "*Sujet à venir*" **???**
-- Mercredi 04/07/2018 "*Sujet à venir*" **???**
-- Jeudi 05/07/2018 "*Sujet à venir*" **???**
-- Vendredi 06/07/2018 "*La mémoire de l'eau*" ou "*Le Li-fi*" **Ajay Shinde**
+du 02/07 au 06/07/2018 "*congé*"
 
 - Lundi 09/07/2018 "*Sujet à venir*" **Marie Cambie**
 - Mardi 10/07/2018 "*Sujet à venir*" **???**
