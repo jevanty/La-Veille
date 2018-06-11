@@ -18,7 +18,7 @@ Format à respecter:
 - mardi 12/06/2018, "Custom Ubuntu" ,  Andrea Pinna
 ----
 - Mardi 12/06/2018, "Custom Ubuntu" ,  Andrea Pinna
-- Mercredi 13/06/2018, "Le modèle MVC", Ludovic Hautecoeur
+- Mercredi 13/06/2018, "Arduino", Ludovic Hautecoeur
 - Jeudi 14/06/2018, "?",
 - Vendredi 15/06/2018, "?",
 
