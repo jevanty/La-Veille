@@ -60,7 +60,7 @@
 - Jeudi 05/07/2018 "*Sujet à venir*" **???**
 - Vendredi 06/07/2018 "*La mémoire de l'eau*" ou "*Le Li-fi*" **Ajay Shinde**
 
-- Lundi 09/07/2018 "*Sujet à venir*" **???**
+- Lundi 09/07/2018 "*Sujet à venir*" **Marie Cambie**
 - Mardi 10/07/2018 "*Sujet à venir*" **???**
 - Mercredi 11/07/2018 "*Sujet à venir*" **???**
 - Jeudi 12/07/2018 "*Sujet à venir*" **???**
