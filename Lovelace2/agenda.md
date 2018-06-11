@@ -12,8 +12,8 @@ Format à respecter:
 - Mardi 05/06/2018, "La Réalité Virtuelle" , Mico Latorre Gaëtano
 - Mercredi 06/06/2018, "?", Paul Henrot
 - Jeudi 07/06/2018, "?", Mariane Niwemfura
-- Vendredi 08/06/2018, "Arduino" ,  Andrea Pinna
 - Lundi 11/06/2018, "évolution du webdesign à travers les ages ", Julie Connerotte
+- mardi 12/06/2018, "Custom Ubuntu" ,  Andrea Pinna
 ----
 - Mardi 12/06/2018, "?",
 - Mercredi 13/06/2018, "?",
