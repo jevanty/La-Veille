@@ -1,4 +1,4 @@
-# Veille: ordre de passage à Johnson 2
+﻿# Veille: ordre de passage à Johnson 2
 /yyyy) , "Sujet" ,  Prénom et Nom, Lien (si nécessaire)
 
 ## L'agenda des veilles à Johnson 2
@@ -32,12 +32,38 @@
 
 - Lundi 04/06/2018 "*Headset Emotive*", **Alexandre Infanti**
 - Mardi 05/06/2018 "*Les récoltes de fond et les lancement de projets (web & autres)*", **Liam Carlier**
-- Mercredi 06/06/2018 "*Sujet à venir*", **Thibault Gribaumont**
-- Jeudi 07/06/2018 "*FLEXBOX*", **Géraldine Winand**
+- Mercredi 06/06/2018 "*FLEXBOX*", **Géraldine Winand**
+- Jeudi 07/06/2018 **Pas de veille, Charleroi nous rend visite**
 - Vendredi 08/06/2018 "*Food Tech*", **Marie Louise Ogdoc**
 
-- Lundi 11/06/2018 "*Godot Engine*", **Eric Lavachery**
-- Mardi 12/06/1018 "*Sujet à venir*" **Guillaume Kreit**
+- Lundi 11/06/2018 "*Microsoft GitHub*", **Eric Lavachery**
+- Mardi 12/06/1018 "*Les drones*" **Guillaume Kreit**
 - Mecredi 13/06/1018 "*Deep Web*" **d'Oreye Adrien**
 - Jeudi 14/06/1018 "*Darknet*" **Poyraz Hakan**
+- Vendredi 15/06/218 "*Sujet à venir*" **Nathan Houtain**
+
+- Lundi 18/06/2018 "*Sujet à venir*", **Thibault Gribaumont**
+- Mardi 19/06/1018 "*CMS (Wordpress & Drupal)*" **Lamri Mery**
+- Mecredi 20/06/1018 "*Sujet à venir*" **???**
+- Jeudi 21/06/1018 "*Sujet à venir*" **???**
+- Vendredi 22/06/218 "*Sujet à venir*" **???**
+
+- Lundi 25/06/2018 "*Sujet à venir*" **???**
+- Mardi 26/06/2018 "*Sujet à venir*" **???**
+- Mercredi 27/06/2018 "*Angular*" **Cédric Fournier**
+- Jeudi 28/06/2018 "*Sujet à venir*" **???**
+- Vendredi 29/06/2018  "*Sujet à venir*" **???**
+
+- Lundi 02/07/2018 "*Sujet à venir*" **???**
+- Mardi 03/07/2018 "*Sujet à venir*" **???**
+- Mercredi 04/07/2018 "*Sujet à venir*" **???**
+- Jeudi 05/07/2018 "*Sujet à venir*" **???**
+- Vendredi 06/07/2018 "*La mémoire de l'eau*" ou "*Le Li-fi*" **Ajay Shinde**
+
+- Lundi 09/07/2018 "*Sujet à venir*" **???**
+- Mardi 10/07/2018 "*Sujet à venir*" **???**
+- Mercredi 11/07/2018 "*Sujet à venir*" **???**
+- Jeudi 12/07/2018 "*Sujet à venir*" **???**
+- Vendredi 13/07/2018  "*Sujet à venir*" **???**
+
 

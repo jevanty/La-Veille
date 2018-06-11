@@ -128,10 +128,10 @@ Format à respecter:
 | Me 23/05 | Sarah| Le cahier de charges|
 | Je 24/05 | | |
 | Ve 25/05 | Sébastien| XXX |
-| Lu 28/05 |Geoffrey| Le SVG|
+| Lu 28/05 | Geoffrey | Le SVG|
 | Ma 29/05 | Kodo | Coach young coders |
 | Me 30/05 | Steve | [Processing](https://app.ludus.one/00dee514-c6df-4926-ba72-b7d32f3166c6#1) |
-| Je 31/05 |Bryan | les api graphiques (directX et Vulkan) |
+| Je 31/05 | Bryan | les api graphiques (directX et Vulkan) |
 
 </details>
 
@@ -140,23 +140,23 @@ Format à respecter:
 | Quand         | Qui              | Quoi              |
 |:----------------:|:----------------:| ------------------:|
 | Ve 01/06 | Arnaud | GitKraken|
-| Lu 04/06 | Jacques |  |
-| Ma 05/06 | Daniel |  |
-| Me 06/06 | Mathieu |  |
-| Je 07/06 | Team Teleteubies | Teaser Projet X  |
-| Ve 08/06 | Félicien |
+| Lu 04/06 | Jacques | Alternatives d'hébergement |
+| Ma 05/06 | Daniel | Objectifs-et-indicateurs-SMART |
+| Me 06/06 | Mathieu | Portfolio Grille Greensock |
+| Je 07/06 | _Les Spirous_ | _en visite à Bruxelles_  |
+| Ve 08/06 | Projet Dorothy Questionnaire |
 | Lu 11/06 | Congés | //// |
 | Ma 12/06 | Congés | //// |
 | Me 13/06 | Congés | //// |
 | Je 14/06 | Congés | //// |
 | Ve 15/06 | Congés | //// |
-| Lu 18/06 | Kevin |  |
-| Ma 19/06 | Jennifer |
+| Lu 18/06 | Felicien |  |
+| Ma 19/06 | Ludo | ceci est une veille sur Laravel mais en fait c'est du bem |
 | Me 20/06 | Eddy | Web Marketing |
 | Je 21/06 | Félix |
 | Ve 22/06 |  |  |
 | Lu 25/06 | Jérôme | ZE C PAS! |
-| Ma 26/06 |  |  |
+| Ma 26/06 | Jennifer|
 | Me 27/06 |  |  |
 | Je 28/06 |  |  |
 | Ve 29/06 | Morgan |  |
@@ -166,23 +166,23 @@ Format à respecter:
 
 | Nom             | Nb de passage     |
 |:---------------:|------------------:|
-|Duchemin	Arnaud  | 2|
+|Duchemin	Arnaud  | 3|
 |Mootoosamy	Bryan | 3|
 |Janssen	Claude   | 4|
-|Muyshond	Daniel  | 2|
+|Muyshond	Daniel  | 3|
 |Haulin	Daphné    | 4|
 |Thewissen	David  | 3|
 |Collier	Dorian   | 3|
 |Manzi	Félicien   | 2|
 |Namêche	Félix    | 2|
 |Canivet	Geoffrey | 4|
-|Bernard	Jacques  | 2|
+|Bernard	Jacques  | 3|
 |Van Kelst	Jennifer | 2|
 |Gretzer	Jérôme   | 3|
 |Flament	Jordan   | 3|
 |Charlier	Kévin   | 2|
 |Ceccoti	Ludovic  | 4|
-|Leers	Mathieu    | 2|
+|Leers	Mathieu    | 3|
 |Bourloo	Michael  | 3|
 |Mignot	Morgan    | 2|
 |Hennaux	Philippe | 3|

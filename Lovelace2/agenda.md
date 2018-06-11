@@ -2,21 +2,23 @@
 
 # Veille: ordre de passage à Lovelace 2
 
-Format à respecter:   
+Format à respecter:
 - date (dd/mm/yyyy) , "Sujet" ,  Prénom et Nom, Lien (si nécessaire)
 
 ## L'agenda des veilles à Lovelace 2
 
-- Vendredi 01/06/2018 , "?" ,  Guillaume Bare
-- Lundi 04/06/2018 , "L'E-Sport" ,  Michael Tolis
-- Mardi 05/06/2018, "La Réalité Virtuelle" , Mico Latorre Gaëtano
 - Mercredi 06/06/2018, "?", Paul Henrot
+<<<<<<< HEAD
 - Jeudi 07/06/2018, "?", Mariane Niwemfura
+=======
+- Jeudi 07/06/2018, "Programming Languages", Mariane Niwemfura
+- Vendredi 08/06/2018, "Arduino" ,  Andrea Pinna
+>>>>>>> 4c5763d9fc5c00a50edd9a3efdfd29362603bc7b
 - Lundi 11/06/2018, "évolution du webdesign à travers les ages ", Julie Connerotte
 - mardi 12/06/2018, "Custom Ubuntu" ,  Andrea Pinna
 ----
 - Mardi 12/06/2018, "?",
-- Mercredi 13/06/2018, "?",
+- Mercredi 13/06/2018, "Le modèle MVC", Ludovic Hautecoeur
 - Jeudi 14/06/2018, "?",
 - Vendredi 15/06/2018, "?",
 
@@ -51,3 +53,8 @@ Format à respecter:
 - Lundi 28/05/2018 , "Chromebook" , Claudiu Cornea
 - Mardi 29/05/2018, "CMS", Liliane, Mamane
 - Mercredi 30/05/2018, "Eye tracking", Geoffrey Poelmans,
+- Vendredi 01/06/2018 , "Beaver Builder" ,  Guillaume Bare
+- Lundi 04/06/2018 , "L'E-Sport" ,  Michael Tolis
+
+- Mardi 05/06/2018, "La réalité virtuelle", Mico Latorre Gaëtano
+       * lien vers la présentation : (https://github.com/becodeorg/La-Veille/blob/master/Lovelace2/LaRealiteVirtuelle.pptx)
