@@ -40,7 +40,7 @@
 - Mardi 12/06/1018 "*Les drones*" **Guillaume Kreit**
 - Mecredi 13/06/1018 "*Deep Web*" **d'Oreye Adrien**
 - Jeudi 14/06/1018 "*Darknet*" **Poyraz Hakan**
-- Vendredi 15/06/218 "*Les languages de programmation*" **Nathan Houtain**
+- Vendredi 15/06/218 "*Les langages de programmation*" **Nathan Houtain**
 
 - Lundi 18/06/2018 "*Sujet à venir*", **Thibault Gribaumont**
 - Mardi 19/06/1018 "*CMS (Wordpress & Drupal)*" **Lamri Mery**
