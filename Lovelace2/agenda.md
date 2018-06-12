@@ -9,7 +9,7 @@ Format à respecter:
 
 - Mardi 12/06/2018, "Custom Ubuntu" ,  Andrea Pinna
 - Mercredi 13/06/2018, "évolution du webdesign à travers les ages ", Julie Connerotte
-- Jeudi 14/06/2018, "", Dhoore Ludovic
+- Jeudi 14/06/2018, "?", Dhoore Ludovic
 - Vendredi 15/06/2018, "Arduino", Hautecoeur Ludovic
 
 ## Archive
