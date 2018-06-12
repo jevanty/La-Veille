@@ -7,19 +7,9 @@ Format à respecter:
 
 ## L'agenda des veilles à Lovelace 2
 
-- Mercredi 06/06/2018, "?", Paul Henrot
-<<<<<<< HEAD
-- Jeudi 07/06/2018, "?", Mariane Niwemfura
-=======
-- Jeudi 07/06/2018, "Programming Languages", Mariane Niwemfura
-- Vendredi 08/06/2018, "Arduino" ,  Andrea Pinna
->>>>>>> 4c5763d9fc5c00a50edd9a3efdfd29362603bc7b
-- Lundi 11/06/2018, "évolution du webdesign à travers les ages ", Julie Connerotte
-- mardi 12/06/2018, "Custom Ubuntu" ,  Andrea Pinna
-----
 - Mardi 12/06/2018, "Custom Ubuntu" ,  Andrea Pinna
-- Mercredi 13/06/2018, "Arduino", Ludovic Hautecoeur
-- Jeudi 14/06/2018, "?",
+- Mercredi 13/06/2018, "évolution du webdesign à travers les ages ", Julie Connerotte
+- Jeudi 14/06/2018, "Arduino", Ludovic Hautecoeur
 - Vendredi 15/06/2018, "?",
 
 ## Archive
@@ -58,3 +48,5 @@ Format à respecter:
 
 - Mardi 05/06/2018, "La réalité virtuelle", Mico Latorre Gaëtano
        * lien vers la présentation : (https://github.com/becodeorg/La-Veille/blob/master/Lovelace2/LaRealiteVirtuelle.pptx)
+- Vendredi 08/06/2018, "Programming Languages", Mariane Niwemfura
+- Lundi 11/06/2018, "?", Paul Henrot
