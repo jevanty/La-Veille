@@ -7,10 +7,9 @@ Format à respecter:
 
 ## L'agenda des veilles à Lovelace 2
 
-- Mardi 12/06/2018, "Custom Ubuntu" ,  Andrea Pinna
-- Mercredi 13/06/2018, "évolution du webdesign à travers les ages ", Julie Connerotte
 - Jeudi 14/06/2018, "?", Dhoore Ludovic
 - Vendredi 15/06/2018, "Arduino", Hautecoeur Ludovic
+- Mercredi 27/06/2018, "Technologies dans le domaine de la santé", Julie Connerotte;
 
 ## Archive
 
@@ -50,3 +49,7 @@ Format à respecter:
        * lien vers la présentation : (https://github.com/becodeorg/La-Veille/blob/master/Lovelace2/LaRealiteVirtuelle.pptx)
 - Vendredi 08/06/2018, "Programming Languages", Mariane Niwemfura
 - Lundi 11/06/2018, "?", Paul Henrot
+- Mardi 12/06/2018, "Custom Ubuntu" , Andrea Pinna
+- Mercredi 13/06/2018, "évolution du webdesign à travers les ages ", Julie Connerotte
+	![Alt text](/Users/juliedoms/Documents?raw=true "Design evolution")
+
