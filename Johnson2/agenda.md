@@ -52,7 +52,7 @@
 - Mardi 26/06/2018 "*Sujet à venir*" **???**
 - Mercredi 27/06/2018 "*Angular*" **Cédric Fournier**
 - Jeudi 28/06/2018 "*Sujet à venir*" **???**
-- Vendredi 29/06/2018  "*Sujet à venir*" **???**
+- Vendredi 29/06/2018  "*li-fi*" ou "*stockage ADN*" **Ajay Shinde**
 
 du 02/07 au 06/07/2018 "*congé*"
 
