@@ -9,6 +9,7 @@ Format à respecter:
 
 
 - Mercredi 27/06/2018, "Technologies dans le domaine de la santé", Julie Connerotte;
+- Vendredi 20/07/2018, "No idea!", Mariane Niwemfura
 
 ## Archive
 
