@@ -50,7 +50,7 @@ Format à respecter:
 - Lundi 11/06/2018, "?", Paul Henrot
 - Mardi 12/06/2018, "Custom Ubuntu" , Andrea Pinna
 - Mercredi 13/06/2018, "évolution du webdesign à travers les ages ", Julie Connerotte
-	![Alt text](/Users/juliedoms/Documents?raw=true "Design evolution")
+	[Powerpoint de la présentation](https://docs.google.com/presentation/d/1GnMLzPNV-ybbDvQu_hqQboVkEdkN_1xYmafyLMGL8Xo/edit?usp=sharing)
 - Jeudi 14/06/2018, "?", Dhoore Ludovic
 - Vendredi 15/06/2018, "Arduino", Hautecoeur Ludovic [Lien vers les Slides](https://docs.google.com/presentation/d/17UbdjLZ67VZeILCcX82uXTj7koZbEOkxcM_VXATaZV0/edit?usp=sharing)
 
