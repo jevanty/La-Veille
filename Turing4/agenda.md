@@ -154,12 +154,12 @@ Format à respecter:
 | Ma 19/06 | Ludo | ceci est une veille sur Laravel mais en fait c'est du bem |
 | Me 20/06 | Eddy | Web Marketing |
 | Je 21/06 | Félix |
-| Ve 22/06 |  |  |
+| Ve 22/06 | Morgan |  |
 | Lu 25/06 | Jérôme | ZE C PAS! |
 | Ma 26/06 | Jennifer|
 | Me 27/06 |  |  |
 | Je 28/06 |  |  |
-| Ve 29/06 | Morgan |  |
+| Ve 29/06 |  |  |
 
 
 ### Nb de veilles déjà faites :
