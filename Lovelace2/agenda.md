@@ -55,3 +55,5 @@ Format à respecter:
 - Jeudi 14/06/2018, "?", Dhoore Ludovic
 - Vendredi 15/06/2018, "Arduino", Hautecoeur Ludovic [Lien vers les Slides](https://docs.google.com/presentation/d/17UbdjLZ67VZeILCcX82uXTj7koZbEOkxcM_VXATaZV0/edit?usp=sharing)
 
+- Jeudi 21/06/2018, "SVG" , Stéphane Wyns
+
