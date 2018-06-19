@@ -10,6 +10,7 @@ Format à respecter:
 - Jeudi 21/06/2018, "SVG" , Stéphane Wyns
 - Mardi 26/06/2018, "FullPage.js", Pedro Seromenho
 - Mercredi 27/06/2018, "Technologies dans le domaine de la santé", Julie Connerotte;
+-Lundi 02/07/2018, "Stockage ADN", Sourech Bauts (Le Parrain 5)
 - Vendredi 20/07/2018, "No idea!", Mariane Niwemfura
 
 ## Archive
@@ -27,7 +28,7 @@ Format à respecter:
 - Jeudi 17/05/2018, "Les méthodologies de travail (Cascade, Agile, Scrum)", Mostapha Tahri
 - Vendredi 18/05/2018  "Back & Front-End", Nadir Mohamed Ali
 - Mardi 22/05/2018: "Le Revenu de Base Universel", Romain Vandevoorde
-- Mercredi 23/05/2018, "Découverte l'Inde", Sourech Bauts
+- Mercredi 23/05/2018, "Ordinateur Quantique", Sourech Bauts lien (https://docs.google.com/presentation/d/1XEBBdjMMMogkeHoDo-qI0alQXXXT0AXg5giFqyGZ_Ek/edit#slide=id.g3acd8796be_0_46)
 - Jeudi 24/05/2018, "Blockchain et gaming", (Quang) Son Le, liens utiles: https://www.youtube.com/watch?v=bBC-nXj3Ng4&feature=youtu.be(vulgarisation des crypto-monnaies), https://www.stateofthedapps.com/ (projets basés sur le blockchain), https://www.gamasutra.com/blogs/PaulGadi/20180305/315168/Insert_Token_How_The_Blockchain_Will_Revolutionize_The_GameIndustry.php (blockchaine et économie dans les jeux vidéo), https://www.usgamer.net/articles/blockchain-and-you-what-does-blockchain-even-do-for-video-games (article généraliste)
 - Vendredi 25/05/2018, "Outils design", Sammuel JANSSENS
 	- [Slides](https://docs.google.com/presentation/u/2/d/1J-XPoF-dSrt5EgsjQINcoM78wmsUKWhbCd327wScQos/edit?ouid=100446203648814916150&usp=slides_home&ths=true)
