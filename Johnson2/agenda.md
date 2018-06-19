@@ -43,9 +43,9 @@
 - Vendredi 15/06/218 "*Les langages de programmation*" **Nathan Houtain**
 
 - Lundi 18/06/2018 "*Sujet à venir*", **Thibault Gribaumont**
-- Mardi 19/06/1018 "*Sujet à venir*" **???**
+- Mardi 19/06/1018 "*Sujet à venir*" oups
 - Mecredi 20/06/1018 "*CSS 4*" **Jean-François Geerinckx**
-- Jeudi 21/06/1018 "*Sujet à venir*" **???**
+- Jeudi 21/06/1018 "*Shadow*" **Nicolas de Liedekerke**
 - Vendredi 22/06/218 "*Sujet à venir*" **???**
 
 - Lundi 25/06/2018 "*Sujet à venir*" **???**
@@ -58,8 +58,8 @@ du 02/07 au 06/07/2018 "*congé*"
 
 - Lundi 09/07/2018 "*Sujet à venir*" **Marie Cambie**
 - Mardi 10/07/2018 "*CMS (Wordpress & Drupal)*" **Lamri Mery**
-- Mercredi 11/07/2018 "*Sujet à venir*" **???**
-- Jeudi 12/07/2018 "*Sujet à venir*" **???**
+- Mercredi 11/07/2018 "*Sujet à venir*" **Jesse Fumba**
+- Jeudi 12/07/2018 "*Regular Expressions*" **Eric Lavachery**
 - Vendredi 13/07/2018  "*Sujet à venir*" **???**
 
 
