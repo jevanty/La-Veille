@@ -7,7 +7,7 @@ Format à respecter:
 
 ## L'agenda des veilles à Lovelace 2
 
-- Jeudi 21/06/2018, "SVG" , Stéphane Wyns
+- Jeudi 21/06/2018, "Net Neutrality" , Stéphane Wyns
 - Mercredi 27/06/2018, "Technologies dans le domaine de la santé", Julie Connerotte;
 - Vendredi 20/07/2018, "No idea!", Mariane Niwemfura
 
