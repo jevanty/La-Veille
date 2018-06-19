@@ -157,7 +157,7 @@ Format à respecter:
 | Ve 22/06 | Morgan |  |
 | Lu 25/06 | Jérôme | ZE C PAS! |
 | Ma 26/06 | Jennifer|
-| Me 27/06 |  |  |
+| Me 27/06 | Kévin |  |
 | Je 28/06 |  |  |
 | Ve 29/06 |  |  |
 
