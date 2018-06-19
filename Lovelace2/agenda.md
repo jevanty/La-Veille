@@ -8,6 +8,7 @@ Format à respecter:
 ## L'agenda des veilles à Lovelace 2
 
 - Jeudi 21/06/2018, "SVG" , Stéphane Wyns
+- Mardi 26/06/2018, "FullPage.js", Pedro Seromenho 
 - Mercredi 27/06/2018, "Technologies dans le domaine de la santé", Julie Connerotte;
 - Vendredi 20/07/2018, "No idea!", Mariane Niwemfura
 
@@ -54,4 +55,3 @@ Format à respecter:
 	[Powerpoint de la présentation](https://docs.google.com/presentation/d/1GnMLzPNV-ybbDvQu_hqQboVkEdkN_1xYmafyLMGL8Xo/edit?usp=sharing)
 - Jeudi 14/06/2018, "?", Dhoore Ludovic
 - Vendredi 15/06/2018, "Arduino", Hautecoeur Ludovic [Lien vers les Slides](https://docs.google.com/presentation/d/17UbdjLZ67VZeILCcX82uXTj7koZbEOkxcM_VXATaZV0/edit?usp=sharing)
-
