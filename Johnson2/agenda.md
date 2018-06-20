@@ -43,7 +43,7 @@
 - Vendredi 15/06/218 "*Les langages de programmation*" **Nathan Houtain**
 
 - Lundi 18/06/2018 "*Sujet à venir*", **Thibault Gribaumont**
-- Mardi 19/06/1018 "*Sujet à venir*" oups
+- Mardi 19/06/1018 "*Les snippets*" **Lamri Mery**
 - Mecredi 20/06/1018 "*CSS 4*" **Jean-François Geerinckx**
 - Jeudi 21/06/1018 "*Shadow*" **Nicolas de Liedekerke**
 - Vendredi 22/06/218 "*UX design/expérience utilisateur*" **Colombe Sechehaye**
