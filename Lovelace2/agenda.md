@@ -59,3 +59,4 @@ Format à respecter:
 - Mardi 19/06/2018, "Attributs Data", Valente Dylan
 	- [AOS.JS](https://michalsnik.github.io/aos/)
 	- [FormValidator](http://www.formvalidator.net/)
+- Mercredi 20/06/2018, "Sites web pour développeurs", Baptiste Firket [Liste des sites](https://docs.google.com/document/d/1hiLLPD9PLhZetw8LLoW0qA6fTHgPN8xpaB1qobsFSqA/edit?usp=sharing)
