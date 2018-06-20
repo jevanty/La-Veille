@@ -60,6 +60,6 @@ du 02/07 au 06/07/2018 "*congé*"
 - Mardi 10/07/2018 "*CMS (Wordpress & Drupal)*" **Lamri Mery**
 - Mercredi 11/07/2018 "*Sujet à venir*" **Jesse Fumba**
 - Jeudi 12/07/2018 "*Regular Expressions*" **Eric Lavachery**
-- Vendredi 13/07/2018  "*Sujet à venir*" **???**
+- Vendredi 13/07/2018  "*Sujet à venir*" **Guillaume Kreit**
 
 
