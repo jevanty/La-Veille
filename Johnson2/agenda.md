@@ -10,7 +10,7 @@
 - Lundi 07/5/2018 "*L'intelligence artificielle.*", **Poyraz Hakan**
 - Mardi 08/5/2018 "*Responsive Web Design.*", **Lamri Mery**
 - Mercredi 09/5/2018 "*Cloud Firestore.*", **Fournier Cedric**
-- Vendredi 11/5/2018 "*Sujet a venir.*", **d'Oreye Adrien**
+- Vendredi 11/5/2018 "*Bootstrap*", **d'Oreye Adrien**
 
 - Lundi 14/5/2018 "*Micro-robot.*", **Wilfort Stéphane**
 - Mardi 15/5/2018 "*IoT (Internet of Things).*", **Juan Cely**
