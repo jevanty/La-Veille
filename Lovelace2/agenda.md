@@ -6,16 +6,16 @@ Format à respecter:
 - date (dd/mm/yyyy) , "Sujet" ,  Prénom et Nom, Lien (si nécessaire)
 
 ## L'agenda des veilles à Lovelace 2
-- vendredi 22/06/2018    ?????? 
-- Lundi 25/06/2018    ?????? 
+- vendredi 22/06/2018, " "Sniffers" (Wireshark)  " ,  Meilin ANDRADE
+- Lundi 25/06/2018, "RPG Maker mv avec Js ",Morganne Meganck 
 - Mardi 26/06/2018, "FullPage.js", Pedro Seromenho
-- Mercredi 27/06/2018, "Technologies dans le domaine de la santé", Julie Connerotte;
-- Jeudi 28/06/2018    ???
-- Vendredi 29/06/2018    ????
+- Mercredi 27/06/2018, Mostapha
+- Jeudi 28/06/2018    Mohamed
+- Vendredi 29/06/2018    ROmain
 VACANCES
 - Lundi 09/07/2018, "Stockage ADN", Sourech Bauts (Le Parrain 5)
 - Vendredi 20/07/2018, "No idea!", Mariane Niwemfura
-- Vendredi 22/07/2018: "Sniffers" (Wireshark)
+
 
 ## Archive
 
