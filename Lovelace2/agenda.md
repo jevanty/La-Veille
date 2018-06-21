@@ -6,11 +6,14 @@ Format à respecter:
 - date (dd/mm/yyyy) , "Sujet" ,  Prénom et Nom, Lien (si nécessaire)
 
 ## L'agenda des veilles à Lovelace 2
-
-- Jeudi 21/06/2018, "Net Neutrality" , Stéphane Wyns
+- vendredi 22/06/2018    ?????? 
+- Lundi 25/06/2018    ?????? 
 - Mardi 26/06/2018, "FullPage.js", Pedro Seromenho
 - Mercredi 27/06/2018, "Technologies dans le domaine de la santé", Julie Connerotte;
-- Lundi 02/07/2018, "Stockage ADN", Sourech Bauts (Le Parrain 5)
+- Jeudi 28/06/2018    ???
+- Vendredi 29/06/2018    ????
+VACANCES
+- Lundi 09/07/2018, "Stockage ADN", Sourech Bauts (Le Parrain 5)
 - Vendredi 20/07/2018, "No idea!", Mariane Niwemfura
 - Vendredi 22/07/2018: "Sniffers" (Wireshark)
 
@@ -62,3 +65,5 @@ Format à respecter:
 	- [FormValidator](http://www.formvalidator.net/)
 - Mercredi 20/06/2018, "Sites web pour développeurs", Baptiste Firket [Liste des sites](https://docs.google.com/document/d/1hiLLPD9PLhZetw8LLoW0qA6fTHgPN8xpaB1qobsFSqA/edit?usp=sharing)
 - Vendredi 22/06/2018 ; "Sniffers" (Meilyn ANDRADE)
+- Jeudi 21/06/2018, "Net Neutrality" , Stéphane Wyns
+
