@@ -9,9 +9,9 @@ Format à respecter:
 - vendredi 22/06/2018, " "Sniffers" (Wireshark)  " ,  Meilin ANDRADE
 - Lundi 25/06/2018, "RPG Maker mv avec Js ",Morganne Meganck 
 - Mardi 26/06/2018, "FullPage.js", Pedro Seromenho
-- Mercredi 27/06/2018, Mostapha
+- Mercredi 27/06/2018, Romain
 - Jeudi 28/06/2018    Mohamed
-- Vendredi 29/06/2018    ROmain
+- Vendredi 29/06/2018    Mostapha
 VACANCES
 - Lundi 09/07/2018, "Stockage ADN", Sourech Bauts (Le Parrain 5)
 - Mardi 19/07/2018, "Web Scrapping, Parsing and Crawling", Michael D
