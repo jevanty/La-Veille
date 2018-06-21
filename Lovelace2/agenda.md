@@ -65,6 +65,5 @@ VACANCES
 	- [AOS.JS](https://michalsnik.github.io/aos/)
 	- [FormValidator](http://www.formvalidator.net/)
 - Mercredi 20/06/2018, "Sites web pour développeurs", Baptiste Firket [Liste des sites](https://docs.google.com/document/d/1hiLLPD9PLhZetw8LLoW0qA6fTHgPN8xpaB1qobsFSqA/edit?usp=sharing)
-- Vendredi 22/06/2018 ; "Sniffers" (Meilyn ANDRADE)
 - Jeudi 21/06/2018, "Net Neutrality" , Stéphane Wyns
 
