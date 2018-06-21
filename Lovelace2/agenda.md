@@ -15,7 +15,7 @@ Format à respecter:
 VACANCES
 - Lundi 09/07/2018, "Stockage ADN", Sourech Bauts (Le Parrain 5)
 - Vendredi 20/07/2018, "No idea!", Mariane Niwemfura
-
+- Mardi 17/07/2018, "Web Scrapping, Parsing and Crawling", Michael D
 
 ## Archive
 
