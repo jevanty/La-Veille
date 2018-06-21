@@ -12,6 +12,7 @@ Format à respecter:
 - Mercredi 27/06/2018, "Technologies dans le domaine de la santé", Julie Connerotte;
 - Lundi 02/07/2018, "Stockage ADN", Sourech Bauts (Le Parrain 5)
 - Vendredi 20/07/2018, "No idea!", Mariane Niwemfura
+- Vendredi 22/07/2018: "Sniffers" (Wireshark)
 
 ## Archive
 
