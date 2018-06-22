@@ -154,11 +154,11 @@ Format à respecter:
 | Ma 19/06 | Ludo | ceci est une veille sur Laravel mais en fait c'est du bem |
 | Me 20/06 | Eddy | Web Marketing |
 | Je 21/06 | Félix |  |
-| Ve 22/06 | Morgan |  |
-| Lu 25/06 | Jérôme | ZE C PAS! |
-| Ma 26/06 | Jennifer|
-| Me 27/06 | Kévin |  |
-| Je 28/06 |  |  |
+| Ve 22/06 | Ecole | Journée initiation aux codes |
+| Lu 25/06 | Morgan |
+| Ma 26/06 | Jérôme| ZE C PAS!|
+| Me 27/06 | Jennifer | 
+| Je 28/06 | Kévin |
 | Ve 29/06 |  |  |
 
 
