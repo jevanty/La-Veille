@@ -160,7 +160,7 @@ Format à respecter:
 | Ma 26/06 | Jérôme| ZE C PAS!|
 | Me 27/06 | Jennifer | 
 | Je 28/06 | Kévin |
-| Ve 29/06 |  |  |
+| Ve 29/06 | Philippe | Framework Python: Twisted |
 
 
 ### Nb de veilles déjà faites :
@@ -178,7 +178,7 @@ Format à respecter:
 |Namêche	Félix    | 2|
 |Canivet	Geoffrey | 4|
 |Bernard	Jacques  | 3|
-|Van Kelst	Jennifer | 2|
+|Van Kelst	Jennifer | 3|
 |Gretzer	Jérôme   | 3|
 |Flament	Jordan   | 3|
 |Charlier	Kévin   | 2|
