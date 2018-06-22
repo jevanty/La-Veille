@@ -6,7 +6,6 @@ Format à respecter:
 - date (dd/mm/yyyy) , "Sujet" ,  Prénom et Nom, Lien (si nécessaire)
 
 ## L'agenda des veilles à Lovelace 2
-- vendredi 22/06/2018, " "Sniffers" (Wireshark)  " ,  Meilin ANDRADE
 - Lundi 25/06/2018, "RPG Maker mv avec Js ",Morganne Meganck 
 - Mardi 26/06/2018, "FullPage.js", Pedro Seromenho
 - Mercredi 27/06/2018, Romain
