@@ -5,7 +5,8 @@
 - pour le calendrier du 19/03 au 30/03/2018 : ***SARAH K.*** 
 - pour le calendrier du 16/04 au 30/04/2018 : ***GEOFFREY C.***
 - pour le calendrier du 02/05 au 18/05/2018 : ***DAPHNE H.***
-- pour le calendrier du 01/06 au 22/06/2018 : **MICHAEL B.:star:**
+- pour le calendrier du 01/06 au 22/06/2018 : **MICHAEL B.**
+- pour le calendrier du 25/06 au 09/07/2018 : ***PHILIPPE H.:star ***
 
 Format à respecter:   
 
