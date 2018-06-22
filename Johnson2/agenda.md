@@ -20,7 +20,7 @@
 
 - Lundi 21/05/2018 *Jour férié*
 - Mardi 22/05/2018 "*E-santé animale*", **Antoni Dalle Nogare**
-- Mercredi 23/05/2018 
+- Mercredi 23/05/2018
 - Jeudi 24/05/2018 "*Sujet à venir*", **Massimo Regaglia**
 - Vendredi 25/05/2018 , "*Bayou: coding A.I.*", **Guillaume Deruwez**
 
@@ -54,7 +54,7 @@
 - Lundi 25/06/2018 "*Sujet à venir*" **???**
 - Mardi 26/06/2018 "*Sujet à venir*" **Stéphane Wilfort**
 - Mercredi 27/06/2018 "*Ionic*" **Cédric Fournier**
-- Jeudi 28/06/2018 "*Sujet à venir*" **???**
+- Jeudi 28/06/2018 "*La méthode agile*" **Guillaume Deruwez**
 - Vendredi 29/06/2018  "*li-fi*" ou "*stockage ADN*" **Ajay Shinde**
 
 du 02/07 au 06/07/2018 "*congé*"
@@ -69,4 +69,3 @@ du 02/07 au 06/07/2018 "*congé*"
 
 - Lundi 16/07/2018 "*Sujet à venir*" **Liam Carlier**
 - Mardi 17/07/2018 "*UX*" **Geraldine Winand**
-
