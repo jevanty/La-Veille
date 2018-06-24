@@ -15,6 +15,7 @@ VACANCES
 - Lundi 09/07/2018, "Stockage ADN", Sourech Bauts (Le Parrain 5)
 - Mardi 19/07/2018, "Web Scrapping, Parsing and Crawling", Michael D
 - Vendredi 24/07/2018, "No idea!", Mariane Niwemfura
+- Idk 00/07/2018, "UX Design", Sammuel JANSSENS
 
 
 ## Archive
