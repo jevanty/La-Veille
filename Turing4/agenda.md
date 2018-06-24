@@ -157,7 +157,7 @@ Format à respecter:
 | Je 21/06 | Félix |  |
 | Ve 22/06 | Ecole | Journée initiation aux codes |
 | Lu 25/06 | Morgan |
-| Ma 26/06 | Jérôme| ZE C PAS!|
+| Ma 26/06 | Jérôme| La neutralité du net|
 | Me 27/06 | Jennifer | 
 | Je 28/06 | Kévin |
 | Ve 29/06 | Philippe | Framework Python: Twisted |
