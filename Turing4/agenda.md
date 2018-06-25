@@ -161,6 +161,10 @@ Format à respecter:
 | Me 27/06 | Philippe | Framework Python: Twisted |
 | Je 28/06 | Kévin |
 | Ve 29/06 | Jennifer |  |
+
+<details> 
+  <summary>Juillet</summary>
+ 
 | Lu 02/07 |  |
 | Ma 03/07 |  |
 | Me 04/07 |  |
@@ -183,6 +187,10 @@ Format à respecter:
 | Ve 27/07 |  |
 | Lu 30/07 |  |
 | Ma 31/07 |  |
+
+<details> 
+  <summary>Août</summary>
+
 | Me 01/08 |  |
 | Je 02/08 |  |
 | Ve 03/08 |  |
