@@ -176,7 +176,7 @@ Format à respecter:
 | Ma 10/07 |  |
 | Me 11/07 |  |
 | Je 12/07 |  |
-| Ve 13/07 |  |
+| Ve 13/07 | Michael | WIP |
 | Lu 16/07 |  |
 | Ma 17/07 |  |
 | Me 18/07 |  |
