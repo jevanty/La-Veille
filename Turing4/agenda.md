@@ -188,6 +188,8 @@ Format à respecter:
 | Lu 30/07 |  |
 | Ma 31/07 |  |
 
+</details> 
+
 <details> 
   <summary>Août</summary>
 
@@ -195,6 +197,7 @@ Format à respecter:
 | Je 02/08 |  |
 | Ve 03/08 |  |
 
+</details> 
 
 ### Nb de veilles déjà faites :
 
