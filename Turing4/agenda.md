@@ -158,9 +158,9 @@ Format à respecter:
 | Ve 22/06 | Ecole | Journée initiation aux codes |
 | Lu 25/06 | Morgan |
 | Ma 26/06 | Jérôme| La neutralité du net|
-| Me 27/06 | Jennifer | 
+| Me 27/06 | Philippe | Framework Python: Twisted |
 | Je 28/06 | Kévin |
-| Ve 29/06 | Philippe | Framework Python: Twisted |
+| Ve 29/06 | Jennifer |  |
 
 
 ### Nb de veilles déjà faites :
