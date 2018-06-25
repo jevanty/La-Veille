@@ -156,11 +156,11 @@ Format à respecter:
 | Me 20/06 | Eddy | Web Marketing |
 | Je 21/06 | Félix |  |
 | Ve 22/06 | Ecole | Journée initiation aux codes |
-| Lu 25/06 | Morgan |
+| Lu 25/06 | Philippe | [Veille d'urgence: AngularJS VS ReactJS VS VueJS](https://prezi.com/view/V7Iz3N3bIswIGViEb6Ds/)|
 | Ma 26/06 | Jérôme| La neutralité du net|
 | Me 27/06 | Philippe | Framework Python: Twisted |
 | Je 28/06 | Kévin |
-| Ve 29/06 | Jennifer |  |
+| Ve 29/06 | Jennifer | Bootstrap 4 VS Bootstrap 3 |
 
 <details> 
   <summary>Juillet</summary>
@@ -176,7 +176,7 @@ Format à respecter:
 | Ma 10/07 |  |
 | Me 11/07 |  |
 | Je 12/07 |  |
-| Ve 13/07 | Michael | WIP |
+| Ve 13/07 |  |
 | Lu 16/07 |  |
 | Ma 17/07 |  |
 | Me 18/07 |  |
