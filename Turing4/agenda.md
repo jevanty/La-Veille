@@ -161,6 +161,31 @@ Format à respecter:
 | Me 27/06 | Philippe | Framework Python: Twisted |
 | Je 28/06 | Kévin |
 | Ve 29/06 | Jennifer |  |
+| Lu 02/07 |  |
+| Ma 03/07 |  |
+| Me 04/07 |  |
+| Je 05/07 |  |
+| Ve 06/07 |  |
+| Lu 09/07 |  |
+| Ma 10/07 |  |
+| Me 11/07 |  |
+| Je 12/07 |  |
+| Ve 13/07 |  |
+| Lu 16/07 |  |
+| Ma 17/07 |  |
+| Me 18/07 |  |
+| Je 19/07 |  |
+| Ve 20/07 |  |
+| Lu 23/07 |  |
+| Ma 24/07 |  |
+| Me 25/07 |  |
+| Je 26/07 |  |
+| Ve 27/07 |  |
+| Lu 30/07 |  |
+| Ma 31/07 |  |
+| Me 01/08 |  |
+| Je 02/08 |  |
+| Ve 03/08 |  |
 
 
 ### Nb de veilles déjà faites :
