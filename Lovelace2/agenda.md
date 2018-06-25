@@ -9,13 +9,22 @@ Format à respecter:
 - Lundi 25/06/2018, "RPG Maker mv avec Js ",Morganne Meganck 
 - Mardi 26/06/2018, "FullPage.js", Pedro Seromenho
 - Mercredi 27/06/2018, Romain
-- Jeudi 28/06/2018    Mohamed
+- Jeudi 28/06/2018  "Algorithme de tris",  Claudiu;
 - Vendredi 29/06/2018    Mostapha
 VACANCES
 - Lundi 09/07/2018, "Stockage ADN", Sourech Bauts (Le Parrain 5)
-- Mardi 19/07/2018, "Web Scrapping, Parsing and Crawling", Michael D
-- Vendredi 24/07/2018, "No idea!", Mariane Niwemfura
-- Idk 00/07/2018, "UX Design", Sammuel JANSSENS
+- Mardi 10/07/2018, ??? Son ;
+- Mercred 11/07/2018 ??? Sammuel ;
+- Jeudi 12/07/2018, ??? Mohamed;
+- Vendredi 13/07/2018, ??? Liliane;
+- Lundi 16/07/2018, ??? Geoffrey;
+- Mardi 17/07/2018, ??? Guillaume;
+- Mercredi 18/07/2018, "Web Scrapping, Parsing and Crawling", Michael D;
+- Jeudi 19/07/2018, ??? GaËtano;
+- Vendredi 20/07/2018, "No idea!", Mariane Niwemfura;
+- Lundi 23/07/2018, ???,  Paul;
+- MArdi 24/07/2018, ??? , Andrea;
+- Mercredi 25/07/2018, "Code et technologie dans l'avancée médicale ", Julie;
 
 
 ## Archive
