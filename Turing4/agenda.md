@@ -165,6 +165,8 @@ Format à respecter:
 <details> 
   <summary>Juillet</summary>
  
+| Quand         | Qui              | Quoi              |
+|:----------------:|:----------------:| ------------------:|
 | Lu 02/07 |  |
 | Ma 03/07 |  |
 | Me 04/07 |  |
@@ -193,6 +195,8 @@ Format à respecter:
 <details> 
   <summary>Août</summary>
 
+| Quand         | Qui              | Quoi              |
+|:----------------:|:----------------:| ------------------:|
 | Me 01/08 |  |
 | Je 02/08 |  |
 | Ve 03/08 |  |
