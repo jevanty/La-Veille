@@ -225,7 +225,7 @@ Format à respecter:
 |Thewissen	David  | 3|
 |Collier	Dorian   | 3|
 |Manzi	Félicien   | 2|
-|Namêche	Félix    | 2|
+|Namêche	Félix    | 3|
 |Canivet	Geoffrey | 4|
 |Bernard	Jacques  | 3|
 |Van Kelst	Jennifer | 3|
