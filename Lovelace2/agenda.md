@@ -79,5 +79,7 @@ VACANCES
 - Vendredi 22/06/2018 ; "Sniffers & Spoofing" (Meilyn ANDRADE)
 [PPT](sniffers.ppt)
 
+- Mardi 26/06/2018; "fullpage.js", Pedro Seromenho. [Link Github](https://github.com/alvarotrigo/fullPage.js)
+
 
 
