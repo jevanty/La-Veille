@@ -7,7 +7,6 @@ Format à respecter:
 
 ## L'agenda des veilles à Lovelace 2
 - Lundi 25/06/2018, "RPG Maker mv avec Js ",Morganne Meganck 
-- Mardi 26/06/2018, "FullPage.js", Pedro Seromenho
 - Mercredi 27/06/2018, Romain
 - Jeudi 28/06/2018  "Algorithme de tris",  Claudiu;
 - Vendredi 29/06/2018    Mostapha
