@@ -159,7 +159,7 @@ Format à respecter:
 | Lu 25/06 | Philippe | [Veille d'urgence: AngularJS VS ReactJS VS VueJS](https://prezi.com/view/V7Iz3N3bIswIGViEb6Ds/)|
 | Ma 26/06 | Jérôme| La neutralité du net|
 | Me 27/06 | Morgan | UML |
-| Je 28/06 | Kévin |
+| Je 28/06 | Kévin | iNex Circular
 | Ve 29/06 | Jennifer | Bootstrap 4 VS Bootstrap 3 |
 
 <details> 
