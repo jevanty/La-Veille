@@ -158,8 +158,8 @@ Format à respecter:
 | Ve 22/06 | Ecole | Journée initiation aux codes |
 | Lu 25/06 | Philippe | [Veille d'urgence: AngularJS VS ReactJS VS VueJS](https://prezi.com/view/V7Iz3N3bIswIGViEb6Ds/)|
 | Ma 26/06 | Jérôme| [La neutralité du net](https://prezi.com/view/R5CpNFTkU3UWCwAhlW5Y/)|
-| Me 27/06 | Morgan | UML |
-| Je 28/06 | Jordan
+| Me 27/06 | Morgan | [UML](https://prezi.com/2ryfti0vixg6/uml-les-diagrammes-de-classes/) |
+| Je 28/06 | Jordan | |
 | Ve 29/06 | Jennifer | Différences entre Bootstrap 3 et Bootstrap 4 |
 
 <details> 
@@ -167,7 +167,7 @@ Format à respecter:
  
 | Quand         | Qui              | Quoi              |
 |:----------------:|:----------------:| ------------------:|
-| Lu 02/07 | Kévin |
+| Lu 02/07 | Kévin | |
 | Ma 03/07 |  |
 | Me 04/07 |  |
 | Je 05/07 |  |
@@ -235,7 +235,7 @@ Format à respecter:
 |Ceccoti	Ludovic  | 4|
 |Leers	Mathieu    | 3|
 |Bourloo	Michael  | 3|
-|Mignot	Morgan    | 2|
+|Mignot	Morgan    | 3|
 |Hennaux	Philippe | 4|
 |Grotard	Romain   | 3|
 |Klewiec	Sarah    | 3|
