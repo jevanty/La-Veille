@@ -157,10 +157,11 @@ Format à respecter:
 | Je 21/06 | Félix | Les lampes de laves |
 | Ve 22/06 | Ecole | Journée initiation aux codes |
 | Lu 25/06 | Philippe | [Veille d'urgence: AngularJS VS ReactJS VS VueJS](https://prezi.com/view/V7Iz3N3bIswIGViEb6Ds/)|
-| Ma 26/06 | Jérôme| La neutralité du net|
+| Ma 26/06 | Jérôme| [La neutralité du net](
+https://prezi.com/view/R5CpNFTkU3UWCwAhlW5Y/)|
 | Me 27/06 | Morgan | UML |
-| Je 28/06 | Kévin | iNex Circular
-| Ve 29/06 | Jennifer | Bootstrap 4 VS Bootstrap 3 |
+| Je 28/06 | Kévin | iNex Circular |
+| Ve 29/06 | Jennifer | Différences entre Bootstrap 3 et Bootstrap 4 |
 
 <details> 
   <summary>Juillet</summary>
