@@ -160,7 +160,7 @@ Format à respecter:
 | Ma 26/06 | Jérôme| [La neutralité du net](https://prezi.com/view/R5CpNFTkU3UWCwAhlW5Y/)|
 | Me 27/06 | Morgan | [UML](https://prezi.com/2ryfti0vixg6/uml-les-diagrammes-de-classes/) |
 | Je 28/06 | Jordan | WPA3 |
-| Ve 29/06 | Jennifer | Différences entre Bootstrap 3 et Bootstrap 4 |
+| Ve 29/06 | Philippe | Veille improvisé: TypeScript |
 
 <details> 
   <summary>Juillet</summary>
@@ -168,7 +168,7 @@ Format à respecter:
 | Quand         | Qui              | Quoi              |
 |:----------------:|:----------------:| ------------------:|
 | Lu 02/07 | Kévin | |
-| Ma 03/07 |  |
+| Ma 03/07 | Jennifer | Différences entre Bootstrap 3 et Bootstrap 4 |
 | Me 04/07 |  |
 | Je 05/07 |  |
 | Ve 06/07 |  |
