@@ -159,7 +159,7 @@ Format à respecter:
 | Lu 25/06 | Philippe | [Veille d'urgence: AngularJS VS ReactJS VS VueJS](https://prezi.com/view/V7Iz3N3bIswIGViEb6Ds/)|
 | Ma 26/06 | Jérôme| [La neutralité du net](https://prezi.com/view/R5CpNFTkU3UWCwAhlW5Y/)|
 | Me 27/06 | Morgan | [UML](https://prezi.com/2ryfti0vixg6/uml-les-diagrammes-de-classes/) |
-| Je 28/06 | Jordan | WPA3 |
+| Je 28/06 | Jordan | [WPA3](https://contattafiles.s3.us-west-1.amazonaws.com/tnt14094/vjyNeVjOYOCKaOi/wpa3.txt) |
 | Ve 29/06 | Philippe | Veille improvisé: TypeScript |
 
 <details> 
