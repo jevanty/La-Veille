@@ -136,7 +136,7 @@ Format à respecter:
 
 </details>
 
-### Juin
+  <summary>Juin</summary>
 
 | Quand         | Qui              | Quoi              |
 |:----------------:|:----------------:| ------------------:|
@@ -163,7 +163,7 @@ Format à respecter:
 | Ve 29/06 | Philippe | 404 Veille not found (Coupure de courant) |
 
 <details> 
-  <summary>Juillet</summary>
+  #### Juillet
  
 | Quand         | Qui              | Quoi              |
 |:----------------:|:----------------:| ------------------:|
