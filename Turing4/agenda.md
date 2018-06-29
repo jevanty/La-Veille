@@ -160,7 +160,7 @@ Format à respecter:
 | Ma 26/06 | Jérôme| [La neutralité du net](https://prezi.com/view/R5CpNFTkU3UWCwAhlW5Y/)|
 | Me 27/06 | Morgan | [UML](https://prezi.com/2ryfti0vixg6/uml-les-diagrammes-de-classes/) |
 | Je 28/06 | Jordan | [WPA3](https://contattafiles.s3.us-west-1.amazonaws.com/tnt14094/vjyNeVjOYOCKaOi/wpa3.txt) |
-| Ve 29/06 | Philippe | Veille improvisé: TypeScript |
+| Ve 29/06 | Philippe | 404 Veille not found (Coupure de courant) |
 
 <details> 
   <summary>Juillet</summary>
