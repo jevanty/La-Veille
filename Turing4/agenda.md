@@ -135,7 +135,7 @@ Format à respecter:
 | Je 31/05 | Bryan | les api graphiques (directX et Vulkan) |
 
 </details>
-
+<details>
   <summary>Juin</summary>
 
 | Quand         | Qui              | Quoi              |
@@ -161,8 +161,8 @@ Format à respecter:
 | Me 27/06 | Morgan | [UML](https://prezi.com/2ryfti0vixg6/uml-les-diagrammes-de-classes/) |
 | Je 28/06 | Jordan | [WPA3](https://contattafiles.s3.us-west-1.amazonaws.com/tnt14094/vjyNeVjOYOCKaOi/wpa3.txt) |
 | Ve 29/06 | Philippe | 404 Veille not found (Coupure de courant) |
+</details> 
 
-<details> 
   #### Juillet
  
 | Quand         | Qui              | Quoi              |
@@ -190,7 +190,6 @@ Format à respecter:
 | Lu 30/07 |  | |
 | Ma 31/07 |  | |
 
-</details> 
 
 <details> 
   <summary>Août</summary>
