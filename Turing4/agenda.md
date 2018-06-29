@@ -169,7 +169,7 @@ Format à respecter:
 |:----------------:|:----------------:| ------------------:|
 | Lu 02/07 | Kévin | |
 | Ma 03/07 | Jennifer | Différences entre Bootstrap 3 et Bootstrap 4 |
-| Me 04/07 |  | |
+| Me 04/07 | Ludo | Gatsby |
 | Je 05/07 |  | |
 | Ve 06/07 |  | |
 | Lu 09/07 |  | |
