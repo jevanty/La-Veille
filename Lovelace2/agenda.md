@@ -6,10 +6,7 @@ Format à respecter:
 - date (dd/mm/yyyy) , "Sujet" ,  Prénom et Nom, Lien (si nécessaire)
 
 ## L'agenda des veilles à Lovelace 2
-- Lundi 25/06/2018, "RPG Maker mv avec Js ",Morganne Meganck 
-- Mercredi 27/06/2018, Romain
-- Jeudi 28/06/2018  "Algorithme de tris",  Claudiu;
-- Vendredi 29/06/2018    Mostapha
+
 VACANCES
 - Lundi 09/07/2018, "Stockage ADN", Sourech Bauts (Le Parrain 5)
 - Mardi 10/07/2018, ??? Son ;
@@ -77,8 +74,11 @@ VACANCES
 
 - Vendredi 22/06/2018 ; "Sniffers & Spoofing" (Meilyn ANDRADE)
 [PPT](sniffers.ppt)
-
+- Lundi 25/06/2018, "RPG Maker mv avec Js ",Morganne Meganck 
 - Mardi 26/06/2018; "fullpage.js", Pedro Seromenho. [Link Github](https://github.com/alvarotrigo/fullPage.js)
+- Mercredi 27/06/2018, "tips en JS" Romain
+- Jeudi 28/06/2018  "Algorithme de tris",  Claudiu;
+- Vendredi 29/06/2018  ".NET",  Mostapha;
 
 
 
