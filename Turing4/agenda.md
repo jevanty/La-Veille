@@ -235,7 +235,7 @@ Format à respecter:
 |Leers	Mathieu    | 3|
 |Bourloo	Michael  | 3|
 |Mignot	Morgan    | 3|
-|Hennaux	Philippe | 4|
+|Hennaux	Philippe | 5|
 |Grotard	Romain   | 3|
 |Klewiec	Sarah    | 3|
 |Da Cruz-Matias	Sébatsien | 3|
