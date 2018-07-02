@@ -176,7 +176,7 @@ Format à respecter:
 | Ma 10/07 |  | |
 | Me 11/07 |  | |
 | Je 12/07 |  | |
-| Ve 13/07 | Claude | Serverless & Cloud |
+| Ve 13/07 |  | |
 | Lu 16/07 | Romain | Les languages exotiques |
 | Ma 17/07 |  | |
 | Me 18/07 |  | |
@@ -186,7 +186,7 @@ Format à respecter:
 | Ma 24/07 |  | |
 | Me 25/07 |  | |
 | Je 26/07 |  | |
-| Ve 27/07 |  | |
+| Ve 27/07 | Claude | Serverless & Cloud |
 | Lu 30/07 |  | |
 | Ma 31/07 |  | |
 
