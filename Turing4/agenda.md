@@ -167,10 +167,10 @@ Format à respecter:
  
 | Quand         | Qui              | Quoi              |
 |:----------------:|:----------------:| ------------------:|
-| Lu 02/07 | Kévin | |
+| Lu 02/07 | Philippe | TypeScript |
 | Ma 03/07 | Jennifer | Différences entre Bootstrap 3 et Bootstrap 4 |
 | Me 04/07 | Ludo | Gatsby |
-| Je 05/07 | Philippe | TypeScript |
+| Je 05/07 |  | TypeScript |
 | Ve 06/07 |  | |
 | Lu 09/07 |  | |
 | Ma 10/07 |  | |
