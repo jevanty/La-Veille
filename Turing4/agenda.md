@@ -170,7 +170,7 @@ Format à respecter:
 | Lu 02/07 | Philippe | [TypeScript](https://prezi.com/p/lzovgvyh5ifq/) |
 | Ma 03/07 |  |  |
 | Me 04/07 | Ludo | Gatsby |
-| Je 05/07 |  | |
+| Je 05/07 |  Kévin| |
 | Ve 06/07 |  | |
 | Lu 09/07 | Jennifer | Différences entre Bootstrap 3 et Bootstrap 4 |
 | Ma 10/07 |  | |
