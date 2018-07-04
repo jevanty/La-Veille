@@ -178,7 +178,7 @@ Format à respecter:
 | Je 12/07 |  | |
 | Ve 13/07 |  | |
 | Lu 16/07 | Romain | Les languages exotiques |
-| Ma 17/07 |  | |
+| Ma 17/07 | Michael | WIP |
 | Me 18/07 |  | |
 | Je 19/07 |  | |
 | Ve 20/07 |  | |
