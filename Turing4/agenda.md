@@ -1,5 +1,8 @@
 ﻿# Veille: ordre de passage à Turing 4
  
+ > Ludovic Patho 04/0 Wed 10:15am
+> oui plus de veille jusqu'au 3 aôut, sauf si certains l'ont déjà préparé, histoire que le travail ne soit pas fait pour rien
+ 
  ### Veille Master
 - pour le calendrier du 05/03 au 16/03/2018 : ***ARNAUD D.***
 - pour le calendrier du 19/03 au 30/03/2018 : ***SARAH K.*** 
@@ -161,9 +164,10 @@ Format à respecter:
 | Me 27/06 | Morgan | [UML](https://prezi.com/2ryfti0vixg6/uml-les-diagrammes-de-classes/) |
 | Je 28/06 | Jordan | [WPA3](https://contattafiles.s3.us-west-1.amazonaws.com/tnt14094/vjyNeVjOYOCKaOi/wpa3.txt) |
 | Ve 29/06 | Philippe | Error: 404 Veille not found (Coupure de courant) |
-</details> 
+</details>
 
-  #### Juillet
+<details>
+  <summary>Juillet</summary>
  
 | Quand         | Qui              | Quoi              |
 |:----------------:|:----------------:| ------------------:|
@@ -177,7 +181,7 @@ Format à respecter:
 | Me 11/07 |  | |
 | Je 12/07 |  | |
 | Ve 13/07 |  | |
-| Lu 16/07 | Romain | Les languages exotiques |
+| Lu 16/07 | Romain | Les langues exotiques |
 | Ma 17/07 |  |  |
 | Me 18/07 |  | |
 | Je 19/07 |  | |
@@ -186,20 +190,20 @@ Format à respecter:
 | Ma 24/07 |  | |
 | Me 25/07 |  | |
 | Je 26/07 |  | |
-| Ve 27/07 | Claude | Three fights (PHP vs Python, Yii2 vs Laravel, Craft vs Wordpress) + Serverless & Cloud |
+| Ve 27/07 |  | |
 | Lu 30/07 |  | |
 | Ma 31/07 |  | |
+</details>
 
+> Ludovic Patho 04/0 Wed 10:15am
+> oui plus de veille jusqu'au 3 aôut, sauf si certains l'ont déjà préparé, histoire que le travail ne soit pas fait pour rien
 
-<details> 
-  <summary>Août</summary>
+### Août
 
 | Quand         | Qui              | Quoi              |
 |:----------------:|:----------------:| ------------------:|
-| Me 01/08 |  | |
-| Je 02/08 |  | |
 | Ve 03/08 |  | |
-| Lu 06/08 |  | |
+| Lu 06/08 | Claude | Three fights (PHP vs Python, Yii2 vs Laravel, Craft vs Wordpress) + Serverless & Cloud |
 | Ma 07/08 |  | |
 | Me 08/08 |  | |
 | Je 09/08 |  | |
@@ -209,8 +213,6 @@ Format à respecter:
 | Me 15/08 |  | |
 | Je 16/08 |  | |
 | Ve 17/08 |  | |
-
-</details> 
 
 ### Nb de veilles déjà faites :
 
