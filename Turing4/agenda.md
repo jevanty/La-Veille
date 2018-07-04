@@ -186,7 +186,7 @@ Format à respecter:
 | Ma 24/07 |  | |
 | Me 25/07 |  | |
 | Je 26/07 |  | |
-| Ve 27/07 | Claude | Serverless & Cloud |
+| Ve 27/07 | Claude | Three fight (PHP vs Python, Yii2 vs Laravel, Craft vs Wordpress) + Serverless & Cloud |
 | Lu 30/07 |  | |
 | Ma 31/07 |  | |
 
