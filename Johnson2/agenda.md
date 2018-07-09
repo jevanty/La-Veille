@@ -61,12 +61,13 @@ du 02/07 au 06/07/2018 "*congé*"
 
 ### Juillet
 
-- Lundi 09/07/2018 "*Sujet à venir*" **Marie Cambie**
-- Mardi 10/07/2018 "*CMS (Wordpress & Drupal)*" **Lamri Mery**
+- Lundi 09/07/2018 
+- Mardi 10/07/2018 "*Sujet à venir*" **Marie Cambie**
 - Mercredi 11/07/2018 "*Sujet à venir*" **Jesse Fumba**
-- Jeudi 12/07/2018 "*Regular Expressions*" **Eric Lavachery**
+- Jeudi 12/07/2018 "*CMS (Wordpress & Drupal)*" **Lamri Mery**
 - Vendredi 13/07/2018  "*Sujet à venir*" **Guillaume Kreit**
 
 - Lundi 16/07/2018 "*Sujet à venir*" **Liam Carlier**
 - Mardi 17/07/2018 "*UX*" **Geraldine Winand**
 - Mercredi 18/07/2018 "*Canvas JS*" **Antoni Dalle Nogare**
+- Jeudi 19/07/2018 "*Regular Expressions*" **Eric Lavachery**
