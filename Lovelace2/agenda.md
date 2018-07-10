@@ -9,7 +9,7 @@ Format à respecter:
 
 VACANCES
 - Lundi 09/07/2018, "Stockage ADN", Sourech Bauts (Le Parrain 5)
-- Mardi 10/07/2018, ??? Son ;
+- Mardi 10/07/2018, "Partage d'expérince: travail à distance dans un groupe hétérogène" Son ;
 - Mercred 11/07/2018 ??? Sammuel ;
 - Jeudi 12/07/2018, ??? Mohamed;
 - Vendredi 13/07/2018, ??? Liliane;
