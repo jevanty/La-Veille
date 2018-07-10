@@ -63,7 +63,7 @@ du 02/07 au 06/07/2018 "*congé*"
 
 - Lundi 09/07/2018 
 - Mardi 10/07/2018 "*Sujet à venir*" **Marie Cambie**
-- Mercredi 11/07/2018 "*Sujet à venir*" **Jesse Fumba**
+- Mercredi 11/07/2018 "*Net neutrality*" **Jesse Fumba**
 - Jeudi 12/07/2018 "*CMS (Wordpress & Drupal)*" **Lamri Mery**
 - Vendredi 13/07/2018  "*Sujet à venir*" **Guillaume Kreit**
 
