@@ -69,5 +69,5 @@ du 02/07 au 06/07/2018 "*congé*"
 
 - Lundi 16/07/2018 "*Sujet à venir*" **Liam Carlier**
 - Mardi 17/07/2018 "*UX*" **Geraldine Winand**
-- Mercredi 18/07/2018 "*Canvas JS*" **Antoni Dalle Nogare**
+- Mercredi 18/07/2018 "*Angular*" **Antoni Dalle Nogare**
 - Jeudi 19/07/2018 "*Regular Expressions*" **Eric Lavachery**
