@@ -8,11 +8,7 @@ Format à respecter:
 ## L'agenda des veilles à Lovelace 2
 
 VACANCES
-- Lundi 09/07/2018, "Stockage ADN", Sourech Bauts (Le Parrain 5)
-- Mardi 10/07/2018, "Partage d'expérince: travail à distance dans un groupe hétérogène" Son ;
-- Mercred 11/07/2018 ??? Sammuel ABSENT >>> remis au 26/07 ;
-- Jeudi 12/07/2018, "PHP, node.js" Mohamed;
-- Vendredi 13/07/2018, ??? Liliane;
+
 - Lundi 16/07/2018, ??? Geoffrey;
 - Mardi 17/07/2018, ??? Guillaume;
 - Mercredi 18/07/2018, "Web Scrapping, Parsing and Crawling", Michael D;
@@ -22,6 +18,7 @@ VACANCES
 - MArdi 24/07/2018, ??? , Andrea;
 - Mercredi 25/07/2018, "Code et technologie dans l'avancée médicale ", Julie;
 - jeudi 26/07/2018 ??? Sammuel;
+- vendredi 27/07/2018 ??? Liliane
 
 
 
@@ -81,6 +78,9 @@ VACANCES
 - Mercredi 27/06/2018, "tips en JS" Romain
 - Jeudi 28/06/2018  "Algorithme de tris",  Claudiu;
 - Vendredi 29/06/2018  ".NET",  Mostapha;
+- Lundi 09/07/2018, "Stockage ADN", Sourech Bauts (Le Parrain 5)
+- Mardi 10/07/2018, "Partage d'expérince: travail à distance dans un groupe hétérogène" Son ;
+- Jeudi 12/07/2018, "PHP, node.js" Mohamed;
 
 
 
