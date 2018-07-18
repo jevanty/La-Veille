@@ -11,7 +11,7 @@ VACANCES
 
 - Lundi 16/07/2018, ??? Geoffrey;
 - Mardi 17/07/2018, ??? Guillaume;
-- Mercredi 18/07/2018, "Web Scrapping, Parsing and Crawling", Michael D;
+- Mercredi 18/07/2018, "Web Scraping and Crawling", Michael D;
 - Jeudi 19/07/2018, ??? GaËtano;
 - Vendredi 20/07/2018, "No idea!", Mariane Niwemfura;
 - Lundi 23/07/2018, ???,  Paul;
