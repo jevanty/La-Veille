@@ -9,16 +9,18 @@ Format à respecter:
 
 VACANCES
 
-- Lundi 16/07/2018, ??? Geoffrey;
-- Mardi 17/07/2018, ??? Guillaume;
-- Mercredi 18/07/2018, "Web Scraping and Crawling", Michael D;
-- Jeudi 19/07/2018, ??? ~Gaëtano~;
+
+
 - Vendredi 20/07/2018, "No idea!", Mariane Niwemfura;
 - Lundi 23/07/2018, ???,  Paul;
 - MArdi 24/07/2018, ??? , Andrea;
 - Mercredi 25/07/2018, "Code et technologie dans l'avancée médicale ", Julie;
 - jeudi 26/07/2018 ??? Sammuel;
 - vendredi 27/07/2018 ??? Liliane
+- lundi 30/07/2018, "Web Scraping and Crawling", Michael D;
+- Mardi 31/07/2018, ??? ~Gaëtano~;
+
+
 
 
 
@@ -81,6 +83,8 @@ VACANCES
 - Lundi 09/07/2018, "Stockage ADN", Sourech Bauts (Le Parrain 5)
 - Mardi 10/07/2018, "Partage d'expérince: travail à distance dans un groupe hétérogène" Son ;
 - Jeudi 12/07/2018, "PHP, node.js" Mohamed;
+- Lundi 16/07/2018,  Geoffrey;
+- Mardi 17/07/2018,  Guillaume;
 
 
 
