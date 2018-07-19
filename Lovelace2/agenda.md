@@ -84,7 +84,7 @@ VACANCES
 - Mardi 10/07/2018, "Partage d'expérince: travail à distance dans un groupe hétérogène" Son ;
 - Jeudi 12/07/2018, "PHP, node.js" Mohamed;
 - Lundi 16/07/2018,  Geoffrey;
-- Mardi 17/07/2018,  Guillaume;
+- Mardi 17/07/2018,  " Mass Surveillance" Guillaume;
 
 
 
