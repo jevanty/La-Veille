@@ -1,37 +1,25 @@
 
-
 # Veille: ordre de passage à Lovelace 2
 
-<<<<<<< HEAD
 Format à respecter:
 - date (dd/mm/yyyy) , "Sujet" ,  Prénom et Nom, Lien (si nécessaire)
-=======
-- lundi 2/5/2018, "Parcours pédagogique", Alexandre Plennevaux, [lien vers le schéma](https://docs.google.com/drawings/d/1kKAMz1jTaK0-8Glg136j3T1C3kCKaq-gFEju1FxsVCs/edit);
-- 14/5/2018, **(www.Labex.io)** Des cours gratuits avec des environnements virtualisés pour apprendre à coder,
- **DUPLEX** – L’assistant de Google qui parle en votre nom.
- **Skeep** – Contrôler vos données personnelles facilement (APP).- Meilyn ANDRADE
-- lundi 21/05/2018: "Le Revenu de Base Universel", Romain Vandevoorde
-- mardi 8/05/2018, "Le basilic de Roko", Dylan Valente
-- mercredi 16/5/2018, "Typographie et layout dans le web", Pedro Seromenho
-- Mercredi 23/05/2018, "Découverte l'Inde", Sourech Bauts
-- jeudi 24/5/2018, "Blockchain et gaming", (Quang) Son Le;
-- Vendredi 25/05/2018, " ", Sammuel JANSSENS
-<<<<<<< HEAD
->>>>>>> ecf6b1c248f67c8cd0547c4dd3ffc514c023a9f7
 
 ## L'agenda des veilles à Lovelace 2
 
-- Mercredi 06/06/2018, "?", Paul Henrot
-- Jeudi 07/06/2018, "Programming Languages", Mariane Niwemfura
-- Vendredi 08/06/2018, "Arduino" ,  Andrea Pinna
-- Lundi 11/06/2018, "évolution du webdesign à travers les ages ", Julie Connerotte
-----
-- Mardi 12/06/2018, "?",
-- Mercredi 13/06/2018, "Le modèle MVC", Ludovic Hautecoeur
-- Jeudi 14/06/2018, "?",
-- Vendredi 15/06/2018, "?",
+VACANCES
 
-<<<<<<< HEAD
+
+
+- Vendredi 20/07/2018, "Introduction to Regular Expressions", Mariane Niwemfura;
+- Lundi 23/07/2018, ???,  Paul;
+- MArdi 24/07/2018, ??? , Andrea;
+- Mercredi 25/07/2018, "Code et technologie dans l'avancée médicale ", Julie;
+- jeudi 26/07/2018 ??? Sammuel;
+- vendredi 27/07/2018 ??? Liliane
+- lundi 30/07/2018, "Web Scraping and Crawling", Michael D;
+- Mardi 31/07/2018, ??? ~Gaëtano~;
+
+
 ## Archive
 
 - Lundi 02/05/2018, "Parcours pédagogique", Alexandre Plennevaux, [lien vers le schéma](https://docs.google.com/drawings/d/1kKAMz1jTaK0-8Glg136j3T1C3kCKaq-gFEju1FxsVCs/edit)
@@ -47,7 +35,7 @@ Format à respecter:
 - Jeudi 17/05/2018, "Les méthodologies de travail (Cascade, Agile, Scrum)", Mostapha Tahri
 - Vendredi 18/05/2018  "Back & Front-End", Nadir Mohamed Ali
 - Mardi 22/05/2018: "Le Revenu de Base Universel", Romain Vandevoorde
-- Mercredi 23/05/2018, "Découverte l'Inde", Sourech Bauts
+- Mercredi 23/05/2018, "Ordinateur Quantique", Sourech Bauts lien (https://docs.google.com/presentation/d/1XEBBdjMMMogkeHoDo-qI0alQXXXT0AXg5giFqyGZ_Ek/edit#slide=id.g3acd8796be_0_46)
 - Jeudi 24/05/2018, "Blockchain et gaming", (Quang) Son Le, liens utiles: https://www.youtube.com/watch?v=bBC-nXj3Ng4&feature=youtu.be(vulgarisation des crypto-monnaies), https://www.stateofthedapps.com/ (projets basés sur le blockchain), https://www.gamasutra.com/blogs/PaulGadi/20180305/315168/Insert_Token_How_The_Blockchain_Will_Revolutionize_The_GameIndustry.php (blockchaine et économie dans les jeux vidéo), https://www.usgamer.net/articles/blockchain-and-you-what-does-blockchain-even-do-for-video-games (article généraliste)
 - Vendredi 25/05/2018, "Outils design", Sammuel JANSSENS
 	- [Slides](https://docs.google.com/presentation/u/2/d/1J-XPoF-dSrt5EgsjQINcoM78wmsUKWhbCd327wScQos/edit?ouid=100446203648814916150&usp=slides_home&ths=true)
@@ -68,23 +56,28 @@ Format à respecter:
 
 - Mardi 05/06/2018, "La réalité virtuelle", Mico Latorre Gaëtano
        * lien vers la présentation : (https://github.com/becodeorg/La-Veille/blob/master/Lovelace2/LaRealiteVirtuelle.pptx)
-=======
-=======
-- lundi 28/05/2018 , "Chromebook" , Claudiu Cornea
-- 29/05/2018, Subject ?, Liliane, Mamane
-- Jeudi (31/05/2018) , "Sujet" ,  Andrea Pinna
-- Vendredi 08/06/2018, "?", Julie Connerotte;
- 
->>>>>>> dd0ced74924171d37275ab38d9bd2f8fa28c3f33
-## Archive
+- Vendredi 08/06/2018, "Programming Languages", Mariane Niwemfura
+- Lundi 11/06/2018, "?", Paul Henrot
+- Mardi 12/06/2018, "Custom Ubuntu" , Andrea Pinna
+- Mercredi 13/06/2018, "évolution du webdesign à travers les ages ", Julie Connerotte
+	[Powerpoint de la présentation](https://docs.google.com/presentation/d/1GnMLzPNV-ybbDvQu_hqQboVkEdkN_1xYmafyLMGL8Xo/edit?usp=sharing)
+- Jeudi 14/06/2018, "?", Dhoore Ludovic
+- Vendredi 15/06/2018, "Arduino", Hautecoeur Ludovic [Lien vers les Slides](https://docs.google.com/presentation/d/17UbdjLZ67VZeILCcX82uXTj7koZbEOkxcM_VXATaZV0/edit?usp=sharing)
+- Mardi 19/06/2018, "Attributs Data", Valente Dylan
+	- [AOS.JS](https://michalsnik.github.io/aos/)
+	- [FormValidator](http://www.formvalidator.net/)
+- Mercredi 20/06/2018, "Sites web pour développeurs", Baptiste Firket [Liste des sites](https://docs.google.com/document/d/1hiLLPD9PLhZetw8LLoW0qA6fTHgPN8xpaB1qobsFSqA/edit?usp=sharing)
+-  Jeudi 21/06/2018, "Net Neutrality" , Stéphane Wyns
 
-- vendredi 11/5/2018, "La Technologie, ami ou ennemi de l'emploie ?", Stéphane Wyns
-- lundi 21/05/2018: "Le Revenu de Base Universel", Romain Vandevoorde
-- lundi 28/05/2018 , "Chromebook" , Claudiu Cornea
-<<<<<<< HEAD
-=======
-- vendredi 4/5/2018, "présentation du raspberry pi", Ludovic Hautecoeur
-- vendredi 11/5/2018, "La Technologie, ami ou ennemi de l'emploie ?", Stéphane Wyns
-
->>>>>>> dd0ced74924171d37275ab38d9bd2f8fa28c3f33
->>>>>>> ecf6b1c248f67c8cd0547c4dd3ffc514c023a9f7
+- Vendredi 22/06/2018 ; "Sniffers & Spoofing" (Meilyn ANDRADE)
+[PPT](sniffers.ppt)
+- Lundi 25/06/2018, "RPG Maker mv avec Js ",Morganne Meganck 
+- Mardi 26/06/2018; "fullpage.js", Pedro Seromenho. [Link Github](https://github.com/alvarotrigo/fullPage.js)
+- Mercredi 27/06/2018, "tips en JS" Romain
+- Jeudi 28/06/2018  "Algorithme de tris",  Claudiu;
+- Vendredi 29/06/2018  ".NET",  Mostapha;
+- Lundi 09/07/2018, "Stockage ADN", Sourech Bauts (Le Parrain 5)
+- Mardi 10/07/2018, "Partage d'expérince: travail à distance dans un groupe hétérogène" Son ;
+- Jeudi 12/07/2018, "PHP, node.js" Mohamed;
+- Lundi 16/07/2018,  Geoffrey;
+- Mardi 17/07/2018,  " Mass Surveillance" Guillaume;
