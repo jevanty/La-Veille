@@ -73,3 +73,12 @@ du 02/07 au 06/07/2018 "*congé*"
 - Jeudi 19/07/2018 "*Regular Expressions*" **Eric Lavachery**
 - Vendredi 20/07/2018 "*Space X*" **Hakan Poyraz**
 - Lundi 23/07/2018 "*les noms de domaine*" **Adrien d'Oreye**
+- Mardi 24/07/2018 "*Sujet à venir*" **???**
+- Mercredi 25/07/2018 "*Sujet à venir*" **???**
+- Jeudi 26/07/2018 "*Sujet à venir*" **???**
+- Vendredi 27/07/2018 "*Sujet à venir*" **???**
+- Lundi 30/07/2018 "*Sujet à venir*" **???**
+- Mardi 31/07/2018 "*Sujet à venir*" **???**
+- Mercredi 1/08/2018 "*Sujet à venir*" **???**
+- Jeudi 2/08/2018 "*Sujet à venir*" **???**
+- Vendredi 3/08/2018 "*Sujet à venir*" **???**
