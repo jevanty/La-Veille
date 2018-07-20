@@ -11,7 +11,7 @@ VACANCES
 
 
 
-- Vendredi 20/07/2018, "No idea!", Mariane Niwemfura;
+- Vendredi 20/07/2018, "Introduction to Regular Expressions", Mariane Niwemfura;
 - Lundi 23/07/2018, ???,  Paul;
 - MArdi 24/07/2018, ??? , Andrea;
 - Mercredi 25/07/2018, "Code et technologie dans l'avancée médicale ", Julie;
