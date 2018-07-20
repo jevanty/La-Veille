@@ -72,13 +72,30 @@ du 02/07 au 06/07/2018 "*congé*"
 - Mercredi 18/07/2018 "*Angular*" **Antoni Dalle Nogare**
 - Jeudi 19/07/2018 "*Regular Expressions*" **Eric Lavachery**
 - Vendredi 20/07/2018 "*Space X*" **Hakan Poyraz**
+
 - Lundi 23/07/2018 "*les noms de domaine*" **Adrien d'Oreye**
 - Mardi 24/07/2018 "*Sujet à venir*" **???**
 - Mercredi 25/07/2018 "*Sujet à venir*" **???**
 - Jeudi 26/07/2018 "*Sujet à venir*" **???**
 - Vendredi 27/07/2018 "*Sujet à venir*" **???**
+
 - Lundi 30/07/2018 "*Sujet à venir*" **???**
 - Mardi 31/07/2018 "*Sujet à venir*" **???**
+
+### Août
+
 - Mercredi 1/08/2018 "*Sujet à venir*" **???**
 - Jeudi 2/08/2018 "*Sujet à venir*" **???**
 - Vendredi 3/08/2018 "*Sujet à venir*" **???**
+
+- Lundi 6/08/2018 "*Sujet à venir*" **???**
+- Mardi 7/08/2018 "*Sujet à venir*" **???**
+- Mercredi 8/08/2018 "*Sujet à venir*" **???**
+- Jeudi 9/08/2018 "*Sujet à venir*" **???**
+- Vendredi 10/08/2018 "*Sujet à venir*" **???**
+
+- Lundi 12/08/2018 "*Sujet à venir*" **???**
+- Mardi 13/08/2018 "*Sujet à venir*" **???**
+- Mercredi 14/08/2018 "*Sujet à venir*" **???**
+- Jeudi 15/08/2018 "*Sujet à venir*" **???**
+- Vendredi 16/08/2018 "*Sujet à venir*" **???**
