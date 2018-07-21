@@ -98,4 +98,4 @@ du 02/07 au 06/07/2018 "*congé*"
 - Mardi 13/08/2018 "*Sujet à venir*" **???**
 - Mercredi 14/08/2018 "*Sujet à venir*" **???**
 - Jeudi 15/08/2018 "*jour férié*" 
-- Vendredi 16/08/2018 "*Sujet à venir*" **Jesse Fumba**
+- Vendredi 16/08/2018 "*Le défilement parallaxe*" **Jesse Fumba**
