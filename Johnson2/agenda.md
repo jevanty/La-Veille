@@ -77,7 +77,7 @@ du 02/07 au 06/07/2018 "*congé*"
 - Mardi 24/07/2018 "*Réalité virtuelle et réalité augmentée*" **Alexandre Infanti**
 - Mercredi 25/07/2018 "*Sujet à venir*" **???**
 - Jeudi 26/07/2018 "*Sujet à venir*" **Thibault Gribaumont**
-- Vendredi 27/07/2018 "*Sujet à venir*" **???**
+- Vendredi 27/07/2018 "*Sujet à venir*" **Massimo Regaglia**
 
 - Lundi 30/07/2018 "*Sujet à venir*" **Charlotte Tusset**
 - Mardi 31/07/2018 "*les noms de domaine*" **Adrien d'Oreye**
