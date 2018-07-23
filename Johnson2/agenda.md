@@ -76,10 +76,10 @@ du 02/07 au 06/07/2018 "*congé*"
 - Lundi 23/07/2018 "**workshop**"
 - Mardi 24/07/2018 "*Réalité virtuelle et réalité augmentée*" **Alexandre Infanti**
 - Mercredi 25/07/2018 "*Sujet à venir*" **???**
-- Jeudi 26/07/2018 "*Sujet à venir*" **???**
+- Jeudi 26/07/2018 "*Sujet à venir*" **Thibault Gribaumont**
 - Vendredi 27/07/2018 "*Sujet à venir*" **???**
 
-- Lundi 30/07/2018 "*Sujet à venir*" **???**
+- Lundi 30/07/2018 "*Sujet à venir*" **Charlotte Tusset**
 - Mardi 31/07/2018 "*les noms de domaine*" **Adrien d'Oreye**
 
 ### Août
