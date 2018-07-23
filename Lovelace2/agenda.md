@@ -11,7 +11,6 @@ VACANCES
 
 
 
-- Vendredi 20/07/2018, "Introduction to Regular Expressions", Mariane Niwemfura;  [Link to the watch](https://docs.google.com/presentation/d/1GJD7f45YM6maDWzgmzfw4hDOsJ2XlMm1rjG0_gQr058/edit#slide=id.p)
 - Lundi 23/07/2018, ???,  Paul;
 - MArdi 24/07/2018, ??? , Andrea;
 - Mercredi 25/07/2018, "Code et technologie dans l'avancée médicale ", Julie;
@@ -85,6 +84,7 @@ VACANCES
 - Jeudi 12/07/2018, "PHP, node.js" Mohamed;
 - Lundi 16/07/2018,  Geoffrey;
 - Mardi 17/07/2018,  " Mass Surveillance" Guillaume;
+- Vendredi 20/07/2018, "Introduction to Regular Expressions", Mariane Niwemfura;  [link to the watch](https://docs.google.com/presentation/d/1GJD7f45YM6maDWzgmzfw4hDOsJ2XlMm1rjG0_gQr058/edit#slide=id.p)
 
 
 
