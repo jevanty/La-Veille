@@ -85,7 +85,7 @@ du 02/07 au 06/07/2018 "*congé*"
 ### Août
 
 - Mercredi 01/08/2018 "*React.js*" **Cédric Fournier**
-- Jeudi 02/08/2018 "*Sujet à venir*" **???**
+- Jeudi 02/08/2018 "*Sujet à venir*" **Nathan Houtain**
 - Vendredi 03/08/2018 "*Sujet à venir*" **???**
 
 - Lundi 6/08/2018 "*Sujet à venir*" **???**
