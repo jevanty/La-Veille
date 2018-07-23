@@ -73,7 +73,7 @@ du 02/07 au 06/07/2018 "*congé*"
 - Jeudi 19/07/2018 "*Regular Expressions*" **Eric Lavachery**
 - Vendredi 20/07/2018 "*Space X*" **Hakan Poyraz**
 
-- Lundi 23/07/2018 "*Sujet à venir*" **???**
+- Lundi 23/07/2018 "**workshop**"
 - Mardi 24/07/2018 "*Réalité virtuelle et réalité augmentée*" **Alexandre Infanti**
 - Mercredi 25/07/2018 "*Sujet à venir*" **???**
 - Jeudi 26/07/2018 "*Sujet à venir*" **???**
