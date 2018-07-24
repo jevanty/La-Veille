@@ -8,7 +8,6 @@ Format à respecter:
 
 ## L'agenda des veilles à Lovelace 2
 
-- MArdi 24/07/2018, ??? , Andrea;
 - Mercredi 25/07/2018, "Code et technologie dans l'avancée médicale ", Julie;
 - jeudi 26/07/2018 ??? Sammuel;
 - vendredi 27/07/2018 ??? Liliane
@@ -81,5 +80,5 @@ Format à respecter:
 - Mardi 17/07/2018,  " Mass Surveillance" Guillaume;
 - Vendredi 20/07/2018, "Introduction to Regular Expressions", Mariane Niwemfura;  [link to the watch](https://docs.google.com/presentation/d/1GJD7f45YM6maDWzgmzfw4hDOsJ2XlMm1rjG0_gQr058/edit#slide=id.p)
 - lundi 23/07/2018, ["Install a Progressive Web App- live coding"](https://github.com/makemyA/veille2), Paul Henrot
-
+- Mardi 24/07/2018, Unity 3D Character Creation via Blender , Andrea;
 
