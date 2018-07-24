@@ -76,7 +76,7 @@ Format à respecter:
 - Lundi 09/07/2018, "Stockage ADN", Sourech Bauts (Le Parrain 5)
 - Mardi 10/07/2018, "Partage d'expérince: travail à distance dans un groupe hétérogène" Son ;
 - Jeudi 12/07/2018, "PHP, node.js" Mohamed;
-- Lundi 16/07/2018,  Geoffrey;
+- Lundi 16/07/2018, "Shadow & Liquidsky" Geoffrey;
 - Mardi 17/07/2018,  " Mass Surveillance" Guillaume;
 - Vendredi 20/07/2018, "Introduction to Regular Expressions", Mariane Niwemfura;  [link to the watch](https://docs.google.com/presentation/d/1GJD7f45YM6maDWzgmzfw4hDOsJ2XlMm1rjG0_gQr058/edit#slide=id.p)
 - lundi 23/07/2018, ["Install a Progressive Web App- live coding"](https://github.com/makemyA/veille2), Paul Henrot
