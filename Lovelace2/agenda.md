@@ -1,5 +1,4 @@
 
-
 # Veille: ordre de passage à Lovelace 2
 
 Format à respecter:
@@ -13,8 +12,6 @@ Format à respecter:
 - vendredi 27/07/2018 ??? Liliane
 - lundi 30/07/2018, "Web Scraping and Crawling", Michael D;
 - Mardi 31/07/2018, ??? ~Gaëtano~;
-
-
 
 
 
@@ -81,7 +78,6 @@ Format à respecter:
 - Lundi 16/07/2018,  Geoffrey;
 - Mardi 17/07/2018,  " Mass Surveillance" Guillaume;
 - Vendredi 20/07/2018, "Introduction to Regular Expressions", Mariane Niwemfura;  [link to the watch](https://docs.google.com/presentation/d/1GJD7f45YM6maDWzgmzfw4hDOsJ2XlMm1rjG0_gQr058/edit#slide=id.p)
-
 - lundi 23/07/2018, ["Install a Progressive Web App- live coding"](https://github.com/makemyA/veille2), Paul Henrot
 
 
