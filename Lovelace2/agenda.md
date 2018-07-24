@@ -7,11 +7,6 @@ Format à respecter:
 
 ## L'agenda des veilles à Lovelace 2
 
-VACANCES
-
-
-
-- Lundi 23/07/2018, ???,  Paul;
 - MArdi 24/07/2018, ??? , Andrea;
 - Mercredi 25/07/2018, "Code et technologie dans l'avancée médicale ", Julie;
 - jeudi 26/07/2018 ??? Sammuel;
