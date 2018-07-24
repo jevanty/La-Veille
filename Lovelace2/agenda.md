@@ -1,4 +1,5 @@
 
+
 # Veille: ordre de passage à Lovelace 2
 
 Format à respecter:
@@ -6,18 +7,13 @@ Format à respecter:
 
 ## L'agenda des veilles à Lovelace 2
 
-VACANCES
-
-
-
-- Vendredi 20/07/2018, "Introduction to Regular Expressions", Mariane Niwemfura;  [Link to the watch](https://docs.google.com/presentation/d/1GJD7f45YM6maDWzgmzfw4hDOsJ2XlMm1rjG0_gQr058/edit#slide=id.p)
-- Lundi 23/07/2018, ???,  Paul;
 - MArdi 24/07/2018, ??? , Andrea;
 - Mercredi 25/07/2018, "Code et technologie dans l'avancée médicale ", Julie;
 - jeudi 26/07/2018 ??? Sammuel;
 - vendredi 27/07/2018 ??? Liliane
 - lundi 30/07/2018, "Web Scraping and Crawling", Michael D;
 - Mardi 31/07/2018, ??? ~Gaëtano~;
+
 
 
 ## Archive
@@ -57,7 +53,8 @@ VACANCES
 - Mardi 05/06/2018, "La réalité virtuelle", Mico Latorre Gaëtano
        * lien vers la présentation : (https://github.com/becodeorg/La-Veille/blob/master/Lovelace2/LaRealiteVirtuelle.pptx)
 - Vendredi 08/06/2018, "Programming Languages", Mariane Niwemfura
-- Lundi 11/06/2018, "?", Paul Henrot
+- Lundi 11/06/2018, ["Web frammeworks for dummies"](https://app.ludus.one/3e4b3c40-09af-48bc-bcf3-c7c2ea3c673a) , Paul Henrot
+
 - Mardi 12/06/2018, "Custom Ubuntu" , Andrea Pinna
 - Mercredi 13/06/2018, "évolution du webdesign à travers les ages ", Julie Connerotte
 	[Powerpoint de la présentation](https://docs.google.com/presentation/d/1GnMLzPNV-ybbDvQu_hqQboVkEdkN_1xYmafyLMGL8Xo/edit?usp=sharing)
@@ -81,3 +78,5 @@ VACANCES
 - Jeudi 12/07/2018, "PHP, node.js" Mohamed;
 - Lundi 16/07/2018,  Geoffrey;
 - Mardi 17/07/2018,  " Mass Surveillance" Guillaume;
+- Vendredi 20/07/2018, "Introduction to Regular Expressions", Mariane Niwemfura;  [link to the watch](https://docs.google.com/presentation/d/1GJD7f45YM6maDWzgmzfw4hDOsJ2XlMm1rjG0_gQr058/edit#slide=id.p)
+- lundi 23/07/2018, ["Install a Progressive Web App- live coding"](https://github.com/makemyA/veille2), Paul Henrot
