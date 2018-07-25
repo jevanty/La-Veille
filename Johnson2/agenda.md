@@ -79,7 +79,7 @@ du 02/07 au 06/07/2018 "*congé*"
 - Jeudi 26/07/2018 "*Sujet à venir*" **Thibault Gribaumont**
 - Vendredi 27/07/2018 "*Sujet à venir*" **Massimo Regaglia**
 
-- Lundi 30/07/2018 "*Sujet à venir*" **Charlotte Tusset**
+- Lundi 30/07/2018 "*Creative Commons*" **Charlotte Tusset**
 - Mardi 31/07/2018 "*les noms de domaine*" **Adrien d'Oreye**
 
 ### Août
