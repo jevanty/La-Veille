@@ -51,8 +51,8 @@
 - Jeudi 21/06/1018 "*Shadow*" **Nicolas de Liedekerke**
 - Vendredi 22/06/218 "*UX design/expérience utilisateur*" **Colombe Sechehaye**
 
-- Lundi 25/06/2018 "*Sujet à venir*" **???**
-- Mardi 26/06/2018 "*Sujet à venir*" **Stéphane Wilfort**
+- Lundi 25/06/2018 "*JAVA Orientée ojbet complément d'info et sur le dessin*" **Stéphane Wilfort**
+- Mardi 26/06/2018 "*Sujet à venir*" **???**
 - Mercredi 27/06/2018 "*Ionic*" **Cédric Fournier**
 - Jeudi 28/06/2018 "*La méthode agile*" **Guillaume Deruwez**
 - Vendredi 29/06/2018  "*li-fi*" ou "*stockage ADN*" **Ajay Shinde**
@@ -75,7 +75,7 @@ du 02/07 au 06/07/2018 "*congé*"
 
 - Lundi 23/07/2018 "**workshop**"
 - Mardi 24/07/2018 "*Réalité virtuelle et réalité augmentée*" **Alexandre Infanti**
-- Mercredi 25/07/2018 "*Sujet à venir*" **???**
+- Mercredi 25/07/2018 "*Histoire de la photographie*" **Liam Carlier**
 - Jeudi 26/07/2018 "*Sujet à venir*" **Thibault Gribaumont**
 - Vendredi 27/07/2018 "*Web Design - Tendances actuelles*" **Massimo Regaglia**
 
