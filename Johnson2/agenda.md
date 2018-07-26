@@ -65,7 +65,7 @@ du 02/07 au 06/07/2018 "*congé*"
 - Mardi 10/07/2018 "*Sujet à venir*" **Marie Cambie**
 - Mercredi 11/07/2018 "*Net neutrality*" **Jesse Fumba**
 - Jeudi 12/07/2018 "*CMS (Wordpress & Drupal)*" **Lamri Mery**
-- Vendredi 13/07/2018  "*Sujet à venir*" **Guillaume Kreit**
+- Vendredi 13/07/2018  "Les technologies de la coupe du monde*" **Guillaume Kreit**
 
 - Lundi 16/07/2018 "*Sujet à venir*" ****
 - Mardi 17/07/2018 "*UX*" **Geraldine Winand**
