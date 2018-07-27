@@ -8,7 +8,7 @@ Format à respecter:
 
 ## L'agenda des veilles à Lovelace 2
 
-- lundi 30/07/2018, "**Web Scraping and Crawling**", *Michael Tolis*
+- lundi 30/07/2018, "**Web Scraping and Crawling**", *Michael Debus*
 - Mardi 31/07/2018, "**Sujet**", *Mico Latorre Gaëtano*
 - mercredi 01/08/2018, "**Sujet**", *Sammuel Janssens*
 - jeudi 02/08/2018, "**VPN**", *Liliane, Mamane*
@@ -35,7 +35,7 @@ Format à respecter:
 - Mercredi 29/08/2018, "**Sujet**", *Mariane Niwemfura*
 - Jeudi 30/08/2018, "**Sujet**", *Andrea Pinna*
 - Vendredi 31/09/2018, "**Sujet**", *Julie Connerotte*
-- Lundi 03/09/2018, "**Sujet**", *Michael Tolis*
+- Lundi 03/09/2018, "**Sujet**", *Michael Debus*
 - Mardi  04/09/2018, "**Sujet**", *Mico Latorre Gaëtano*
 - Mercredi 05/09/2018, "**Sujet**", *Sammuel Janssens*
 - Jeudi 06/09/2018, "**Sujet**", *Liliane, Mamane*
@@ -76,7 +76,7 @@ Format à respecter:
 - Mardi 29/05/2018, "**CMS**", *Liliane, Mamane*
 - Mercredi 30/05/2018, "**Eye tracking**", *Geoffrey Poelmans*
 - Vendredi 01/06/2018, "**Beaver Builder**", *Guillaume Bare*
-- Lundi 04/06/2018, "**L'E-Sport**", *Michael Tolis*
+- Lundi 04/06/2018, "**L'E-Sport**", *Michael Debus*
 - Mardi 05/06/2018, "**La réalité virtuelle**", *Mico Latorre Gaëtano*, [lien vers la présentation](https://github.com/becodeorg/La-Veille/blob/master/Lovelace2/LaRealiteVirtuelle.pptx)
 - Vendredi 08/06/2018, "**Programming Languages**", *Mariane Niwemfura*
 - Lundi 11/06/2018, "**Web frammeworks for dummies**", *Paul Henrot*, [lien](https://app.ludus.one/3e4b3c40-09af-48bc-bcf3-c7c2ea3c673a)
