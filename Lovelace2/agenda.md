@@ -12,7 +12,7 @@ Format à respecter:
 - Mardi 31/07/2018, ??? Gaëtano;
 - mercredi 01/08/2018, Sammuel;
 - jeudi 02/08/2018 Ludo; 
-- Vendredi 03/08/2018  Ludo Hautecoeur;
+- Vendredi 03/08/2018, "scan 3d", Ludo Hautecoeur;
 - Lundi 06/08/2018  Anthony;
 - Mardi 07/08/2018  Dylan;
 - Mercredi 08/08/2018  Baptiste;
