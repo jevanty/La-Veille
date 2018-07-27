@@ -9,34 +9,34 @@ Format à respecter:
 ## L'agenda des veilles à Lovelace 2
 
 - lundi 30/07/2018, "Web Scraping and Crawling", Michael D;
-- Mardi 31/07/2018, ??? Gaëtano;
-- mercredi 01/08/2018, Sammuel;
-- jeudi 02/08/2018 Ludo; 
-- Vendredi 03/08/2018, "scan 3d", Ludo Hautecoeur;
-- Lundi 06/08/2018  Anthony;
-- Mardi 07/08/2018  Dylan;
-- Mercredi 08/08/2018  Baptiste;
-- jeudi 09/08/2018  Stephane;
-- Vendredi 10/08/2018  Mailyn ; 
-- Lundi 13/08/2018 Morgane;
-- Mardi 14/08/2018 Pedro;
+- Mardi 31/07/2018, "Sujet", Gaëtano;
+- mercredi 01/08/2018, "Sujet", Sammuel;
+- jeudi 02/08/2018, "VPN", Liliane;
+- Vendredi 03/08/2018, "Sujet" , Ludo; 
+- Lundi 06/08/2018, "Sujet" , Ludo Hautecoeur;
+- Mardi 07/08/2018, "Sujet", Anthony;
+- Mercredi 08/08/2018, "Sujet", Dylan;
+- Jeudi 09/08/2018, "Sujet", Baptiste;
+- Vendredi 10/08/2018, "Sujet", Stephane;
+- Lundi 13/08/2018, "Sujet", Meilyn; 
+- Mardi 14/08/2018, "Sujet", Morgane;
 - Mercredi 15 aout ferié;
-- Jeudi 16/08/2018 Mostapha;
-- vendredi 17/08/2018 Modammed ;
-- Lundi 20/08/2018  ROmain;
-- Mardi 21/08/2018 Sourech;
-- Mercredi 22/08/2018 Son;
-- Jeudi 23/08/2018 Claudiu ;
-- Vendredi 24/08/2018 Geoffrey;
-- Lundi 27/08/2018 Lilianne ;
-- Mardi 28/08/2018 Guillaume;
-- Mercredi 29/08/2018 Marianne ;
-- Jeudi 30/08/2018 Andrea ;
-- Vendredi 31/08/2018 Julie;
-- Lundi 03/09/2018 Michael;
-- Mardi 04/09/2018 Gaetano ;
-- Mercredi 05/09/2018 Sammuel;
-- Jeudi 06/09/2018 Ludo;
+- Jeudi 16/08/2018, "Sujet", Pedro;
+- vendredi 17/08/2018, "Sujet", Mostapha;
+- Lundi 20/08/2018, "Sujet", Mohammed ;
+- Mardi 21/08/2018, "Sujet", Romain;
+- Mercredi 22/08/2018, "Sujet", Sourech;
+- Jeudi 23/08/2018, "Sujet", Son;
+- Vendredi 24/08/2018, "Sujet", Claudiu;
+- Lundi 27/08/2018, "Sujet", Geoffrey;
+- Mardi 28/08/2018, "Sujet", Guillaume;
+- Mercredi 29/08/2018, "Sujet", Mariane;
+- Jeudi 30/08/2018, "Sujet", Andrea;
+- Vendredi 31/09/2018, "Sujet", Julie;
+- Lundi 03/09/2018, "Sujet", Michael;
+- Mardi  04/09/2018, "Sujet", Gaetano ;
+- Mercredi 05/09/2018, "Sujet",Sammuel;
+- Jeudi 06/09/2018, "Sujet", Lilianne;
 
 
 
@@ -108,7 +108,7 @@ Format à respecter:
 - lundi 23/07/2018, ["Install a Progressive Web App- live coding"](https://github.com/makemyA/veille2), Paul Henrot
 - Mardi 24/07/2018, Unity 3D Character Creation via Blender , Andrea;
 - Mercredi 25/07/2018, "Code et technologie dans l'avancée médicale ", Julie;
-- vendredi 27/07/2018 ??? Liliane;
+
 
 
 
