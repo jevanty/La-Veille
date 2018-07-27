@@ -13,7 +13,7 @@ Format à respecter:
 - mercredi 01/08/2018, "Sujet", Sammuel;
 - jeudi 02/08/2018, "VPN", Liliane;
 - Vendredi 03/08/2018, "Sujet" , Ludo; 
-- Lundi 06/08/2018, "Sujet" , Ludo Hautecoeur;
+- Lundi 06/08/2018, "Scan 3d" , Ludo Hautecoeur;
 - Mardi 07/08/2018, "Sujet", Anthony;
 - Mercredi 08/08/2018, "Sujet", Dylan;
 - Jeudi 09/08/2018, "Sujet", Baptiste;
