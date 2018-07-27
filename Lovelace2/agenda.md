@@ -8,11 +8,37 @@ Format à respecter:
 
 ## L'agenda des veilles à Lovelace 2
 
-- Mercredi 25/07/2018, "Code et technologie dans l'avancée médicale ", Julie;
-- jeudi 26/07/2018 ??? Sammuel;
-- vendredi 27/07/2018 ??? Liliane
 - lundi 30/07/2018, "Web Scraping and Crawling", Michael D;
-- Mardi 31/07/2018, ??? ~Gaëtano~;
+- Mardi 31/07/2018, ??? Gaëtano;
+- mercredi 01/08/2018, Sammuel;
+- jeudi 02/08/2018 Ludo; 
+- Vendredi 03/08/2018  Ludo Hautecoeur;
+- Lundi 06/08/2018  Anthony;
+- Mardi 07/08/2018  Dylan;
+- Mercredi 08/08/2018  Baptiste;
+- jeudi 09/08/2018  Stephane;
+- Vendredi 10/08/2018  Mailyn ; 
+- Lundi 13/08/2018 Morgane;
+- Mardi 14/08/2018 Pedro;
+- Mercredi 15 aout ferié;
+- Jeudi 16/08/2018 Mostapha;
+- vendredi 17/08/2018 Modammed ;
+- Lundi 20/08/2018  ROmain;
+- Mardi 21/08/2018 Sourech;
+- Mercredi 22/08/2018 Son;
+- Jeudi 23/08/2018 Claudiu ;
+- Vendredi 24/08/2018 Geoffrey;
+- Lundi 27/08/2018 Lilianne ;
+- Mardi 28/08/2018 Guillaume;
+- Mercredi 29/08/2018 Marianne ;
+- Jeudi 30/08/2018 Andrea ;
+- Vendredi 31/08/2018 Julie;
+- Lundi 03/09/2018 Michael;
+- Mardi 04/09/2018 Gaetano ;
+- Mercredi 05/09/2018 Sammuel;
+- Jeudi 06/09/2018 Ludo;
+
+
 
 
 
@@ -81,4 +107,8 @@ Format à respecter:
 - Vendredi 20/07/2018, "Introduction to Regular Expressions", Mariane Niwemfura;  [link to the watch](https://docs.google.com/presentation/d/1GJD7f45YM6maDWzgmzfw4hDOsJ2XlMm1rjG0_gQr058/edit#slide=id.p)
 - lundi 23/07/2018, ["Install a Progressive Web App- live coding"](https://github.com/makemyA/veille2), Paul Henrot
 - Mardi 24/07/2018, Unity 3D Character Creation via Blender , Andrea;
+- Mercredi 25/07/2018, "Code et technologie dans l'avancée médicale ", Julie;
+- vendredi 27/07/2018 ??? Liliane;
+
+
 
