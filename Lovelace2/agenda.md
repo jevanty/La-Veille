@@ -8,7 +8,6 @@ Format à respecter:
 
 ## L'agenda des veilles à Lovelace 2
 
-- lundi 30/07/2018, "**Web Scraping and Crawling**", *Michael Debus*
 - Mardi 31/07/2018, "**Sujet**", *Mico Latorre Gaëtano*
 - mercredi 01/08/2018, "**Sujet**", *Sammuel Janssens*
 - jeudi 02/08/2018, "**VPN**", *Liliane, Mamane*
@@ -105,6 +104,7 @@ Format à respecter:
 - lundi 23/07/2018, "**Install a Progressive Web App- live coding**", *Paul Henrot*, [lien](https://github.com/makemyA/veille2), 
 - Mardi 24/07/2018, "**Unity 3D Character Creation via Blender**", *Andrea Pinna*
 - Mercredi 25/07/2018, "**Code et technologie dans l'avancée médicale**", *Julie Connerotte*
+- lundi 30/07/2018, "**Web Scraping and Crawling**", *Michael Debus*
 
 
 
