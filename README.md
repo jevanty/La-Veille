@@ -89,6 +89,10 @@ Via le terminal :
 - Net Neutrality
 - Ethics in Technology and Design
 - GDPR
+- Redis
+- Broker de messaging et modèle pub/sub
+- Système de long-polling
+- Neo4J et DB graphes
 - ...
 
 
