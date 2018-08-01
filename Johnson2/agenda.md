@@ -64,7 +64,7 @@ du 02/07 au 06/07/2018 "*congé*"
 - Lundi 09/07/2018 
 - Mardi 10/07/2018 "*Sujet à venir*" **Marie Cambie**
 - Mercredi 11/07/2018 "*Net neutrality*" **Jesse Fumba**
-- Jeudi 12/07/2018 "*CMS (Wordpress & Drupal)*" **Lamri Mery**
+- Jeudi 12/07/2018 "*Sujet à veni*" **???**
 - Vendredi 13/07/2018  "Les technologies de la coupe du monde*" **Guillaume Kreit**
 
 - Lundi 16/07/2018 "*Sujet à venir*" ****
@@ -86,9 +86,9 @@ du 02/07 au 06/07/2018 "*congé*"
 
 - Mercredi 01/08/2018 "*React.js*" **Cédric Fournier**
 - Jeudi 02/08/2018 "*Les véhicules autonomes*" **Nathan Houtain**
-- Vendredi 03/08/2018 "*Sujet à venir*" **???**
+- Vendredi 03/08/2018 "*Sujet à venir*" **Géraldine Winand**
 
-- Lundi 6/08/2018 "*Sujet à venir*" **???**
+- Lundi 6/08/2018 "*CMS (Wordpress & Drupal)*" **Lamri Mery**
 - Mardi 7/08/2018 "*Sujet à venir*" **???**
 - Mercredi 8/08/2018 "*Sujet à venir*" **???**
 - Jeudi 9/08/2018 "*Sujet à venir*" **???**
