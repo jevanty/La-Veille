@@ -10,33 +10,33 @@ Format à respecter:
 
 - Jeudi 02/08/2018, "**VPN**", *Liliane, Mamane*
 - Vendredi 03/08/2018, "**Sujet**", *Mico Latorre Gaëtano*
-- Lundi 06/08/2018,"**Sujet**", *Sammuel Janssens*
-- Mardi 07/08/2018,"**Sujet**", *Dhoore Ludovic* 
-- Mercredi 08/08/2018,"**Sujet**", *Ludo Hautecoeur*
+- Lundi 06/08/2018, "**Sujet**", *Sammuel Janssens*
+- Mardi 07/08/2018, "**Sujet**", *Dhoore Ludovic* 
+- Mercredi 08/08/2018, "**Sujet**", *Ludo Hautecoeur*
 - Jeudi 09/08/2018, "**Sujet**", *Anthony Sel*
-- Vendredi 10/08/2018"**Sujet**", *Dylan Valente*
-- Lundi 13/08/2018,, "**Sujet**", *Baptiste Firket*
-- Mardi 14/08/2018,"**Sujet**", *Stéphane Wyns*
+- Vendredi 10/08/2018, "**Sujet**", *Dylan Valente*
+- Lundi 13/08/2018, "**Sujet**", *Baptiste Firket*
+- Mardi 14/08/2018, "**Sujet**", *Stéphane Wyns*
  
 - **Mercredi 15 aout ferié**
 
-- Jeudi 16/08/2018"**Sujet**", *Meilyn Andrade* 
-- vendredi 17/08/2018,, "**Sujet**", *Morganne Meganck*
-- Lundi 20/08/2018,"**Sujet**", *Pedro Seromenho*
-- Mardi 21/08/2018,"**Sujet**", *Mostapha Tahri*
-- Mercredi 22/08/2018,"**Sujet**", *Nadir Mohamed Ali*
-- Jeudi 23/08/2018,"**Sujet**", *Romain Vandevoorde*
-- Vendredi 24/08/2018,"**Sujet**", *Sourech Bauts*
+- Jeudi 16/08/2018, "**Sujet**", *Meilyn Andrade* 
+- vendredi 17/08/2018, "**Sujet**", *Morganne Meganck*
+- Lundi 20/08/2018, "**Sujet**", *Pedro Seromenho*
+- Mardi 21/08/2018, "**Sujet**", *Mostapha Tahri*
+- Mercredi 22/08/2018, "**Sujet**", *Nadir Mohamed Ali*
+- Jeudi 23/08/2018, "**Sujet**", *Romain Vandevoorde*
+- Vendredi 24/08/2018, "**Sujet**", *Sourech Bauts*
 - Lundi 27/08/2018, "**Sujet**", *Quang Son Le*
-- Mardi 28/08/2018,"**Sujet**", *Claudiu Cornea*
-- Mercredi 29/08/2018,"**Sujet**", *Geoffrey Poelmans*
+- Mardi 28/08/2018, "**Sujet**", *Claudiu Cornea*
+- Mercredi 29/08/2018, "**Sujet**", *Geoffrey Poelmans*
 - Jeudi 30/08/2018,"**Sujet**", *Guillaume Bare*
 - Vendredi 31/09/2018, "**Sujet**", *Mariane Niwemfura*
-- Lundi 03/09/2018,"**Sujet**", *Andrea Pinna*
-- Mardi  04/09/2018,"**Sujet**", *Julie Connerotte*
-- Mercredi 05/09/2018,"**Sujet**", *Michael Debus*
-- Jeudi 06/09/2018,"**Sujet**", *Liliane, Mamane*
-- Vendredi 07/09/2018,"**Sujet**", *Mico Latorre Gaëtano*
+- Lundi 03/09/2018, "**Sujet**", *Andrea Pinna*
+- Mardi  04/09/2018, "**Sujet**", *Julie Connerotte*
+- Mercredi 05/09/2018, "**Sujet**", *Michael Debus*
+- Jeudi 06/09/2018, "**Sujet**", *Liliane, Mamane*
+- Vendredi 07/09/2018, "**Sujet**", *Mico Latorre Gaëtano*
 - Lundi 10/09/2018, "**Sujet**", *Sammuel Janssens*
 
 
