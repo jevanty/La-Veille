@@ -61,7 +61,7 @@ du 02/07 au 06/07/2018 "*congé*"
 
 ### Juillet
 
-- Lundi 09/07/2018 
+- Lundi 09/07/2018
 - Mardi 10/07/2018 "*Sujet à venir*" **Marie Cambie**
 - Mercredi 11/07/2018 "*Net neutrality*" **Jesse Fumba**
 - Jeudi 12/07/2018 "*Sujet à veni*" **???**
@@ -90,13 +90,13 @@ du 02/07 au 06/07/2018 "*congé*"
 
 - Lundi 6/08/2018 "*CMS (Wordpress & Drupal)*" **Lamri Mery**
 - Mardi 7/08/2018 "*Sujet à venir*" **???**
-- Mercredi 8/08/2018 "*Sujet à venir*" **???**
+- Mercredi 8/08/2018 "*Sujet à venir*" **Marie Louise Ogdoc**
 - Jeudi 9/08/2018 "*Sujet à venir*" **???**
 - Vendredi 10/08/2018 "*Sujet à venir*" **???**
 
 - Lundi 13/08/2018 "*Sujet à venir*" **???**
 - Mardi 14/08/2018 "*Sujet à venir*" **???**
-- Mercredi 15/08/2018 "*jour férié*" 
+- Mercredi 15/08/2018 "*jour férié*"
 - Jeudi 16/08/2018 "*Sujet à venir*" **???**
 - Vendredi 17/08/2018 "*Le défilement parallaxe*" **Jesse Fumba**
 
@@ -105,4 +105,3 @@ du 02/07 au 06/07/2018 "*congé*"
 - Mercredi 22/08/2018 "*Sujet à venir*" **???**
 - Jeudi 23/08/2018 "*Sujet à venir*" **???**
 - Vendredi 24/08/2018 "*Sujet à venir*" **???**
-
