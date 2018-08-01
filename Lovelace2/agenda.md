@@ -8,37 +8,36 @@ Format à respecter:
 
 ## L'agenda des veilles à Lovelace 2
 
-
-- Mercredi 01/08/2018, "**Sujet**", *Sammuel Janssens*
 - Jeudi 02/08/2018, "**VPN**", *Liliane, Mamane*
 - Vendredi 03/08/2018, "**Sujet**", *Mico Latorre Gaëtano*
-- Lundi 06/08/2018, "**Sujet**", *Dhoore Ludovic* 
-- Mardi 07/08/2018, "**Sujet**", *Ludo Hautecoeur*
-- Mercredi 08/08/2018, "**Sujet**", *Anthony Sel*
-- Jeudi 09/08/2018, "**Sujet**", *Dylan Valente*
-- Vendredi 10/08/2018, "**Sujet**", *Baptiste Firket*
-- Lundi 13/08/2018, "**Sujet**", *Stéphane Wyns*
-- Mardi 14/08/2018, "**Sujet**", *Meilyn Andrade* 
-
+- Lundi 06/08/2018,"**Sujet**", *Sammuel Janssens*
+- Mardi 07/08/2018,"**Sujet**", *Dhoore Ludovic* 
+- Mercredi 08/08/2018,"**Sujet**", *Ludo Hautecoeur*
+- Jeudi 09/08/2018, "**Sujet**", *Anthony Sel*
+- Vendredi 10/08/2018"**Sujet**", *Dylan Valente*
+- Lundi 13/08/2018,, "**Sujet**", *Baptiste Firket*
+- Mardi 14/08/2018,"**Sujet**", *Stéphane Wyns*
+ 
 - **Mercredi 15 aout ferié**
 
-- Jeudi 16/08/2018, "**Sujet**", *Morganne Meganck*
-- vendredi 17/08/2018, "**Sujet**", *Pedro Seromenho*
-- Lundi 20/08/2018"**Sujet**", *Mostapha Tahri*
-- Mardi 21/08/2018, "**Sujet**", *Nadir Mohamed Ali*
-- Mercredi 22/08/2018, "**Sujet**", *Romain Vandevoorde*
-- Jeudi 23/08/2018, "**Sujet**", *Sourech Bauts*
-- Vendredi 24/08/2018, "**Sujet**", *Quang Son Le*
-- Lundi 27/08/2018, "**Sujet**", *Claudiu Cornea*
-- Mardi 28/08/2018, "**Sujet**", *Geoffrey Poelmans*
-- Mercredi 29/08/2018, "**Sujet**", *Guillaume Bare*
-- Jeudi 30/08/2018, "**Sujet**", *Mariane Niwemfura*
-- Vendredi 31/09/2018, "**Sujet**", *Andrea Pinna*
-- Lundi 03/09/2018, "**Sujet**", *Julie Connerotte*
-- Mardi  04/09/2018, "**Sujet**", *Michael Debus*
-- Mercredi 05/09/2018, "**Sujet**", *Mico Latorre Gaëtano*
-- Jeudi 06/09/2018, "**Sujet**", *Sammuel Janssens*
-- Vendredi 07/09/2018, "**Sujet**", *Liliane, Mamane*
+- Jeudi 16/08/2018"**Sujet**", *Meilyn Andrade* 
+- vendredi 17/08/2018,, "**Sujet**", *Morganne Meganck*
+- Lundi 20/08/2018,"**Sujet**", *Pedro Seromenho*
+- Mardi 21/08/2018,"**Sujet**", *Mostapha Tahri*
+- Mercredi 22/08/2018,"**Sujet**", *Nadir Mohamed Ali*
+- Jeudi 23/08/2018,"**Sujet**", *Romain Vandevoorde*
+- Vendredi 24/08/2018,"**Sujet**", *Sourech Bauts*
+- Lundi 27/08/2018, "**Sujet**", *Quang Son Le*
+- Mardi 28/08/2018,"**Sujet**", *Claudiu Cornea*
+- Mercredi 29/08/2018,"**Sujet**", *Geoffrey Poelmans*
+- Jeudi 30/08/2018,"**Sujet**", *Guillaume Bare*
+- Vendredi 31/09/2018, "**Sujet**", *Mariane Niwemfura*
+- Lundi 03/09/2018,"**Sujet**", *Andrea Pinna*
+- Mardi  04/09/2018,"**Sujet**", *Julie Connerotte*
+- Mercredi 05/09/2018,"**Sujet**", *Michael Debus*
+- Jeudi 06/09/2018,"**Sujet**", *Liliane, Mamane*
+- Vendredi 07/09/2018,"**Sujet**", *Mico Latorre Gaëtano*
+- Lundi 10/09/2018, "**Sujet**", *Sammuel Janssens*
 
 
 
