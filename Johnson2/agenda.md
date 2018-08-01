@@ -96,8 +96,8 @@ du 02/07 au 06/07/2018 "*congé*"
 
 - Lundi 13/08/2018 "*Sujet à venir*" **???**
 - Mardi 14/08/2018 "*Sujet à venir*" **???**
-- Mercredi 15/08/2018 "*Sujet à venir*" **???**
-- Jeudi 16/08/2018 "*jour férié*" 
+- Mercredi 15/08/2018 "*jour férié*" 
+- Jeudi 16/08/2018 "*Sujet à venir*" **???**
 - Vendredi 17/08/2018 "*Le défilement parallaxe*" **Jesse Fumba**
 
 - Lundi 20/08/2018 "*Sujet à venir*" **Eric Lavachery**
