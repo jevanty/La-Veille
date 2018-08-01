@@ -94,15 +94,15 @@ du 02/07 au 06/07/2018 "*congé*"
 - Jeudi 9/08/2018 "*Sujet à venir*" **???**
 - Vendredi 10/08/2018 "*Sujet à venir*" **???**
 
-- Lundi 12/08/2018 "*Sujet à venir*" **???**
-- Mardi 13/08/2018 "*Sujet à venir*" **???**
-- Mercredi 14/08/2018 "*Sujet à venir*" **???**
-- Jeudi 15/08/2018 "*jour férié*" 
-- Vendredi 16/08/2018 "*Le défilement parallaxe*" **Jesse Fumba**
+- Lundi 13/08/2018 "*Sujet à venir*" **???**
+- Mardi 14/08/2018 "*Sujet à venir*" **???**
+- Mercredi 15/08/2018 "*Sujet à venir*" **???**
+- Jeudi 16/08/2018 "*jour férié*" 
+- Vendredi 17/08/2018 "*Le défilement parallaxe*" **Jesse Fumba**
 
-- Lundi 19/08/2018 "*Sujet à venir*" **Eric Lavachery**
-- Mardi 20/08/2018 "*Sujet à venir*" **???**
-- Mercredi 21/08/2018 "*Sujet à venir*" **???**
-- Jeudi 22/08/2018 "*Sujet à venir*" **???**
-- Vendredi 23/08/2018 "*Sujet à venir*" **???**
+- Lundi 20/08/2018 "*Sujet à venir*" **Eric Lavachery**
+- Mardi 21/08/2018 "*Sujet à venir*" **???**
+- Mercredi 22/08/2018 "*Sujet à venir*" **???**
+- Jeudi 23/08/2018 "*Sujet à venir*" **???**
+- Vendredi 24/08/2018 "*Sujet à venir*" **???**
 
