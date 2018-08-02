@@ -1,3 +1,4 @@
+
 # Veille: ordre de passage à Lovelace 2
 
 
@@ -7,37 +8,36 @@ Format à respecter:
 
 ## L'agenda des veilles à Lovelace 2
 
-- lundi 30/07/2018, "**Web Scraping and Crawling**", *Michael Tolis*
-- Mardi 31/07/2018, "**Sujet**", *Mico Latorre Gaëtano*
-- mercredi 01/08/2018, "**Sujet**", *Sammuel Janssens*
-- jeudi 02/08/2018, "**VPN**", *Liliane, Mamane*
-- Vendredi 03/08/2018, "**Sujet**", *Dhoore Ludovic* 
-- Lundi 06/08/2018, "**Sujet**", *Ludo Hautecoeur*
-- Mardi 07/08/2018, "**Sujet**", *Anthony Sel*
-- Mercredi 08/08/2018, "**Sujet**", *Dylan Valente*
-- Jeudi 09/08/2018, "**Sujet**", *Baptiste Firket*
-- Vendredi 10/08/2018, "**Sujet**", *Stéphane Wyns*
-- Lundi 13/08/2018, "**Sujet**", *Meilyn Andrade* 
-- Mardi 14/08/2018, "**Sujet**", *Morganne Meganck*
-
+- Vendredi 03/08/2018, "**Sujet**", *Mico Latorre Gaëtano*
+- Lundi 06/08/2018, "**Sujet**", *Sammuel Janssens*
+- Mardi 07/08/2018, "**Sujet**", *Dhoore Ludovic* 
+- Mercredi 08/08/2018, "**Sujet**", *Ludo Hautecoeur*
+- Jeudi 09/08/2018, "**Sujet**", *Anthony Sel*
+- Vendredi 10/08/2018, "**Sujet**", *Dylan Valente*
+- Lundi 13/08/2018, "**Sujet**", *Baptiste Firket*
+- Mardi 14/08/2018, "**Sujet**", *Stéphane Wyns*
+ 
 - **Mercredi 15 aout ferié**
 
-- Jeudi 16/08/2018, "**Sujet**", *Pedro Seromenho*
-- vendredi 17/08/2018, "**Sujet**", *Mostapha Tahri*
-- Lundi 20/08/2018, "**Sujet**", *Nadir Mohamed Ali*
-- Mardi 21/08/2018, "**Sujet**", *Romain Vandevoorde*
-- Mercredi 22/08/2018, "**Sujet**", *Sourech Bauts*
-- Jeudi 23/08/2018, "**Sujet**", *Quang Son Le*
-- Vendredi 24/08/2018, "**Sujet**", *Claudiu Cornea*
-- Lundi 27/08/2018, "**Sujet**", *Geoffrey Poelmans*
-- Mardi 28/08/2018, "**Sujet**", *Guillaume Bare*
-- Mercredi 29/08/2018, "**Sujet**", *Mariane Niwemfura*
-- Jeudi 30/08/2018, "**Sujet**", *Andrea Pinna*
-- Vendredi 31/09/2018, "**Sujet**", *Julie Connerotte*
-- Lundi 03/09/2018, "**Sujet**", *Michael Tolis*
-- Mardi  04/09/2018, "**Sujet**", *Mico Latorre Gaëtano*
-- Mercredi 05/09/2018, "**Sujet**", *Sammuel Janssens*
+- Jeudi 16/08/2018, "**Sujet**", *Meilyn Andrade* 
+- vendredi 17/08/2018, "**Sujet**", *Morganne Meganck*
+- Lundi 20/08/2018, "**Sujet**", *Pedro Seromenho*
+- Mardi 21/08/2018, "**Sujet**", *Mostapha Tahri*
+- Mercredi 22/08/2018, "**Sujet**", *Nadir Mohamed Ali*
+- Jeudi 23/08/2018, "**Sujet**", *Romain Vandevoorde*
+- Vendredi 24/08/2018, "**Sujet**", *Sourech Bauts*
+- Lundi 27/08/2018, "**Sujet**", *Quang Son Le*
+- Mardi 28/08/2018, "**Sujet**", *Claudiu Cornea*
+- Mercredi 29/08/2018, "**Sujet**", *Geoffrey Poelmans*
+- Jeudi 30/08/2018,"**Sujet**", *Guillaume Bare*
+- Vendredi 31/09/2018, "**Sujet**", *Mariane Niwemfura*
+- Lundi 03/09/2018, "**Sujet**", *Andrea Pinna*
+- Mardi  04/09/2018, "**Sujet**", *Julie Connerotte*
+- Mercredi 05/09/2018, "**Sujet**", *Michael Debus*
 - Jeudi 06/09/2018, "**Sujet**", *Liliane, Mamane*
+- Vendredi 07/09/2018, "**Sujet**", *Mico Latorre Gaëtano*
+- Lundi 10/09/2018, "**Sujet**", *Sammuel Janssens*
+
 
 
 
@@ -75,7 +75,7 @@ Format à respecter:
 - Mardi 29/05/2018, "**CMS**", *Liliane, Mamane*
 - Mercredi 30/05/2018, "**Eye tracking**", *Geoffrey Poelmans*
 - Vendredi 01/06/2018, "**Beaver Builder**", *Guillaume Bare*
-- Lundi 04/06/2018, "**L'E-Sport**", *Michael Tolis*
+- Lundi 04/06/2018, "**L'E-Sport**", *Michael Debus*
 - Mardi 05/06/2018, "**La réalité virtuelle**", *Mico Latorre Gaëtano*, [lien vers la présentation](https://github.com/becodeorg/La-Veille/blob/master/Lovelace2/LaRealiteVirtuelle.pptx)
 - Vendredi 08/06/2018, "**Programming Languages**", *Mariane Niwemfura*
 - Lundi 11/06/2018, "**Web frammeworks for dummies**", *Paul Henrot*, [lien](https://app.ludus.one/3e4b3c40-09af-48bc-bcf3-c7c2ea3c673a)
@@ -104,6 +104,8 @@ Format à respecter:
 - lundi 23/07/2018, "**Install a Progressive Web App- live coding**", *Paul Henrot*, [lien](https://github.com/makemyA/veille2), 
 - Mardi 24/07/2018, "**Unity 3D Character Creation via Blender**", *Andrea Pinna*
 - Mercredi 25/07/2018, "**Code et technologie dans l'avancée médicale**", *Julie Connerotte*
+- lundi 30/07/2018, "**Web Scraping and Crawling**", *Michael Debus*
+- Jeudi 02/08/2018, "**VPN**", *Liliane, Mamane*
 
 
 
