@@ -8,7 +8,6 @@ Format à respecter:
 
 ## L'agenda des veilles à Lovelace 2
 
-- Jeudi 02/08/2018, "**VPN**", *Liliane, Mamane*
 - Vendredi 03/08/2018, "**Sujet**", *Mico Latorre Gaëtano*
 - Lundi 06/08/2018, "**Sujet**", *Sammuel Janssens*
 - Mardi 07/08/2018, "**Sujet**", *Dhoore Ludovic* 
@@ -106,6 +105,7 @@ Format à respecter:
 - Mardi 24/07/2018, "**Unity 3D Character Creation via Blender**", *Andrea Pinna*
 - Mercredi 25/07/2018, "**Code et technologie dans l'avancée médicale**", *Julie Connerotte*
 - lundi 30/07/2018, "**Web Scraping and Crawling**", *Michael Debus*
+- Jeudi 02/08/2018, "**VPN**", *Liliane, Mamane*
 
 
 
