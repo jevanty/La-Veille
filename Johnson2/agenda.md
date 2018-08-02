@@ -92,7 +92,7 @@ du 02/07 au 06/07/2018 "*congé*"
 - Mardi 7/08/2018 "*Sujet à venir*" **Marco Bove**
 - Mercredi 8/08/2018 "*Sujet à venir*" **Marie Louise Ogdoc**
 - Jeudi 9/08/2018 "*Sujet à venir*" **???**
-- Vendredi 10/08/2018 "*Sujet à venir*" **???**
+- Vendredi 10/08/2018 "*Sujet à venir*" **Nicolas de Liedekerke**
 
 - Lundi 13/08/2018 "*Sujet à venir*" **???**
 - Mardi 14/08/2018 "*Sujet à venir*" **???**
