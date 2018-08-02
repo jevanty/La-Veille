@@ -89,7 +89,7 @@ du 02/07 au 06/07/2018 "*congé*"
 - Vendredi 03/08/2018 "*Sujet à venir*" **Géraldine Winand**
 
 - Lundi 6/08/2018 "*CMS (Wordpress & Drupal)*" **Lamri Mery**
-- Mardi 7/08/2018 "*Sujet à venir*" **???**
+- Mardi 7/08/2018 "*Sujet à venir*" **Marco Bove**
 - Mercredi 8/08/2018 "*Sujet à venir*" **Marie Louise Ogdoc**
 - Jeudi 9/08/2018 "*Sujet à venir*" **???**
 - Vendredi 10/08/2018 "*Sujet à venir*" **???**
