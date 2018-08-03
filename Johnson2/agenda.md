@@ -91,13 +91,13 @@ du 02/07 au 06/07/2018 "*congé*"
 - Lundi 6/08/2018 "*CMS (Wordpress & Drupal)*" **Lamri Mery**
 - Mardi 7/08/2018 "*Sujet à venir*" **Marco Bove**
 - Mercredi 8/08/2018 "*Digital Nomad*" **Marie Louise Ogdoc**
-- Jeudi 9/08/2018 "*Sujet à venir*" **???**
+- Jeudi 9/08/2018 "*Sujet à venir*" **Jean-François Geerinckx**
 - Vendredi 10/08/2018 "*Sujet à venir*" **Nicolas de Liedekerke**
 
 - Lundi 13/08/2018 "*Sujet à venir*" **???**
 - Mardi 14/08/2018 "*Sujet à venir*" **???**
 - Mercredi 15/08/2018 "*jour férié*"
-- Jeudi 16/08/2018 "*Sujet à venir*" **???**
+- Jeudi 16/08/2018 "*Sujet à venir*" **Jean-François Geerinckx**
 - Vendredi 17/08/2018 "*Le défilement parallaxe*" **Jesse Fumba**
 
 - Lundi 20/08/2018 "*Sujet à venir*" **Eric Lavachery**
