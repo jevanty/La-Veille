@@ -86,7 +86,7 @@ du 02/07 au 06/07/2018 "*congé*"
 
 - Mercredi 01/08/2018 "*React.js*" **Cédric Fournier**
 - Jeudi 02/08/2018 "*Les voitures autonomes*" **Nathan Houtain**
-- Vendredi 03/08/2018 "*Sujet à venir*" **Géraldine Winand**
+- Vendredi 03/08/2018 "*Pair programming*" **Géraldine Winand**
 
 - Lundi 6/08/2018 "*Sujet à venir*" **???**
 - Mardi 7/08/2018 "*Sujet à venir*" **Marco Bove**
