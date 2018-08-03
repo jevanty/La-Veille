@@ -35,8 +35,8 @@ Format à respecter:
 - Mardi  04/09/2018, "**Sujet**", *Julie Connerotte*
 - Mercredi 05/09/2018, "**Sujet**", *Michael Debus*
 - Jeudi 06/09/2018, "**Sujet**", *Liliane, Mamane*
-- Vendredi 07/09/2018, "**Sujet**", *Mico Latorre Gaëtano*
-- Lundi 10/09/2018, "**Sujet**", *Sammuel Janssens*
+- Vendredi 07/09/2018, "**Sujet**", *Sammuel Janssens*
+- Lundi 10/09/2018, "**Sujet**", *Mico Latorre Gaëtano*
 
 
 
