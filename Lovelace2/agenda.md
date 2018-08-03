@@ -8,9 +8,9 @@ Format à respecter:
 
 ## L'agenda des veilles à Lovelace 2
 
-- Vendredi 03/08/2018, "**Sujet**", *Mico Latorre Gaëtano*
+- Vendredi 03/08/2018, "**Sujet**", *Dhoore Ludovic*
 - Lundi 06/08/2018, "**Sujet**", *Sammuel Janssens*
-- Mardi 07/08/2018, "**Sujet**", *Dhoore Ludovic* 
+- Mardi 07/08/2018, "**Sujet**", *Mico Latorre Gaëtano* 
 - Mercredi 08/08/2018, "**Sujet**", *Ludo Hautecoeur*
 - Jeudi 09/08/2018, "**Sujet**", *Anthony Sel*
 - Vendredi 10/08/2018, "**Sujet**", *Dylan Valente*
