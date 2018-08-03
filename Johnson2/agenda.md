@@ -88,20 +88,20 @@ du 02/07 au 06/07/2018 "*congé*"
 - Jeudi 02/08/2018 "*Les voitures autonomes*" **Nathan Houtain**
 - Vendredi 03/08/2018 "*Sujet à venir*" **Géraldine Winand**
 
-- Lundi 6/08/2018 "*CMS (Wordpress & Drupal)*" **Lamri Mery**
+- Lundi 6/08/2018 "*Sujet à venir*" **???**
 - Mardi 7/08/2018 "*Sujet à venir*" **Marco Bove**
 - Mercredi 8/08/2018 "*Digital Nomad*" **Marie Louise Ogdoc**
 - Jeudi 9/08/2018 "*Sujet à venir*" **Jean-François Geerinckx**
 - Vendredi 10/08/2018 "*Sujet à venir*" **Nicolas de Liedekerke**
 
-- Lundi 13/08/2018 "*Sujet à venir*" **???**
+- Lundi 13/08/2018 "*CMS (Wordpress & Drupal)*" **Lamri Mery**
 - Mardi 14/08/2018 "*Sujet à venir*" **???**
 - Mercredi 15/08/2018 "*jour férié*"
 - Jeudi 16/08/2018 "*Sujet à venir*" **Jean-François Geerinckx**
 - Vendredi 17/08/2018 "*Le défilement parallaxe*" **Jesse Fumba**
 
 - Lundi 20/08/2018 "*Sujet à venir*" **Eric Lavachery**
-- Mardi 21/08/2018 "*Sujet à venir*" **???**
+- Mardi 21/08/2018 "*LI-FI*" **Geraldine Winand**
 - Mercredi 22/08/2018 "*Sujet à venir*" **???**
 - Jeudi 23/08/2018 "*Sujet à venir*" **Nathan Houtain**
 - Vendredi 24/08/2018 "*Sujet à venir*" **???**
