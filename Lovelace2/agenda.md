@@ -34,7 +34,10 @@ Format à respecter:
 - Mercredi 05/09/2018, "**Sujet**", *Michael Debus*
 - Jeudi 06/09/2018, "**Sujet**", *Liliane, Mamane*
 - Vendredi 07/09/2018, "**Sujet**", *Sammuel Janssens*
-- Lundi 10/09/2018, "**Sujet**", *Mico Latorre Gaëtano*
+
+- **Lundi 10/09/2018, Debut de vacances**
+
+- Lundi 17/09/2018, "**Sujet**", *Mico Latorre Gaëtano*
 
 
 
