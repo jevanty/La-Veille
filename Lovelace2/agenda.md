@@ -8,7 +8,6 @@ Format à respecter:
 
 ## L'agenda des veilles à Lovelace 2
 
-- Lundi 06/08/2018, "**Sujet**", *Sammuel Janssens*
 - Mardi 07/08/2018, "**Sujet**", *Mico Latorre Gaëtano* 
 - Mercredi 08/08/2018, "**Sujet**", *Ludo Hautecoeur*
 - Jeudi 09/08/2018, "**Sujet**", *Anthony Sel*
@@ -106,6 +105,7 @@ Format à respecter:
 - lundi 30/07/2018, "**Web Scraping and Crawling**", *Michael Debus*
 - Jeudi 02/08/2018, "**VPN**", *Liliane, Mamane*
 - Vendredi 03/08/2018, "**Introduction/MySQL**", *Dhoore Ludovic*
+- Lundi 06/08/2018, "**UX Design**", *Sammuel Janssens*
 
 
 
