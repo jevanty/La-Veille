@@ -102,6 +102,6 @@ du 02/07 au 06/07/2018 "*congé*"
 
 - Lundi 20/08/2018 "*Sujet à venir*" **Eric Lavachery**
 - Mardi 21/08/2018 "*LI-FI*" **Geraldine Winand**
-- Mercredi 22/08/2018 "*Sujet à venir*" **???**
+- Mercredi 22/08/2018 "*Phaser.io*" **Marie Cambie et Cedric Fournier**
 - Jeudi 23/08/2018 "*Sujet à venir*" **Nathan Houtain**
 - Vendredi 24/08/2018 "*Sujet à venir*" **Dalle Nogare Antoni**
