@@ -110,7 +110,7 @@ du 02/07 au 06/07/2018 "*congé*"
 - Mardi 28/08/2018 "*Sujet à venir*" **???**
 - Mercredi 29/08/2018 "*Sujet à venir*" **???**
 - Jeudi 30/08/2018 "*Sujet à venir*" **???**
-- Vendredi 31/08/2018 "*Le Li-Fi*" **???**
+- Vendredi 31/08/2018 "*Le Li-Fi*"
 
 ### Septembre
 
