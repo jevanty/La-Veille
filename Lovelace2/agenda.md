@@ -8,7 +8,6 @@ Format à respecter:
 
 ## L'agenda des veilles à Lovelace 2
 
-- Mercredi 08/08/2018, "**Sujet**", *Ludo Hautecoeur*
 - Jeudi 09/08/2018, "**Sujet**", *Anthony Sel*
 - Vendredi 10/08/2018, "**Sujet**", *Dylan Valente*
 - Lundi 13/08/2018, "**Sujet**", *Baptiste Firket*
@@ -37,8 +36,7 @@ Format à respecter:
 - **Lundi 10/09/2018, Debut de vacances**
 
 - Lundi 17/09/2018, "**Sujet**", *Mico Latorre Gaëtano*
-
-
+- Mardi 18//09/2018, "**Sujet**", *Ludo Hautecoeur*
 
 
 
