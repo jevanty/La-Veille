@@ -105,3 +105,19 @@ du 02/07 au 06/07/2018 "*congé*"
 - Mercredi 22/08/2018 "*Phaser.io*" **Marie Cambie et Cedric Fournier**
 - Jeudi 23/08/2018 "*Sujet à venir*" **Nathan Houtain**
 - Vendredi 24/08/2018 "*Sujet à venir*" **Dalle Nogare Antoni**
+
+- Lundi 27/08/2018 "*Sujet à venir*" **???**
+- Mardi 28/08/2018 "*Sujet à venir*" **???**
+- Mercredi 29/08/2018 "*Sujet à venir*" **???**
+- Jeudi 30/08/2018 "*Sujet à venir*" **???**
+- Vendredi 31/08/2018 "*Sujet à venir*" **???**
+
+### Septembre
+
+- Lundi 03/09/2018 "*Sujet à venir*" **???**
+- Mardi 04/09/2018 "*Sujet à venir*" **???**
+- Mercredi 05/09/2018 "*Sujet à venir*" **???**
+- Jeudi 06/09/2018 "*Sujet à venir*" **???**
+- Vendredi 07/09/2018 "*Sujet à venir*" **???**
+
+du 10/09 au 14/09/2018 "*congé*"
