@@ -97,7 +97,7 @@ du 02/07 au 06/07/2018 "*congé*"
 - Lundi 13/08/2018 "*CMS (Wordpress & Drupal)*" **Lamri Mery**
 - Mardi 14/08/2018 "*Sujet à venir*" **Marco Bove**
 - Mercredi 15/08/2018 "*jour férié*"
-- Jeudi 16/08/2018 "*Sujet à venir*" **Jean-François Geerinckx**
+- Jeudi 16/08/2018 "*Tone.js*" **Jean-François Geerinckx**
 - Vendredi 17/08/2018 "*Le défilement parallaxe*" **Jesse Fumba**
 
 - Lundi 20/08/2018 "*Sujet à venir*" **Eric Lavachery**
