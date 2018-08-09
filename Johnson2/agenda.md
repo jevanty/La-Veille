@@ -92,7 +92,7 @@ du 02/07 au 06/07/2018 "*congé*"
 - Mardi 7/08/2018 "*Sujet à venir*" ****
 - Mercredi 8/08/2018 "*Digital Nomad*" **Marie Louise Ogdoc**
 - Jeudi 9/08/2018 "*Sujet à venir*" **Jean-François Geerinckx**
-- Vendredi 10/08/2018 "*Sujet à venir*" **Nicolas de Liedekerke**
+- Vendredi 10/08/2018 "*Les Ordinateurs Quantiques*" **Nicolas de Liedekerke**
 
 - Lundi 13/08/2018 "*CMS (Wordpress & Drupal)*" **Lamri Mery**
 - Mardi 14/08/2018 "*Sujet à venir*" **Marco Bove**
