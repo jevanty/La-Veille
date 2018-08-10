@@ -9,13 +9,13 @@ Format à respecter:
 ## L'agenda des veilles à Lovelace 2
 
 - Jeudi 09/08/2018, "**Sujet**", *Anthony Sel*
-- Vendredi 10/08/2018, "**Sujet**", *Dylan Valente*
+- Vendredi 10/08/2018, "**Newsletter : Introduction**", *Dylan Valente*
 - Lundi 13/08/2018, "**Sujet**", *Baptiste Firket*
 - Mardi 14/08/2018, "**Sujet**", *Stéphane Wyns*
- 
+
 - **Mercredi 15 aout ferié**
 
-- Jeudi 16/08/2018, "**Sujet**", *Meilyn Andrade* 
+- Jeudi 16/08/2018, "**Sujet**", *Meilyn Andrade*
 - vendredi 17/08/2018, "**Sujet**", *Morganne Meganck*
 - Lundi 20/08/2018, "**Sujet**", *Pedro Seromenho*
 - Mardi 21/08/2018, "**Sujet**", *Mostapha Tahri*
@@ -88,7 +88,7 @@ Format à respecter:
 -  Jeudi 21/06/2018, "**Net Neutrality**" , *Stéphane Wyns*
 
 - Vendredi 22/06/2018 ; "**Sniffers & Spoofing**", *Meilyn Andrade*, [PPT](sniffers.ppt)
-- Lundi 25/06/2018, "**RPG Maker mv avec Js**", *Morganne Meganck* 
+- Lundi 25/06/2018, "**RPG Maker mv avec Js**", *Morganne Meganck*
 - Mardi 26/06/2018; "**Fullpage.js**", *Pedro Seromenho*, [Link Github](https://github.com/alvarotrigo/fullPage.js)
 - Mercredi 27/06/2018, "**Tips en JS**" *Romain Vandevoorde*
 - Jeudi 28/06/2018  "**Algorithme de tris**", *Claudiu Cornea*
@@ -99,16 +99,11 @@ Format à respecter:
 - Lundi 16/07/2018, "**Shadow & Liquidsky**", *Geoffrey Poelmans*
 - Mardi 17/07/2018,  "**Mass Surveillance**", *Guillaume Bare*
 - Vendredi 20/07/2018, "**Introduction to Regular Expressions**", *Mariane Niwemfura*, [link to the watch](https://docs.google.com/presentation/d/1GJD7f45YM6maDWzgmzfw4hDOsJ2XlMm1rjG0_gQr058/edit#slide=id.p)
-- lundi 23/07/2018, "**Install a Progressive Web App- live coding**", *Paul Henrot*, [lien](https://github.com/makemyA/veille2), 
+- lundi 23/07/2018, "**Install a Progressive Web App- live coding**", *Paul Henrot*, [lien](https://github.com/makemyA/veille2),
 - Mardi 24/07/2018, "**Unity 3D Character Creation via Blender**", *Andrea Pinna*
 - Mercredi 25/07/2018, "**Code et technologie dans l'avancée médicale**", *Julie Connerotte*
 - lundi 30/07/2018, "**Web Scraping and Crawling**", *Michael Debus*
 - Jeudi 02/08/2018, "**VPN**", *Liliane, Mamane*
 - Vendredi 03/08/2018, "**Introduction/MySQL**", *Dhoore Ludovic*
 - Lundi 06/08/2018, "**UX Design**", *Sammuel Janssens*
-- Mardi 07/08/2018, "**Assemblage pc**", *Mico Latorre Gaëtano* 
-
-
-
-
-
+- Mardi 07/08/2018, "**Assemblage pc**", *Mico Latorre Gaëtano*
