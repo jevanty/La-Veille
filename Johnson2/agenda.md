@@ -100,7 +100,7 @@ du 02/07 au 06/07/2018 "*congé*"
 - Jeudi 16/08/2018 "*Sujet à venir*" **Marco Bove**
 - Vendredi 17/08/2018 "*Tone.js*" **Jean-François Geerinckx**
 
-- Lundi 20/08/2018 "*Le défilement parallaxe*" **Jesse Fumba**
+- Lundi 20/08/2018 "*Ruby*" **Jesse Fumba**
 - Mardi 21/08/2018 "*Sujet à venir*" **Eric Lavachery**
 - Mercredi 22/08/2018 "*LI-FI*" **Geraldine Winand**
 - Jeudi 23/08/2018 "*Phaser.io*" **Marie Cambie et Cedric Fournier**
