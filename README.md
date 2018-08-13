@@ -57,8 +57,9 @@ Via le terminal :
 
 ## Sujets potentiels 
 
+- gitignore
 - jQuery
-- Vue.js
+- VueJS
 - SVG
 - Flexbox
 - Les langages de programmation côté serveur 
@@ -75,7 +76,8 @@ Via le terminal :
 - Le défilement parallaxe 
 - Les vidéos dans le web
 - Les micro-interactions pour améliorer l’UX 
-- Le material design
+- The Gestalt Principles
+- Material design
 - Robots.txt
 - Trouver des images gratuites et libres de droits
 - Sitemap
@@ -84,6 +86,13 @@ Via le terminal :
 - Grille CSS/SASS
 - JavaScript Scope and Closures
 - Form Validation 
+- Net Neutrality
+- Ethics in Technology and Design
+- GDPR
+- Redis
+- Broker de messaging et modèle pub/sub
+- Système de long-polling
+- Neo4J et DB graphes
 - ...
 
 
