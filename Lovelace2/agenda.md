@@ -8,7 +8,7 @@ Format à respecter:
 
 ## L'agenda des veilles à Lovelace 2
 
-- Lundi 13/08/2018, "**Intelligence collective et internet**", *Baptiste Firket*
+- Lundi 13/08/2018, "**Intelligence collective et internet**", [lien vers la présentation](https://docs.google.com/presentation/d/1JX5Ec8WiqHnQDLYAzni6gfyd_qNRZ2GsqSVx93l9gvE/edit?usp=sharing) *Baptiste Firket*
 - Mardi 14/08/2018, "**Sujet**", *Stéphane Wyns*
 
 - **Mercredi 15 aout ferié**
