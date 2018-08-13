@@ -97,7 +97,7 @@ du 02/07 au 06/07/2018 "*congé*"
 - Lundi 13/08/2018 "*Les Ordinateurs Quantiques*" **Nicolas de Liedekerke**
 - Mardi 14/08/2018 "*CMS (Wordpress & Drupal)*" **Lamri Mery**
 - Mercredi 15/08/2018 "*jour férié*"
-- Jeudi 16/08/2018 "*Sujet à venir*" **Marco Bove**
+- Jeudi 16/08/2018 "*Biomimétisme Technologique*" **Marco Bove**
 - Vendredi 17/08/2018 "*Tone.js*" **Jean-François Geerinckx**
 
 - Lundi 20/08/2018 "*Ruby*" **Jesse Fumba**
