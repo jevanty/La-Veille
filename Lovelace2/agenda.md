@@ -105,5 +105,5 @@ Format à respecter:
 - Vendredi 03/08/2018, "**Introduction/MySQL**", *Dhoore Ludovic*
 - Lundi 06/08/2018, "**UX Design**", *Sammuel Janssens*
 - Mardi 07/08/2018, "**Assemblage pc**", *Mico Latorre Gaëtano*
-- Jeudi 09/08/2018, "**Sujet**", *Anthony Sel*
+- Jeudi 09/08/2018, "**Kotlin boycott Java**", *Anthony Sel*
 - Vendredi 10/08/2018, "**Newsletter : Introduction**", *Dylan Valente*
