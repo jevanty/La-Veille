@@ -8,9 +8,6 @@ Format à respecter:
 
 ## L'agenda des veilles à Lovelace 2
 
-- Lundi 13/08/2018, "**Intelligence collective et internet**", *Baptiste Firket*
-- Mardi 14/08/2018, "**Sujet**", *Stéphane Wyns*
-
 - **Mercredi 15 aout ferié**
 
 - Jeudi 16/08/2018, "**Sujet**", *Meilyn Andrade*
@@ -107,3 +104,5 @@ Format à respecter:
 - Mardi 07/08/2018, "**Assemblage pc**", *Mico Latorre Gaëtano*
 - Jeudi 09/08/2018, "**Kotlin boycott Java**", *Anthony Sel*
 - Vendredi 10/08/2018, "**Newsletter : Introduction**", *Dylan Valente*
+- Lundi 13/08/2018, "**Intelligence collective et internet**", *Baptiste Firket*, [lien vers la présentation](https://docs.google.com/presentation/d/1JX5Ec8WiqHnQDLYAzni6gfyd_qNRZ2GsqSVx93l9gvE/edit?usp=sharing) 
+- Mardi 14/08/2018, "**La Quadrature Du Net**", *Stéphane Wyns*, [lien](https://fr.wikipedia.org/wiki/La_Quadrature_du_Net)
