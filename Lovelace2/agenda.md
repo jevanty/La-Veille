@@ -8,7 +8,7 @@ Format à respecter:
 
 ## L'agenda des veilles à Lovelace 2
 
-- Mardi 14/08/2018, "**La Quadrature Du Net(https://fr.wikipedia.org/wiki/La_Quadrature_du_Net)**", *Stéphane Wyns*
+- Mardi 14/08/2018, "**[La Quadrature Du Net](https://fr.wikipedia.org/wiki/La_Quadrature_du_Net)**", *Stéphane Wyns*
 
 - **Mercredi 15 aout ferié**
 
