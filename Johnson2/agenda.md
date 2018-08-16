@@ -121,3 +121,15 @@ du 02/07 au 06/07/2018 "*congé*"
 - Vendredi 07/09/2018 "*Sujet à venir*" **???**
 
 du 10/09 au 14/09/2018 "*congé*"
+
+- Lundi 17/09/2018 "*Sujet à venir*" **???**
+- Mardi 18/09/2018 "*Sujet à venir*" **???**
+- Mercredi 19/09/2018 "*Sujet à venir*" **???**
+- Jeudi 20/09/2018 "*Sujet à venir*" **???**
+- Vendredi 21/09/2018 "*Sujet à venir*" **???**
+
+- Lundi 24/09/2018 "*Sujet à venir*" **???**
+- Mardi 25/09/2018 "*Sujet à venir*" **???**
+- Mercredi 26/09/2018 "*Sujet à venir*" **???**
+- Jeudi 27/09/2018 "*Sujet à venir*" **???**
+- Vendredi 28/09/2018 "*Sujet à venir*" **???**
