@@ -8,7 +8,7 @@ Format à respecter:
 
 ## L'agenda des veilles à Lovelace 2
 
-- Lundi 20/08/2018, "**Sujet**", *Pedro Seromenho*
+- Lundi 20/08/2018, "**Model View Controller(MVC) et [lien](http://bookmarks.gamerspice.net/)**", *Pedro Seromenho*
 - Mardi 21/08/2018, "**Sujet**", *Mostapha Tahri*
 - Mercredi 22/08/2018, "**Sujet**", *Nadir Mohamed Ali*
 - Jeudi 23/08/2018, "**Sujet**", *Romain Vandevoorde*
