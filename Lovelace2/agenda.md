@@ -8,7 +8,7 @@ Format à respecter:
 
 ## L'agenda des veilles à Lovelace 2
 
-- Mardi 21/08/2018, "**Sujet**", *Mostapha Tahri*
+- Mardi 21/08/2018, "**Rest API**", *Mostapha Tahri*
 - Mercredi 22/08/2018, "**Sujet**", *Nadir Mohamed Ali*
 - Jeudi 23/08/2018, "**Sujet**", *Romain Vandevoorde*
 - Vendredi 24/08/2018, "**Sujet**", *Sourech Bauts*
