@@ -106,7 +106,7 @@ du 02/07 au 06/07/2018 "*congé*"
 - Jeudi 23/08/2018 " workshop
 - Vendredi 24/08/2018 "*Les game jam*" **Nathan Houtain**
 
-- Lundi 27/08/2018 "*Sujet à venir*" **Dalle Nogare Antoni**
+- Lundi 27/08/2018 "*La logique*" **Dalle Nogare Antoni**
 - Mardi 28/08/2018 "*LI-FI*" **Geraldine Winand**
 - Mercredi 29/08/2018 "*Sujet à venir*" **Colombe Sechehaye**
 - Jeudi 30/08/2018 "*Phaser.io*" **Marie Cambie et Cedric Fournier**
