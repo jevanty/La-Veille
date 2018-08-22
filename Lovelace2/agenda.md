@@ -8,8 +8,6 @@ Format à respecter:
 
 ## L'agenda des veilles à Lovelace 2
 
-- Mardi 21/08/2018, "**Rest API**", *Mostapha Tahri*
-- Mercredi 22/08/2018, "**Sujet**", *Nadir Mohamed Ali*
 - Jeudi 23/08/2018, "**Sujet**", *Romain Vandevoorde*
 - Vendredi 24/08/2018, "**Sujet**", *Sourech Bauts*
 - Lundi 27/08/2018, "**Sujet**", *Quang Son Le*
@@ -107,3 +105,5 @@ Format à respecter:
 - Jeudi 16/08/2018, "**Ransomware**", *Meilyn Andrade*
 - vendredi 17/08/2018, "**Materialize-Framework/css**", *Morganne Meganck*, [Lien](https://materializecss.com)
 - Lundi 20/08/2018, "**Model View Controller(MVC) et [lien](http://bookmarks.gamerspice.net/)**", *Pedro Seromenho*
+- Mardi 21/08/2018, "**Rest API**", *Mostapha Tahri*
+- Mercredi 22/08/2018, "**Apache Cordova**", *Nadir Mohamed Ali*
