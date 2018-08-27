@@ -8,7 +8,6 @@ Format à respecter:
 
 ## L'agenda des veilles à Lovelace 2
 
-- Lundi 27/08/2018, "**Communication non-violente et feedback**", *Quang Son Le*
 - Mardi 28/08/2018, "**Sujet**", *Claudiu Cornea*
 - Mercredi 29/08/2018, "**Sujet**", *Geoffrey Poelmans*
 - Jeudi 30/08/2018,"**Sujet**", *Guillaume Bare*
@@ -107,3 +106,4 @@ Format à respecter:
 - Mercredi 22/08/2018, "**Apache Cordova**", *Nadir Mohamed Ali*
 - Jeudi 23/08/2018, "**Fonctionnement du HTTP/HTTPS**",*Romain Vandevoorde*
 - Vendredi 24/08/2018, "**Comment faire une bonne présentation**", *Sourech Bauts*
+- Lundi 27/08/2018, "**Communication non-violente et feedback**", *Quang Son Le*
