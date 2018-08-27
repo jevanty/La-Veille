@@ -104,13 +104,13 @@ du 02/07 au 06/07/2018 "*congé*"
 - Mardi 21/08/2018 "*Sujet à venir*" **Eric Lavachery**
 - Mercredi 22/08/2018 "*Le JavaScript dans tous ses états*" **Cedric Fournier**
 - Jeudi 23/08/2018 " workshop
-- Vendredi 24/08/2018 "*Les game jam*" **Nathan Houtain**
+- Vendredi 24/08/2018 "*Les game jam*" **Nathan Houtain** (REPORTE)
 
 - Lundi 27/08/2018 "*La logique*" **Dalle Nogare Antoni**
 - Mardi 28/08/2018 "*LI-FI*" **Geraldine Winand**
-- Mercredi 29/08/2018 "*Sujet à venir*" **Colombe Sechehaye**
-- Jeudi 30/08/2018 "*Phaser.io*" **Marie Cambie et Cedric Fournier**
-- Vendredi 31/08/2018 "*Sujet à venir*" **???**
+- Mercredi 29/08/2018 "*Phaser.io*" **Marie Cambie et Cedric Fournier**
+- Jeudi 30/08/2018 "*Sujet à venir*" **Colombe Sechehaye**
+- Vendredi 31/08/2018 "*Les game jam*" **Nathan Houtain**
 
 ### Septembre
 
