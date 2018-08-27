@@ -114,7 +114,7 @@ du 02/07 au 06/07/2018 "*congé*"
 
 ### Septembre
 
-- Lundi 03/09/2018 "*Sujet à venir*" **???**
+- Lundi 03/09/2018 "*Sujet à venir*" **Stéphane Wilfort**
 - Mardi 04/09/2018 "*Sujet à venir*" **???**
 - Mercredi 05/09/2018 "*Sujet à venir*" **???**
 - Jeudi 06/09/2018 "*Sujet à venir*" **???**
