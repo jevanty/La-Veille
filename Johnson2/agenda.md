@@ -110,7 +110,7 @@ du 02/07 au 06/07/2018 "*congé*"
 - Mardi 28/08/2018 "*LI-FI*" **Geraldine Winand**
 - Mercredi 29/08/2018 "*Phaser.io*" **Marie Cambie et Cedric Fournier**
 - Jeudi 30/08/2018 "*Le neuromarketing*" **Colombe Sechehaye**
-- Vendredi 31/08/2018 "*Les game jam*" **Nathan Houtain**
+- Vendredi 31/08/2018 "*Free pictures*" **Nathan Houtain**
 
 ### Septembre
 
