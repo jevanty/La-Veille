@@ -101,7 +101,7 @@ du 02/07 au 06/07/2018 "*congé*"
 - Vendredi 17/08/2018 "*Tone.js*" **Jean-François Geerinckx**
 
 - Lundi 20/08/2018 "*Ruby*" **Jesse Fumba**
-- Mardi 21/08/2018 "*Sujet à venir*" **Eric Lavachery**
+- Mardi 21/08/2018 "*Le Soulagicon*" **Eric Lavachery**
 - Mercredi 22/08/2018 "*Le JavaScript dans tous ses états*" **Cedric Fournier**
 - Jeudi 23/08/2018 " workshop
 - Vendredi 24/08/2018 "*Les game jam*" **Nathan Houtain** (REPORTE)
@@ -122,7 +122,7 @@ du 02/07 au 06/07/2018 "*congé*"
 
 du 10/09 au 14/09/2018 "*congé*"
 
-- Lundi 17/09/2018 "*Sujet à venir*" **???**
+- Lundi 17/09/2018 "*Haxe*" **Eric Lavachery**
 - Mardi 18/09/2018 "*Sujet à venir*" **???**
 - Mercredi 19/09/2018 "*Sujet à venir*" **???**
 - Jeudi 20/09/2018 "*Sujet à venir*" **???**
