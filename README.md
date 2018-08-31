@@ -93,6 +93,7 @@ Via le terminal :
 - Broker de messaging et modèle pub/sub
 - Système de long-polling
 - Neo4J et DB graphes
+- Neuromarketing
 - ...
 
 
