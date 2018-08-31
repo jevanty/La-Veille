@@ -8,18 +8,15 @@ Format à respecter:
 
 ## L'agenda des veilles à Lovelace 2
 
-- Mercredi 29/08/2018, "**Sujet**", *Geoffrey Poelmans*
-- Jeudi 30/08/2018,"**Sujet**", *Guillaume Bare*
-- Vendredi 31/09/2018, "**Sujet**", *Mariane Niwemfura*
 - Lundi 03/09/2018, "**Sujet**", *Andrea Pinna*
 - Mardi  04/09/2018, "**Sujet**", *Julie Connerotte*
-- Mercredi 05/09/2018, "**Sujet**", *Michael Debus*
-- Jeudi 06/09/2018, "**Sujet**", *Liliane, Mamane*
-- Vendredi 07/09/2018, "**Sujet**", *Sammuel Janssens*
+- Mercredi 05/09/2018, "**Sujet**", *Liliane, Mamane*
+- jeudi 06/09/2018, "**Sujet**", *Sammuel Janssens*
+- vendredi 07/09/2018, "**Sujet**", *Mico Latorre Gaëtano*
 
 - **Lundi 10/09/2018, Debut de vacances**
 
-- Lundi 17/09/2018, "**Sujet**", *Mico Latorre Gaëtano*
+- Lundi 17/09/2018, "**Sujet**", *Mariane Niwemfura*
 - Mardi 18//09/2018, "**Sujet**", *Ludo Hautecoeur*
 
 
@@ -107,3 +104,5 @@ Format à respecter:
 - Vendredi 24/08/2018, "**Comment faire une bonne présentation**", *Sourech Bauts*
 - Lundi 27/08/2018, "**Communication non-violente et feedback**", *Quang Son Le*
 - Mardi 28/08/2018, "**Langage de programmation**", *Claudiu Cornea*
+- Mercredi 29/08/2018, "**CARTES GRAPHIQUES NEWS**", *Geoffrey Poelmans*
+- Jeudi 30/08/2018,"**HTTPS**", *Guillaume Bare*
