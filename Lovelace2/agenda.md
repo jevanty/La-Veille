@@ -116,5 +116,5 @@ Format à respecter:
 - Mardi 28/08/2018, "**Langage de programmation**", *Claudiu Cornea*
 - Mercredi 29/08/2018, "**CARTES GRAPHIQUES NEWS**", *Geoffrey Poelmans*
 - Jeudi 30/08/2018,"**HTTPS**", *Guillaume Bare*
-- Lundi 03/09/2018, "**Android sur linux**", *Andrea Pinna*
+- Lundi 03/09/2018, "**Android sur linux**",[lien](https://docs.google.com/presentation/d/10Sd4XC6-dv8_E4w4kw-75s-Hutz3vmRa7gaAmV4yF6c/edit?usp=sharing) *Andrea Pinna*
 
