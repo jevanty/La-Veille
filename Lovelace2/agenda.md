@@ -3,21 +3,31 @@
 
 
 Format à respecter:
-- date (dd/mm/yyyy) , "**Sujet**" ,  *Prénom et Nom*, Lien (si nécessaire)
+- date (dd/mm/yyyy) , "** **" ,  *Prénom et Nom*, Lien (si nécessaire)
 
 
 ## L'agenda des veilles à Lovelace 2
 
-- Lundi 03/09/2018, "**Sujet**", *Andrea Pinna*
-- Mardi  04/09/2018, "**Sujet**", *Julie Connerotte*
-- Mercredi 05/09/2018, "**Sujet**", *Liliane, Mamane*
-- jeudi 06/09/2018, "**Sujet**", *Sammuel Janssens*
+- Mardi  04/09/2018, "**Cerveau et web**", *Julie Connerotte*
+- Mercredi 05/09/2018, "**Sujet**", *Sammuel Janssens*
+- Jeudi 06/09/2018, "**Sujet**", *Liliane, Mamane*
 - vendredi 07/09/2018, "**Sujet**", *Mico Latorre Gaëtano*
 
 - **Lundi 10/09/2018, Debut de vacances**
 
-- Lundi 17/09/2018, "**Sujet**", *Mariane Niwemfura*
-- Mardi 18//09/2018, "**Sujet**", *Ludo Hautecoeur*
+- Lundi 17/09/2018, "**???**", *Mariane Niwemfura*
+- Mardi 18//09/2018, "**???**", *Ludo Hautecoeur*
+- Mercredi 19/09/2018, "**???**", *Dhoore Ludovic*
+- Jeudi 20/09/2018, "**???**", *Anthony Sel*
+- Vendredi 21/09/2018, "**???**", *Dylan Valente*
+- Lundi 24/09/2018, "**???**", *Baptiste Firket*
+- Mardi 25/09/2018, "**?**", *Stéphane Wyns*
+- Mercredi 26/09/2018, "**???**" *Meilyn Andrade*
+- Jeudi 27/09/2018, "**???**", *Morgane Meganck*
+- Vendredi 28/09/2018, "**???**", *Pedro Seromenho*
+- Lundi 01/10/2018, "**???**", *Mostapha Tahri*
+- Mardi 02/10/2018  "**???**", *Nadir Mohamed Ali*
+- Mercredi 03/10/2018: "**???**", *Romain Vandevoorde*
 
 
 
@@ -106,3 +116,5 @@ Format à respecter:
 - Mardi 28/08/2018, "**Langage de programmation**", *Claudiu Cornea*
 - Mercredi 29/08/2018, "**CARTES GRAPHIQUES NEWS**", *Geoffrey Poelmans*
 - Jeudi 30/08/2018,"**HTTPS**", *Guillaume Bare*
+- Lundi 03/09/2018, "**Android sur linux**", *Andrea Pinna*
+
