@@ -114,11 +114,11 @@ du 02/07 au 06/07/2018 "*congé*"
 
 ### Septembre
 
-- Lundi 03/09/2018 "*Sujet à venir*" **Stéphane Wilfort**
-- Mardi 04/09/2018 "*Sujet à venir*" **???**
+- Lundi 03/09/2018 "*Mystère et boule de gomme*" **Stéphane Wilfort**
+- Mardi 04/09/2018 "*le Chargé de veille technologique*" **Alexandre Infanti**
 - Mercredi 05/09/2018 "*Sujet à venir*" **Guillaume Kreit***
-- Jeudi 06/09/2018 "*Sujet à venir*" **???**
-- Vendredi 07/09/2018 "*Sujet à venir*" **???**
+- Jeudi 06/09/2018 "*Sujet à venir*" **Massimo Regaglia**
+- Vendredi 07/09/2018 "*Sujet à venir*" **Ajay Shinde**
 
 du 10/09 au 14/09/2018 "*congé*"
 
