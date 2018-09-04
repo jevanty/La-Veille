@@ -114,7 +114,7 @@ du 02/07 au 06/07/2018 "*congé*"
 
 ### Septembre
 
-- Lundi 03/09/2018 "*Mystère et boule de gomme*" **Stéphane Wilfort**
+- Lundi 03/09/2018 "*UML*" **Stéphane Wilfort**
 - Mardi 04/09/2018 "*Le chargé de veille technologique*" **Alexandre Infanti**
 - Mercredi 05/09/2018 "*Sujet à venir*" **Guillaume Kreit***
 - Jeudi 06/09/2018 "*Sujet à venir*" **Massimo Regaglia**
