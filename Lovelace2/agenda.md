@@ -8,8 +8,7 @@ Format à respecter:
 
 ## L'agenda des veilles à Lovelace 2
 
-- Mardi  04/09/2018, "**Cerveau et web**", *Julie Connerotte*
-- Mercredi 05/09/2018, "**Sujet**", *Sammuel Janssens*
+- Mercredi 05/09/2018, "**Julie**", *Sammuel Janssens*
 - Jeudi 06/09/2018, "**Sujet**", *Liliane, Mamane*
 - vendredi 07/09/2018, "**Sujet**", *Mico Latorre Gaëtano*
 
@@ -117,4 +116,5 @@ Format à respecter:
 - Mercredi 29/08/2018, "**CARTES GRAPHIQUES NEWS**", *Geoffrey Poelmans*
 - Jeudi 30/08/2018,"**HTTPS**", *Guillaume Bare*
 - Lundi 03/09/2018, "**Android sur linux**",[lien](https://docs.google.com/presentation/d/10Sd4XC6-dv8_E4w4kw-75s-Hutz3vmRa7gaAmV4yF6c/edit?usp=sharing) *Andrea Pinna*
+- Mardi  04/09/2018, "**Brain&Web**", *Julie Connerotte*;
 
