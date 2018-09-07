@@ -8,12 +8,6 @@ Format à respecter:
 
 ## L'agenda des veilles à Lovelace 2
 
-- Mercredi 05/09/2018, "**Julie**", *Sammuel Janssens*
-- Jeudi 06/09/2018, "**Sujet**", *Liliane, Mamane*
-- vendredi 07/09/2018, "**Sujet**", *Mico Latorre Gaëtano*
-
-- **Lundi 10/09/2018, Debut de vacances**
-
 - Lundi 17/09/2018, "**???**", *Mariane Niwemfura*
 - Mardi 18//09/2018, "**???**", *Ludo Hautecoeur*
 - Mercredi 19/09/2018, "**???**", *Dhoore Ludovic*
@@ -117,4 +111,6 @@ Format à respecter:
 - Jeudi 30/08/2018,"**HTTPS**", *Guillaume Bare*
 - Lundi 03/09/2018, "**Android sur linux**",[lien](https://docs.google.com/presentation/d/10Sd4XC6-dv8_E4w4kw-75s-Hutz3vmRa7gaAmV4yF6c/edit?usp=sharing) *Andrea Pinna*
 - Mardi  04/09/2018, "**Brain&Web**", *Julie Connerotte*;
+- Mercredi 05/09/2018, "**RUBY**", *Sammuel Janssens*
+- Jeudi 06/09/2018, "**HTACCES**", *Liliane, Mamane*
 
