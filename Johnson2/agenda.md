@@ -123,7 +123,7 @@ du 02/07 au 06/07/2018 "*congé*"
 du 10/09 au 14/09/2018 "*congé*"
 
 - Lundi 17/09/2018 "*Haxe*" **Eric Lavachery**
-- Mardi 18/09/2018 "*Sujet à venir*" **???**
+- Mardi 18/09/2018 "*cryto monaie*" **Hakan Poyraz**
 - Mercredi 19/09/2018 "*Sujet à venir*" **???**
 - Jeudi 20/09/2018 "*Sujet à venir*" **???**
 - Vendredi 21/09/2018 "*Sujet à venir*" **???**
