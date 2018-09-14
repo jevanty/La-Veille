@@ -6,3 +6,5 @@ Format to be respected:
 
 ## Swartz 2 Watch agenda
 
+- Monday 17/09/2018, "What is Blockchain technology", Valerian Thomas
+
