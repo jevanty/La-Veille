@@ -8,3 +8,5 @@ Format to be respected:
 
 - Monday 17/09/2018, "What is Blockchain technology", Valerian Thomas
 
+Monday 22/10/2018, "Responsive Design", Lily Danhaive
+
