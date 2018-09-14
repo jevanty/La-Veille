@@ -11,4 +11,5 @@ Format to be respected:
 Monday 22/10/2018, "Responsive Design", Lily Danhaive
 
 - 26/09/2018, "Net Neutrality" Damian Szacun
+- 18/10/2018, "Neuromarketing" Jérémy Vantighem
 
