@@ -6,7 +6,7 @@ Format to be respected:
 
 ## Swartz 2 Watch agenda
 
-- Monday 17/09/2018, "What is Blockchain technology", Valerian Thomas
+- Monday 17/09/2018, "What is Blockchain technology", Valerian Thomas(not in the list of topics on purpose)
 
 Monday 22/10/2018, "Responsive Design", Lily Danhaive
 
