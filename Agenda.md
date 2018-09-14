@@ -6,3 +6,4 @@ Format to be respected:
 
 ## Swartz 2 Watch agenda
 
+- 26/09/2018, "Net Neutrality" Damian Szacun
